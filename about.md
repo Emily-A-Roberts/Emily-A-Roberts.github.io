@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-WRITE ABOUT ME HERE
+Estuarine and coastal systems provide an ideal blend of economical importance and anthropogenic activity. Invertebrate ecophysiology 
 
 ### More Information
 

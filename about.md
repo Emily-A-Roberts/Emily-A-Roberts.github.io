@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Estuarine and coastal systems provide an ideal blend of economical importance and anthropogenic activity. Invertebrate ecophysiology 
+### About
+Estuaries and coasts write an ideal recipe for marine research, education, and societal integration to work harmoneously. I am particularly inspired by semi-sessile invertebrates that lack effective mobility to evade effects of anthropogenic activity. Previous research used non-invasive heartbeat rate sensors in-situ as a proxy for whole animal metabolic activity under diel-cycling hypoxia ([Volkenborn lab](https://you.stonybrook.edu/samuelgurr/)) . "Bio-sensing" via real-time physiological activity (e.g. bivalve cardiac and valve gape response) can display a charasmatic perpective for water quality standardization and habitat restoration amoung urban systems. I used such concepts to transform heavy STEM topics into interactive exhibits for public consumption ([cited in New York Times](https://www.nytimes.com/2018/06/05/nyregion/new-york-today-hudson-river-fish.html)).
 
-### More Information
+I am PhD student at Univeristy of Rhode Island in the Putnam Lab. My current research is focused on the Pacific geoduck (Panopea generosa).
+If you would like to find more information about the Putnam Laboratory at the University of Rhode Island, please visit [Putnam Lab page](http://putnamlab.com/).
 
-wwww.putnamlab.com
 
 ### Contact me
 

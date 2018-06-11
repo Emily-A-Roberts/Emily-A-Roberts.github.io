@@ -23,9 +23,21 @@ If you would like to find more information about the Putnam Laboratory at the Un
 <center>120 Flagg Road, Kingston RI 02881</center>
 
 
-### POSITIONS HELD
+### Curriculum Vitae
 
-Time|Position| Affiliation
+### EDUCATION
+
+Date|Position| Affiliation
+--|--|--
+Current |	PhD in Evolution and Marine Biology | University of Rhode Island, Kingston (URI)
+ 2017 |	MSc in Marine Science | Stony Brook University, Stony Brook (SBU)
+- | Thesis| Effects of diel-cycling hypoxia on the cardiac activity and growth of Argopecten irradians
+2014 |	BSc in Marine Biology | University of New Haven, West Haven (UNH)
+- | Thesis | Arm regeneration of Asterias forbesi under hypoxic conditions
+
+
+### POSITIONS HELD
+Date|Position| Institution or Affiliation
 --|--|--
 2016 - 17	| Research Assistant and Marine Science Consultant | The Living - Autodesk, 25 Broadway, NY
 2016 - 17 		| Professional Assistant | Suffolk County Community College, NY
@@ -39,18 +51,7 @@ Time|Position| Affiliation
 2012 | Research Intern | NOAA National Marine Fisheries Science Center, Milford CT
 - | Project | The effects of ocean acidification and dissolved nitrogen sources on the growth and elemental stoichiometry of the marine diatoms Thalassiosira pseudonana and Thalassiosira weissflogii
 
-### EDUCATION
-
-Date|Position| Affiliation
---|--|--
-Current |	PhD in Evolution and Marine Biology | University of Rhode Island, Kingston (URI)
- 2017 |	MSc in Marine Science | Stony Brook University, Stony Brook (SBU)
-- | Thesis| Effects of diel-cycling hypoxia on the cardiac activity and growth of Argopecten irradians
-2014 |	BSc in Marine Biology | University of New Haven, West Haven (UNH)
-- | Thesis | Arm regeneration of Asterias forbesi under hypoxic conditions
-
 ### PUBLICATIONS
-(= equal contribution)
 
 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=fBPOor0AAAAJ&view_op=list_works&gmla=AJsN-F4bgxyVHUhXgjnyJN8RPcFlU1hR870NjwyXR_08fhY0BBwQMVhfy84bCx_vLBXphwY6pVl8n7-YFpVMAnzenWylkDjdcyvqsYwlzog-wEOcy9nSke4)
 
@@ -59,7 +60,7 @@ Current |	PhD in Evolution and Marine Biology | University of Rhode Island, King
 Gurr SJ, Goleski J, Lima FP, Seabra R, Gobler CJ, Volkenborn N (2018) Cardiac responses of the bay scallop Argopecten irradians to diel-cycling hypoxia. J Exp Mar Biol Ecol 500:18–29
 
 
-### RESEARCH GRANTS
+### RESEARCH GRANTS AND AWARDS
 
 2017	| 	NSF Graduate REsearch Fellowship Program (Honorable Mention)
 
@@ -68,3 +69,30 @@ Gurr SJ, Goleski J, Lima FP, Seabra R, Gobler CJ, Volkenborn N (2018) Cardiac re
 2015 - 16  | Dean's Scholarship, SBU ($4,000)
 
 2012, 2013  | Summmer Undergraduate REsearch Fellowship, UNH ($3,000)
+
+
+### INVITED SPEAKER:
+**Gurr, S.J.**, November 2017. Hypoxia is not for the Faint-Hearted: Biosensing in a Stressful Ocean Suffolk County Community College, Biology Department Outreach Program. Selden, NY.
+
+**Gurr, S.J.**, October 2017. Sensing hypoxia: What can physiology tell us about water quality? – River Project Wet Lab Look-in. Pier 40, NY, NY.
+
+### PRESENTATIONS:
+
+**Gurr, S.J.**, August 2017. Bio-Sensing as a Method for Evaluating Water Quality. Autodesk – 2017 Intern Project Showcase. NY, NY.
+
+**Gurr, S.J.**, Goleski, J.A., Lima, F.P., Seabra, R., Gobler, C.J., Volkenborn, N., April 2017. Effects of diel-cycling hypoxia to cardiac activity and growth of Argopecten irradians. Master’s Thesis Presentation. Stony Brook University. Stony Brook, NY.
+
+**Gurr, S.J.**, May 2014. Arm regeneration of Asterias forbesi under hypoxic conditions. Marine Biology Senior Research Thesis Symposium. University of New Haven, West Haven, CT.
+
+### POSTERS:
+**Gurr, S.J.**, Goleski, J.A., Lima, F.P., Seabra, R., Gobler, C.J., Volkenborn, N., April 2017. Effects of diel-cycling hypoxia to cardiac activity and growth of Argopecten irradians. Poster presented at the School of Marine and Atmospheric Science, Southampton Spring Lecture Series; State of the Bays 2017. Southampton, NY.
+
+**Gurr, S.J.**, Graffam, M., Dwyer, I., Volkenborn, N., Sept 24 2016. Hypoxia: Not for the faint of heart, heart rate in a stressful world. Poster presented at the Submerge! Marine Science Festival. NY, NY.
+
+**Gurr, S.J.**, Goleski, J.A., Lima, F.P., Seabra, R., Gobler, C.J., Volkenborn, N., March 2016. Tell it from the heart: Cardiac responses of Argopecten irradians to diel-cycling hypoxia. Poster presented at the Benthic Ecology Meeting. Portland, Maine.
+
+**Gurr, S.J.**, Goleski, J.A., Lima, F.P., Seabra, R., Gobler, C.J., Volkenborn, N., March 2016. Tell it from the heart: Cardiac responses of Argopecten irradians to diel-cycling hypoxia. Poster presented at the Stony Brook University Graduate Student Symposium. Stony Brook, NY.
+
+**Gurr, S.J.**, Zajac, R., September 2013. Assessment of high marsh occupation by populations of the fiddler crab Uca pugnax across salt marsh systems on the CT shore. Poster presented at the Summer Undergraduate Research Fellowship Symposium. University of New Haven, West Haven, CT.
+
+**Gurr, S.J.**, Meseck, S., Simjouw, J., September 2012. The effects of ocean acidification and dissolved nitrogen sources on the growth and elemental stoichiometry of the marine diatoms Thalassiosira pseudonana and Thalassiosira weissflogii. Poster presented at the Summer Undergraduate Research Fellowship Symposium. University of New Haven, West Haven, CT.

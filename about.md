@@ -47,7 +47,7 @@ Date|Position| Institution or Affiliation
 2015	|  New York Sea Grant (NYSG) Scholar | Stony Brook University
   | Grant title  | Cardiac Responses of Benthic Invertebrates to Hypoxic Stress
 2013  | Research Fellow | University of New Haven  | Project  | Assessment of high marsh occupation by populations of the fiddler crab Uca pugnax across salt marsh systems on the CT shore
-2012 | Research Intern | NOAA National Marine Fisheries Science Center, Milford CT | Project | The effects of ocean acidification and dissolved nitrogen sources on the growth and elemental stoichiometry of the marine diatoms Thalassiosira pseudonana and Thalassiosira weissflogii
+2012 | Research Intern | NOAA Northeast Fisheries Science Center, Milford CT | Project | The effects of ocean acidification and dissolved nitrogen sources on the growth and elemental stoichiometry of the marine diatoms Thalassiosira pseudonana and Thalassiosira weissflogii
 
 ### PUBLICATIONS
 

@@ -31,9 +31,9 @@ Date|Position| Affiliation
 --|--|--
 Current |	PhD in Evolution and Marine Biology | University of Rhode Island, Kingston (URI)
  2017 |	MSc in Marine Science | Stony Brook University, Stony Brook (SBU)
-- | Thesis| Effects of diel-cycling hypoxia on the cardiac activity and growth of Argopecten irradians
+ | Thesis| Effects of diel-cycling hypoxia on the cardiac activity and growth of Argopecten irradians
 2014 |	BSc in Marine Biology | University of New Haven, West Haven (UNH)
-- | Thesis | Arm regeneration of Asterias forbesi under hypoxic conditions
+ | Thesis | Arm regeneration of Asterias forbesi under hypoxic conditions
 
 
 ### POSITIONS HELD
@@ -42,10 +42,10 @@ Date|Position| Institution or Affiliation
 2016 - 17	| Research Assistant and Marine Science Consultant | The Living - Autodesk, 25 Broadway, NY
 2016 - 17 		| Professional Assistant | Suffolk County Community College, NY
 2016  | Research Intern  | The Living - Autodesk, 25 Broadway, NY
--  | Project  | Bio-sensing as a method for evaluating water quality
+  | Project  | Bio-sensing as a method for evaluating water quality
 2015 - 16 | Teaching Assistant | Stony Brook University
 2015	|  New York Sea Grant (NYSG) Scholar | Stony Brook University
--  | Grant title  | Cardiac Responses of Benthic Invertebrates to Hypoxic Stress
+  | Grant title  | Cardiac Responses of Benthic Invertebrates to Hypoxic Stress
 2013  | Research Fellow | University of New Haven
 -  | Project  | Assessment of high marsh occupation by populations of the fiddler crab Uca pugnax across salt marsh systems on the CT shore
 2012 | Research Intern | NOAA National Marine Fisheries Science Center, Milford CT

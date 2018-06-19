@@ -66,13 +66,13 @@ Gurr SJ, Goleski J, Lima FP, Seabra R, Gobler CJ, Volkenborn N (2018) Cardiac re
 
 2015 - 16  | Dean's Scholarship, SBU ($4,000)
 
-2012, 2013  | Summmer Undergraduate REsearch Fellowship, UNH ($3,000)
+2012, 2013  | Summmer Undergraduate Research Fellowship, UNH ($3,000)
 
 
 ### INVITED SPEAKER:
-**Gurr, S.J.**, November 2017. Hypoxia is not for the Faint-Hearted: Biosensing in a Stressful Ocean Suffolk County Community College, Biology Department Outreach Program. Selden, NY.
+**Gurr, S.J.**, November 2017. Hypoxia is not for the Faint-Hearted: Biosensing in a Stressful Ocean. Suffolk County Community College, Biology Department Outreach Program. Selden, NY.
 
-**Gurr, S.J.**, October 2017. Sensing hypoxia: What can physiology tell us about water quality? – River Project Wet Lab Look-in. Pier 40, NY, NY.
+**Gurr, S.J.**, October 2017. Sensing hypoxia: What can physiology tell us about water quality? River Project Wet Lab Look-in. Pier 40, NY, NY.
 
 ### PRESENTATIONS:
 

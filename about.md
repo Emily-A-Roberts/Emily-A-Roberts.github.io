@@ -38,7 +38,7 @@ Current |	PhD in Evolution and Marine Biology | University of Rhode Island, King
 
 
 ### POSITIONS HELD
-Date|Position| Affiliation
+Date | Position | Institution or Affiliation
 --|--|--
 2017-18| Research Assistant and Marine Science Consultant | The Living Autodesk, 25 Broadway, NY
 2017 - 18 | Professional Assistant | Suffolk County Community College, NY

@@ -29,7 +29,7 @@ Estuaries and coasts write an ideal recipe for marine research, education, and s
 ### EDUCATION
 
 Date|Position| Affiliation
---|--|--
+-----|-----|-----
 Current |	PhD in Evolution and Marine Biology | University of Rhode Island, Kingston (URI)
  2017 |	MSc in Marine Science | Stony Brook University, Stony Brook (SBU)
  | Thesis| Effects of diel-cycling hypoxia on the cardiac activity and growth of Argopecten irradians
@@ -39,7 +39,6 @@ Current |	PhD in Evolution and Marine Biology | University of Rhode Island, King
 
 ### POSITIONS HELD
 Date|Position| Affiliation
------|--|--
 Current |	PhD in Evolution and Marine Biology | University of Rhode Island, Kingston (URI)
  2017 |	MSc in Marine Science | Stony Brook University, Stony Brook (SBU)
  | Thesis| Effects of diel-cycling hypoxia on the cardiac activity and growth of Argopecten irradians

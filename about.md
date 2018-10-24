@@ -19,7 +19,7 @@ Estuaries and coasts write an ideal recipe for marine research, education, and s
 
 ## <center>Samuel J. Gurr</center>
 <center>PhD Student, Evolution and Marine Biology </center>
-<center>Department of Biological Sciences</center>
+<center>College of Environment and Life Sciences</center>
 <center>University of Rhode Island</center>
 <center>120 Flagg Road, Kingston RI 02881</center>
 
@@ -40,15 +40,17 @@ Current |	PhD in Evolution and Marine Biology | University of Rhode Island, King
 ### POSITIONS HELD
 Date|Position| Institution or Affiliation
 --|--|--
-2016 - 17	| Research Assistant and Marine Science Consultant | The Living - Autodesk, 25 Broadway, NY
-2016 - 17 		| Professional Assistant | Suffolk County Community College, NY
-2016  | Research Intern  | The Living - Autodesk, 25 Broadway, NY
-  | Project  | Bio-sensing as a method for evaluating water quality
+2017-18| Research Assistant and Marine Science Consultant | The Living - Autodesk, 25 Broadway, NY
+2017 - 18 | Professional Assistant | Suffolk County Community College, NY
+2017 | Research Intern  | The Living - Autodesk, 25 Broadway, NY
+-  | Project  | Bio-sensing as a method for evaluating water quality
 2015 - 16 | Teaching Assistant | Stony Brook University
 2015	|  New York Sea Grant (NYSG) Scholar | Stony Brook University
-  | Grant title  | Cardiac Responses of Benthic Invertebrates to Hypoxic Stress
-2013  | Research Fellow | University of New Haven  | Project  | Assessment of high marsh occupation by populations of the fiddler crab Uca pugnax across salt marsh systems on the CT shore
-2012 | Research Intern | NOAA Northeast Fisheries Science Center, Milford CT | Project | The effects of ocean acidification and dissolved nitrogen sources on the growth and elemental stoichiometry of the marine diatoms Thalassiosira pseudonana and Thalassiosira weissflogii
+-  | Grant title  | Cardiac Responses of Benthic Invertebrates to Hypoxic Stress
+2013  | Research Fellow | University of New Haven
+- | Project  | Assessment of high marsh occupation by populations of the fiddler crab Uca pugnax across salt marsh systems on the CT shore
+2012 | Research Intern | NOAA Northeast Fisheries Science Center, Milford CT
+- | Project | The effects of ocean acidification and dissolved nitrogen sources on the growth and elemental stoichiometry of the marine diatoms Thalassiosira pseudonana and Thalassiosira weissflogii
 
 ### PUBLICATIONS
 

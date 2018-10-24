@@ -40,11 +40,11 @@ Current |	PhD in Evolution and Marine Biology | University of Rhode Island, King
 ### POSITIONS HELD
 Date|Position| Affiliation
 --|--|--
-2017 - 18 | Research Assistant and Marine Science Consultant | The Living Autodesk, 25 Broadway, NY
-2017 - 18 | Professional Assistant | Suffolk County Community College, NY
+2017-18 | Research Assistant and Marine Science Consultant | The Living Autodesk, 25 Broadway, NY
+2017-18 | Professional Assistant | Suffolk County Community College, NY
 2017 | Research Intern  | The Living - Autodesk, 25 Broadway, NY
  | Project | Bio-sensing as a method for evaluating water quality
-2015 - 16 | Teaching Assistant | Stony Brook University
+2015-16 | Teaching Assistant | Stony Brook University
 2015	|  New York Sea Grant (NYSG) Scholar | Stony Brook University
  | Grant title  | Cardiac Responses of Benthic Invertebrates to Hypoxic Stress
 2013  | Research Fellow | University of New Haven

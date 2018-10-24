@@ -38,7 +38,13 @@ Current |	PhD in Evolution and Marine Biology | University of Rhode Island, King
 
 
 ### POSITIONS HELD
-
+Date|Position| Affiliation
+--|--|--
+Current |	PhD in Evolution and Marine Biology | University of Rhode Island, Kingston (URI)
+ 2017 |	MSc in Marine Science | Stony Brook University, Stony Brook (SBU)
+ | Thesis| Effects of diel-cycling hypoxia on the cardiac activity and growth of Argopecten irradians
+2014 |	BSc in Marine Biology | University of New Haven, West Haven (UNH)
+ | Thesis | Arm regeneration of Asterias forbesi under hypoxic conditions
 2017-18 | Research Assistant and Marine Science Consultant | The Living Autodesk, 25 Broadway, NY
 2017-18 | Professional Assistant | Suffolk County Community College, NY
 2017 | Research Intern  | The Living - Autodesk, 25 Broadway, NY

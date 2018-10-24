@@ -65,13 +65,13 @@ Date|Position| Affiliation
 
 ### RESEARCH GRANTS AND AWARDS
 
-2017	| 	NSF Graduate REsearch Fellowship Program (Honorable Mention)
+2017 - NSF Graduate REsearch Fellowship Program (Honorable Mention)
 
-2017	| Jerry R. Schubel Graduate Fellowship Endowment, School of MArine and Atmospheric Sciences, SBU ($3,000)
+2017 - Jerry R. Schubel Graduate Fellowship Endowment, School of MArine and Atmospheric Sciences, SBU ($3,000)
 
-2015 - 16  | Dean's Scholarship, SBU ($4,000)
+2015-16 - Dean's Scholarship, SBU ($4,000)
 
-2012, 2013  | Summmer Undergraduate Research Fellowship, UNH ($3,000)
+2012, 2013 - Summmer Undergraduate Research Fellowship, UNH ($3,000)
 
 
 ### INVITED SPEAKER:

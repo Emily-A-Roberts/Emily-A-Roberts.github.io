@@ -57,9 +57,9 @@ Date|Position| Affiliation
 
 [Researchgate](https://www.researchgate.net/profile/Samuel_Gurr)
 
-Gurr SJ, Dwyer I, Goleski J, Lima FP, Seabra R, Gobler CJ, Volkenborn N (submitted for review) Acclimatization to diel-cycling hypoxia reduces the responsiveness to changing oxygen availability in adult bay scallop Argopecten irradians. Maine Ecology Progress Series.
+**Gurr SJ.**, Dwyer I, Goleski J, Lima FP, Seabra R, Gobler CJ, Volkenborn N (submitted for review) Acclimatization to diel-cycling hypoxia reduces the responsiveness to changing oxygen availability in adult bay scallop Argopecten irradians. Maine Ecology Progress Series.
 
-Gurr SJ, Goleski J, Lima FP, Seabra R, Gobler CJ, Volkenborn N (2018) Cardiac responses of the bay scallop Argopecten irradians to diel-cycling hypoxia. J Exp Mar Biol Ecol 500:18–29
+**Gurr SJ.**, Goleski J, Lima FP, Seabra R, Gobler CJ, Volkenborn N (2018) Cardiac responses of the bay scallop Argopecten irradians to diel-cycling hypoxia. J Exp Mar Biol Ecol 500:18–29
 
 
 ### RESEARCH GRANTS AND AWARDS

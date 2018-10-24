@@ -5,11 +5,12 @@ permalink: /about/
 ---
 
 ### About
-Estuaries and coasts write an ideal recipe for marine research, education, and societal integration to work harmoneously. I am particularly inspired by semi-sessile invertebrates that lack effective mobility to evade effects of anthropogenic activity. Previous research used non-invasive heartbeat rate sensors in-situ as a proxy for whole animal metabolic activity under diel-cycling hypoxia ([Volkenborn lab](https://you.stonybrook.edu/samuelgurr/)) . "Bio-sensing" via real-time physiological activity (e.g. bivalve cardiac and valve gape response) can display a charasmatic perpective for water quality standardization and habitat restoration amoung urban systems. I used such concepts to transform heavy STEM topics into interactive exhibits for public consumption ([cited in New York Times](https://www.nytimes.com/2018/06/05/nyregion/new-york-today-hudson-river-fish.html)).
-
-I am PhD student at Univeristy of Rhode Island in the Putnam Lab. My current research is focused on the Pacific geoduck (Panopea generosa).
+I am PhD student at Univeristy of Rhode Island in the Putnam Lab. My current research is focused on enhacement stradegies to improve the Pacific geoduck (Panopea generosa) aquaculture industry through OA stress conditioning.
 If you would like to find more information about the Putnam Laboratory at the University of Rhode Island, please visit [Putnam Lab page](http://putnamlab.com/).
 
+More:
+Estuaries and coasts write an ideal recipe for marine research, education, and societal integration to work harmoneously. I am particularly inspired by semi-sessile invertebrates that lack effective mobility to evade effects of anthropogenic activity. Previous research used non-invasive heartbeat rate sensors in-situ as a proxy for whole animal metabolic activity under diel-cycling hypoxia ([Volkenborn lab](https://you.stonybrook.edu/samuelgurr/)) . "Bio-sensing" via real-time physiological activity (e.g. bivalve cardiac and valve gape response) can display a charasmatic perpective for water quality standardization and habitat restoration amoung urban systems. I used such concepts to transform heavy STEM topics into interactive exhibits for public education ([cited in New York Times](https://www.nytimes.com/2018/06/05/nyregion/new-york-today-hudson-river-fish.html))
+([RiverProjectNYC](https://www.riverprojectnyc.org/visiting-research/))
 
 ### Contact me
 
@@ -54,6 +55,8 @@ Date|Position| Institution or Affiliation
 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=fBPOor0AAAAJ&view_op=list_works&gmla=AJsN-F4bgxyVHUhXgjnyJN8RPcFlU1hR870NjwyXR_08fhY0BBwQMVhfy84bCx_vLBXphwY6pVl8n7-YFpVMAnzenWylkDjdcyvqsYwlzog-wEOcy9nSke4)
 
 [Researchgate](https://www.researchgate.net/profile/Samuel_Gurr)
+
+Gurr SJ, Dwyer I, Goleski J, Lima FP, Seabra R, Gobler CJ, Volkenborn N (submitted for review) Acclimatization to diel-cycling hypoxia reduces the responsiveness to changing oxygen availability in adult bay scallop Argopecten irradians. Maine Ecology Progress Series.
 
 Gurr SJ, Goleski J, Lima FP, Seabra R, Gobler CJ, Volkenborn N (2018) Cardiac responses of the bay scallop Argopecten irradians to diel-cycling hypoxia. J Exp Mar Biol Ecol 500:18–29
 

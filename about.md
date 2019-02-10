@@ -39,7 +39,7 @@ Current |	PhD in Evolution and Marine Biology | University of Rhode Island, King
 
 ### POSITIONS HELD
 
-2017-18 | Research Assistant and Marine Science Consultant | The Living Autodesk, 25 Broadway, NY
+2017-current | Marine Science Consultant | The Living, 25 Broadway, NY
 2017-18 | Professional Assistant | Suffolk County Community College, NY
 2017 | Research Intern  | The Living - Autodesk, 25 Broadway, NY
  | Project | Bio-sensing as a method for evaluating water quality
@@ -56,17 +56,33 @@ Current |	PhD in Evolution and Marine Biology | University of Rhode Island, King
 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=fBPOor0AAAAJ&view_op=list_works&gmla=AJsN-F4bgxyVHUhXgjnyJN8RPcFlU1hR870NjwyXR_08fhY0BBwQMVhfy84bCx_vLBXphwY6pVl8n7-YFpVMAnzenWylkDjdcyvqsYwlzog-wEOcy9nSke4)
 
 [Researchgate](https://www.researchgate.net/profile/Samuel_Gurr)
+**Peer-reviewed journal articles**
+**Gurr SJ.**, Dwyer I, Goleski J, Lima FP, Seabra R, Gobler CJ, Volkenborn N (in review) Acclimatization to diel-cycling hypoxia reduces the responsiveness to changing oxygen availability in adult bay scallop Argopecten irradians. Maine Ecology Progress Series.
 
-**Gurr SJ.**, Dwyer I, Goleski J, Lima FP, Seabra R, Gobler CJ, Volkenborn N (submitted for review) Acclimatization to diel-cycling hypoxia reduces the responsiveness to changing oxygen availability in adult bay scallop Argopecten irradians. Maine Ecology Progress Series.
+Levinton. J, Volkenborn, N., **Gurr, S.J.**, Correal, K., Vallacres, S., Seabra, R., Lima, F.P., (in review). Temperature-related heartbeat rate and a comparison to other temperature-related measures of performance in the fiddler crab Uca pugilator
 
 **Gurr SJ.**, Goleski J, Lima FP, Seabra R, Gobler CJ, Volkenborn N (2018) Cardiac responses of the bay scallop Argopecten irradians to diel-cycling hypoxia. J Exp Mar Biol Ecol 500:18–29
+
+**Application Notes**
+Gurr, S.J., Rollando, C., Chan, L.L., Vadopalas, B., Putnam, H.M., Roberts, S., 2018. Alternative image-
+based technique for phytoplankton cell counts in shellfish aquaculture. Cellometer Applications, Nexcelom Bioscience LLC.
+
+**University Press**
+**Gurr, S.J.**, Zajac, R., 2013. Assessment of high marsh occupation by populations of the fiddler crab Uca pugnax across salt marsh systems on the CT shore. Summer Undergraduate Research Fellowship Program. Proceedings Volume 2013, University of New Haven, 31-36.
+**Gurr, S.J.**, Meseck, S., Simjouw, J., 2012. The effects of ocean acidification and dissolved nitrogen sources on the growth and elemental stoichiometry of the marine diatoms Thalassiosira pseudonana and Thalassiosira weissflogii. Summer Undergraduate Research Fellowship Program. Proceedings Volume 2012, University of New Haven, 35-41.
+
+**Book Chapters**
+**Gurr, S.J.**, Wang, R., Benjamin, D., (book in preparation). Mussel Sensors: Live bivalves for evaluating water quality with Samuel Gurr. Autodesk architectural publication.
+
 
 
 ### RESEARCH GRANTS AND AWARDS
 
+2019 - George Burlew Scholarship Fund ($500)
+
 2017 - NSF Graduate REsearch Fellowship Program (Honorable Mention)
 
-2017 - Jerry R. Schubel Graduate Fellowship Endowment, School of MArine and Atmospheric Sciences, SBU ($3,000)
+2017 - Jerry R. Schubel Graduate Fellowship Endowment, School of Marine and Atmospheric Sciences, SBU ($3,000)
 
 2015-16 - Dean's Scholarship, SBU ($4,000)
 
@@ -79,6 +95,7 @@ Current |	PhD in Evolution and Marine Biology | University of Rhode Island, King
 **Gurr, S.J.**, October 2017. Sensing hypoxia: What can physiology tell us about water quality? River Project Wet Lab Look-in. Pier 40, NY, NY.
 
 ### PRESENTATIONS:
+**Gurr, S.J.**, Roberts, S., Vadopalas, B., Putnam, H.M., January 2019. Effects of repeated short-term exposure to ocean acidification on juvenile Pacific geoduck Panopea generosa. Northeast Aquaculture Convention and Exposition. Boston, Massachusetts.
 
 **Gurr, S.J.**, August 2017. Bio-Sensing as a Method for Evaluating Water Quality. Autodesk – 2017 Intern Project Showcase. NY, NY.
 

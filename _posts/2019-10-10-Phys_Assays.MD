@@ -57,14 +57,14 @@ the homogenized sample (e.g. homogenized geoduck + 800ul cold PBS; **~800-900 µ
 *Note*: TAC, LP, and TP in -80°C; CI samples can stored in anthing ≤ 4°C
 
 ### 2.) Target measurements:
-#### I. Total protein
-###### Assay: Pierce(TM) BCA Protein Assay Kit (Thermo Scientific)
+###### I. Total protein
+#### Assay: Pierce(TM) BCA Protein Assay Kit (Thermo Scientific)
 
-#### II. Conditionin index
+###### II. Conditionin index
 
-#### III. Total antioxidant capcacity (CSR to oxidative stress)
-###### Assay: OxiSelect(TM) Total Antioxidant Capacity (TAC) Assay Kit (Cell Biolabs Inc.)
-#### IV. Lipid peroxidation (oxidative damage)
-###### Assay: Parameter(TM) TBARS Assay (R&D Systems Inc.)
+###### III. Total antioxidant capcacity (CSR to oxidative stress)
+#### Assay: OxiSelect(TM) Total Antioxidant Capacity (TAC) Assay Kit (Cell Biolabs Inc.)
+###### IV. Lipid peroxidation (oxidative damage)
+#### Assay: Parameter(TM) TBARS Assay (R&D Systems Inc.)
 ### 3.) Pipeline figure
 ### 4.) Example Calculation

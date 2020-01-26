@@ -28,8 +28,8 @@ Estuaries and coasts write an ideal recipe for marine research, education, and s
 
 # EDUCATION
 
-Date|Position|Affiliation |
- ---|---|--- |
+Date|Position|Affiliation
+ ---|---|---
 Current |	PhD in Evolution and Marine Biology | University of Rhode Island, Kingston (URI)
 | Project (working title)  |  Enhancement of stress resiliance to ocean acidification in Pacific geoduck _Panopea generosa_
 2017 |	MSc in Marine Science | Stony Brook University, Stony Brook (SBU)
@@ -40,8 +40,8 @@ Current |	PhD in Evolution and Marine Biology | University of Rhode Island, King
 
 # EXPERIENCE
 #### Professional Employment
-Date|Position| Affiliation
----|---|--- |
+Date|Position|Affiliation
+---|---|---
 2017-current | **Marine Science Consultant** | The Living (Autodesk), 25 Broadway, NY
 |  _about_  |  •	Provide scientific interpretation and expertise in biological oceanography to prototype and test experiments, improve proposals, write progress reports, and organize construction plans on a sustainable architecture project in the Hudson River of Lower Manhattan  •	Attend interdisciplinary discussions with teams of engineers, architects, and educators
 2017 | **Bio-sensor Research Intern**  | The Living (Autodesk), - Autodesk, 25 Broadway, NY
@@ -49,8 +49,8 @@ Date|Position| Affiliation
 
 
 #### Research Experience/Employment
-Date|Position| Affiliation
----|---|--- |
+Date|Position|Affiliation
+---|---|---
 2015-2017	|  **Research Assistant** (Master’s Thesis) | Stony Brook University, Stony Brook, NY
 |   _about_  | Thesis: “Effects of diel-cycling hypoxia to cardiac activity and growth of   _Argopecten irradians_ ” Advisors: Drs. Nils Volkenborn, Chris Gobler, and Robert Cerrato
 |   |  •	Construct sensors and underwater equipment to measure high-resolution cardiac responses of shellfish exposed to ¬in-situ diel-cycling hypoxia and lab challenges •	Create a conceptual model on in-situ cardiac activity to better understand respiratory and anaerobic inferences under exposure to dynamic environmental stressors
@@ -67,7 +67,7 @@ Date|Position| Affiliation
 |  _links_ |   [Paper](https://www.newhaven.edu/_resources/documents/academics/surf/past-projects/2012/sam-gurr-paper.pdf)
 
 #### Education and Outreach
-Date|Position| Affiliation
+Date|Position|Affiliation
 --|--|--
 2017-18 | **Professional Assistant** | Suffolk County Community College, Selden, NY
   |  _about_  |  •	Marine Biology (MAR 111) and Oceanography (MAR 105)
@@ -79,7 +79,7 @@ Date|Position| Affiliation
   | _about_   |  •	Breached the socio-economic divide of New Haven by assembling students from different districts together for team-based physics activities
 
 #### Volunteer
-Date|Position| Affiliation
+Date|Position|Affiliation
 --|--|--
 2016-2017 | **Graduate Student Committee** | Stony Brook University, Stony Brook, NY
 23 April, 2017  | **Science Fair Judge**  | Lighting Foundation Invitational Science Fair, Manhassst, NY

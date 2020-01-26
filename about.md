@@ -40,17 +40,17 @@ Current |	**PhD Evolution and Marine Biology** | University of Rhode Island, Kin
 
 # EXPERIENCE
 
-#### Professional Employment
+## Professional Employment
 
 Date|Position|Affiliation
  ---|---|---
 2017-current | **Marine Science Consultant** | The Living (Autodesk), 25 Broadway, NY
 |  _about_  |  Provide scientific interpretation and expertise in biological oceanography to prototype and test experiments, improve proposals, write progress reports, and organize construction plans on a sustainable architecture project in the Hudson River of Lower Manhattan  •	Attend interdisciplinary discussions with teams of engineers, architects, and educators
-2017 | **Bio-sensor Research Intern**  | The Living (Autodesk), - Autodesk, 25 Broadway, NY
+2017 | **Bio-sensor Research Intern**  | The Living (Autodesk), 25 Broadway, NY
 | _about_  |  Project: Bio-sensing as a method for evaluating water quality
 
 
-#### Research Experience/Employment
+## Research Experience/Employment
 
 Date|Position|Affiliation
  ---|---|---
@@ -69,7 +69,7 @@ Date|Position|Affiliation
 | _about_ | Project: The effects of ocean acidification and dissolved nitrogen sources on the growth and elemental stoichiometry of the marine diatoms _Thalassiosira pseudonana_ and _Thalassiosira weissflogii_
 |  _links_ |   [Paper](https://www.newhaven.edu/_resources/documents/academics/surf/past-projects/2012/sam-gurr-paper.pdf)
 
-#### Education and Outreach
+## Education and Outreach
 
 Date|Position|Affiliation
  --|--|--
@@ -82,7 +82,7 @@ Date|Position|Affiliation
 2010-2012 | **Educator** | Connecticut Pre-Engineering Program, 115 Water Street, New Haven, CT
 | _about_   |  •	Breached the socio-economic divide of New Haven by assembling students from different districts together for team-based physics activities
 
-#### Volunteer
+## Volunteer
 
 Date|Position|Affiliation
  --|--|--
@@ -96,7 +96,7 @@ Date|Position|Affiliation
 
 [Researchgate](https://www.researchgate.net/profile/Samuel_Gurr)
 
-### Peer-reviewed Journal Articles
+## Peer-reviewed Journal Articles
 
 **Gurr, S.J.**, Vadopalas, B., Roberts, S.R., Putnam, H.M., (submitted). Metabolic recovery and compensatory shell growth of juvenile Pacific geoduck _Panopea generosa_ following short-term exposure to acidified seawater.
 [pre-print](https://www.biorxiv.org/content/10.1101/689745v1.full)
@@ -109,15 +109,17 @@ Levinton. J, Volkenborn, N., **Gurr, S.J.**, Correal, K., Vallacres, S., Seabra,
 **Gurr SJ.**, Goleski J, Lima FP, Seabra R, Gobler CJ, Volkenborn N (2018) Cardiac responses of the bay scallop _Argopecten irradians_ to diel-cycling hypoxia. J Exp Mar Biol Ecol 500:18–29
 [Peer-reviewed publication](https://www.sciencedirect.com/science/article/pii/S0022098117304185)
 
-### Application Notes
+## Application Notes
 
 **Gurr, S.J.**, Rollando, C., Chan, L.L., Vadopalas, B., Putnam, H.M., Roberts, S., 2018. Alternative image-based technique for phytoplankton cell counts in shellfish aquaculture. Cellometer Applications, Nexcelom Bioscience LLC.
 [Link](https://www.nexcelom.com/wp-content/uploads/2018/12/1001481-revA-App-Note-Cellometer-Phytoplankton-counts-in-aquaculture.pdf)
-### Book Chapters
+
+## Book Chapters
 
 **Gurr, S.J.**, Wang, R., Benjamin, D., (book in preparation). Mussel Sensors: Live bivalves for evaluating water quality with Samuel Gurr. Autodesk architectural publication.
 
-### University Press
+## University Press
+
 **Gurr, S.J.**, Zajac, R., 2013. Assessment of high marsh occupation by populations of the fiddler crab _Uca pugnax_ across salt marsh systems on the CT shore. Summer Undergraduate Research Fellowship Program. Proceedings Volume 2013, University of New Haven, 31-36.
 [Paper](https://www.newhaven.edu/_resources/documents/academics/surf/past-projects/2013/sam-gurr-paper.pdf)
 

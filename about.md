@@ -28,8 +28,8 @@ Estuaries and coasts write an ideal recipe for marine research, education, and s
 
 # EDUCATION
 
-Date|Position| Affiliation
---|--|--
+Date|Position|Affiliation
+---|---|---
 Current |	PhD in Evolution and Marine Biology | University of Rhode Island, Kingston (URI)
   | Project (working title)  |  Enhancement of stress resiliance to ocean acidification in Pacific geoduck _Panopea generosa_
  2017 |	MSc in Marine Science | Stony Brook University, Stony Brook (SBU)
@@ -45,7 +45,7 @@ Date|Position| Affiliation
 2017-current | **Marine Science Consultant** | The Living (Autodesk), 25 Broadway, NY
  |  _about_  |  •	Provide scientific interpretation and expertise in biological oceanography to prototype and test experiments, improve proposals, write progress reports, and organize construction plans on a sustainable architecture project in the Hudson River of Lower Manhattan  •	Attend interdisciplinary discussions with teams of engineers, architects, and educators
 2017 | **Bio-sensor Research Intern**  | The Living (Autodesk), - Autodesk, 25 Broadway, NY
- | _about_   |  Project: Bio-sensing as a method for evaluating water quality
+ | _about_  |  Project: Bio-sensing as a method for evaluating water quality
 
 
 #### Research Experience/Employment
@@ -133,12 +133,12 @@ Levinton. J, Volkenborn, N., **Gurr, S.J.**, Correal, K., Vallacres, S., Seabra,
 
 2012, 2013 - Summmer Undergraduate Research Fellowship, UNH ($3,000)
 
-### INVITED SPEAKER:
+# INVITED SPEAKER:
 **Gurr, S.J.**, November 2017. Hypoxia is not for the Faint-Hearted: Biosensing in a Stressful Ocean. Suffolk County Community College, Biology Department Outreach Program. Selden, NY.
 
 **Gurr, S.J.**, October 2017. Sensing hypoxia: What can physiology tell us about water quality? River Project Wet Lab Look-in. Pier 40, NY, NY.
 
-### PRESENTATIONS:
+# PRESENTATIONS:
 **Gurr, S.J.**, Vadopalas, B., Roberts, S.R., Putnam, H.M., September 2019. Metabolic recovery and compensatory shell growth of juvenile Pacific geoduck _Panopea generosa_ following short-term exposure to acidified seawater. Pacific Coast Shellfish Growers Association 73rd Annual Shellfish Conference and Tradeshow. Portland, Oregon.
 
 **Gurr, S.J.**, Roberts, S., Vadopalas, B., Putnam, H.M., January 2019. Effects of repeated short-term exposure to ocean acidification on juvenile Pacific geoduck  _Panopea generosa _. Northeast Aquaculture Convention and Exposition. Boston, Massachusetts.
@@ -149,7 +149,7 @@ Levinton. J, Volkenborn, N., **Gurr, S.J.**, Correal, K., Vallacres, S., Seabra,
 
 **Gurr, S.J.**, May 2014. Arm regeneration of  _Asterias forbesi_ under hypoxic conditions. Marine Biology Senior Research Thesis Symposium. University of New Haven, West Haven, CT.
 
-### POSTERS:
+# POSTERS:
 **Gurr, S.J.**, Goleski, J.A., Lima, F.P., Seabra, R., Gobler, C.J., Volkenborn, N., April 2017. Effects of diel-cycling hypoxia to cardiac activity and growth of _Argopecten irradians_. Poster presented at the School of Marine and Atmospheric Science, Southampton Spring Lecture Series; State of the Bays 2017. Southampton, NY.
 
 **Gurr, S.J.**, Graffam, M., Dwyer, I., Volkenborn, N., Sept 24 2016. Hypoxia: Not for the faint of heart, heart rate in a stressful world. Poster presented at the Submerge! Marine Science Festival. NY, NY.

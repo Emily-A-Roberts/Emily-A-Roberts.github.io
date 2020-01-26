@@ -37,59 +37,6 @@ Current |	**PhD Evolution and Marine Biology** | University of Rhode Island, Kin
 2014 |	**B.Sc. Marine Biology, Chemistry (minor)** | University of New Haven, West Haven (UNH)
 | Thesis | Arm regeneration of _Asterias forbesi_ under hypoxic conditions
 
-
-# EXPERIENCE
-
-## Professional Employment
-
-Date|Position|Affiliation
- ---|---|---
-2017-current | **Marine Science Consultant** | The Living (Autodesk), 25 Broadway, NY
-|  _about_  |  Provide scientific interpretation and expertise in biological oceanography to prototype and test experiments, improve proposals, write progress reports, and organize construction plans on a sustainable architecture project in the Hudson River of Lower Manhattan  •	Attend interdisciplinary discussions with teams of engineers, architects, and educators
-2017 | **Bio-sensor Research Intern**  | The Living (Autodesk), 25 Broadway, NY
-| _about_  |  Project: Bio-sensing as a method for evaluating water quality
-
-
-## Research Experience/Employment
-
-Date|Position|Affiliation
- ---|---|---
-2015-2017	|  **Research Assistant** (Master’s Thesis) | Stony Brook University, Stony Brook, NY
-| _about_ | Thesis: “Effects of diel-cycling hypoxia to cardiac activity and growth of   _Argopecten irradians_ ” Advisors: Drs. Nils Volkenborn, Chris Gobler, and Robert Cerrato
-|   |  •	Construct sensors and underwater equipment to measure high-resolution cardiac responses of shellfish exposed to ¬in-situ diel-cycling hypoxia and lab challenges •	Create a conceptual model on in-situ cardiac activity to better understand respiratory and anaerobic inferences under exposure to dynamic environmental stressors
-2016	|  **Long Island Water Quality Monitoring**  | Stony Brook University, Stony Brook, NY
-|    _about_  |  •	Sampled coastal sites weekly for chlorophyll, salinity, temperature, dissolved oxygen, fecal coliform bacteria, turbidity, and harmful algae for the Long Island Water Quality Index program – Gobler Lab, funded by News 12. (PI: Christopher Gobler)
-2015	|  **New York Sea Grant (NYSG) Scholar**  | Stony Brook University
-|  _about_ | Grant title:Cardiac Responses of Benthic Invertebrates to Hypoxic Stress
-|   |  •	Complete a novel ecophysiological study on the heartbeat rate of threatened shellfish and lead outreach events to share findings with broad audiences. (PI: Nils Volkenborn)
-2013  | **Research Fellow**  | University of New Haven, West Haven, CT
-|   _about_  | Project: Assessment of high marsh occupation by populations of the fiddler crab _Uca pugnax_ across salt marsh systems on the CT shore.
-|  _links_ |   [Paper](https://www.newhaven.edu/_resources/documents/academics/surf/past-projects/2013/sam-gurr-paper.pdf)
-2012 | **Research Intern**  | NOAA Northeast Fisheries Science Center, Milford, CT
-| _about_ | Project: The effects of ocean acidification and dissolved nitrogen sources on the growth and elemental stoichiometry of the marine diatoms _Thalassiosira pseudonana_ and _Thalassiosira weissflogii_
-|  _links_ |   [Paper](https://www.newhaven.edu/_resources/documents/academics/surf/past-projects/2012/sam-gurr-paper.pdf)
-
-## Education and Outreach
-
-Date|Position|Affiliation
- --|--|--
-2017-18 | **Professional Assistant** | Suffolk County Community College, Selden, NY
-|  _about_  |  •	Marine Biology (MAR 111) and Oceanography (MAR 105)
-2015-17 | **Research Mentor** | Stony Brook University
-| _about_   | •	Guide two honors research high-school students to test their hypothesis; advise experiments on the cardiac responses of Crepidula fornicata and Hemigrapsus sanguineus to salinity and temperature stress, respectively •	Students presented results at the 2017 Lighting Foundation Invitational Science Fair
-2011-2014 | **Marine Science Educator** | Schooner Inc. 60 South Water Street, New Haven, CT
-| _about_   |  •	Created a curriculum with classroom and field techniques to build awareness of marine conservation, pollution, and restoration of local goods and services •	Attended public outreach events and conventions to encourage STEM careers in youth
-2010-2012 | **Educator** | Connecticut Pre-Engineering Program, 115 Water Street, New Haven, CT
-| _about_   |  •	Breached the socio-economic divide of New Haven by assembling students from different districts together for team-based physics activities
-
-## Volunteer
-
-Date|Position|Affiliation
- --|--|--
-2016-2017 | **Graduate Student Committee** | Stony Brook University, Stony Brook, NY
-23 April, 2017  | **Science Fair Judge**  | Lighting Foundation Invitational Science Fair, Manhassst, NY
-24 September 2016  | **Educator** |  NYC Submerge! Marine Science Festival, Pier 27, NY
-
 # PUBLICATIONS
 
 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=fBPOor0AAAAJ&view_op=list_works&gmla=AJsN-F4bgxyVHUhXgjnyJN8RPcFlU1hR870NjwyXR_08fhY0BBwQMVhfy84bCx_vLBXphwY6pVl8n7-YFpVMAnzenWylkDjdcyvqsYwlzog-wEOcy9nSke4)
@@ -168,3 +115,55 @@ Levinton. J, Volkenborn, N., **Gurr, S.J.**, Correal, K., Vallacres, S., Seabra,
 **Gurr, S.J.**, Zajac, R., September 2013. Assessment of high marsh occupation by populations of the fiddler crab _Uca pugnax_ across salt marsh systems on the CT shore. Poster presented at the Summer Undergraduate Research Fellowship Symposium. University of New Haven, West Haven, CT.
 
 **Gurr, S.J.**, Meseck, S., Simjouw, J., September 2012. The effects of ocean acidification and dissolved nitrogen sources on the growth and elemental stoichiometry of the marine diatoms _Thalassiosira pseudonana_ and _Thalassiosira weissflogii_. Poster presented at the Summer Undergraduate Research Fellowship Symposium. University of New Haven, West Haven, CT.
+
+# EXPERIENCE
+
+## Professional Employment
+
+Date|Position|Affiliation
+ ---|---|---
+2017-current | **Marine Science Consultant** | The Living (Autodesk), 25 Broadway, NY
+|  _about_  |  Provide scientific interpretation and expertise in biological oceanography to prototype and test experiments, improve proposals, write progress reports, and organize construction plans on a sustainable architecture project in the Hudson River of Lower Manhattan  •	Attend interdisciplinary discussions with teams of engineers, architects, and educators
+2017 | **Bio-sensor Research Intern**  | The Living (Autodesk), 25 Broadway, NY
+| _about_  |  Project: Bio-sensing as a method for evaluating water quality
+
+
+## Research Experience/Employment
+
+Date|Position|Affiliation
+ ---|---|---
+2015-2017	|  **Research Assistant** (Master’s Thesis) | Stony Brook University, Stony Brook, NY
+| _about_ | Thesis: “Effects of diel-cycling hypoxia to cardiac activity and growth of   _Argopecten irradians_ ” Advisors: Drs. Nils Volkenborn, Chris Gobler, and Robert Cerrato
+|   |  •	Construct sensors and underwater equipment to measure high-resolution cardiac responses of shellfish exposed to ¬in-situ diel-cycling hypoxia and lab challenges •	Create a conceptual model on in-situ cardiac activity to better understand respiratory and anaerobic inferences under exposure to dynamic environmental stressors
+2016	|  **Long Island Water Quality Monitoring**  | Stony Brook University, Stony Brook, NY
+|    _about_  |  •	Sampled coastal sites weekly for chlorophyll, salinity, temperature, dissolved oxygen, fecal coliform bacteria, turbidity, and harmful algae for the Long Island Water Quality Index program – Gobler Lab, funded by News 12. (PI: Christopher Gobler)
+2015	|  **New York Sea Grant (NYSG) Scholar**  | Stony Brook University
+|  _about_ | Grant title:Cardiac Responses of Benthic Invertebrates to Hypoxic Stress
+|   |  •	Complete a novel ecophysiological study on the heartbeat rate of threatened shellfish and lead outreach events to share findings with broad audiences. (PI: Nils Volkenborn)
+2013  | **Research Fellow**  | University of New Haven, West Haven, CT
+|   _about_  | Project: Assessment of high marsh occupation by populations of the fiddler crab _Uca pugnax_ across salt marsh systems on the CT shore.
+|  _links_ |   [Paper](https://www.newhaven.edu/_resources/documents/academics/surf/past-projects/2013/sam-gurr-paper.pdf)
+2012 | **Research Intern**  | NOAA Northeast Fisheries Science Center, Milford, CT
+| _about_ | Project: The effects of ocean acidification and dissolved nitrogen sources on the growth and elemental stoichiometry of the marine diatoms _Thalassiosira pseudonana_ and _Thalassiosira weissflogii_
+|  _links_ |   [Paper](https://www.newhaven.edu/_resources/documents/academics/surf/past-projects/2012/sam-gurr-paper.pdf)
+
+## Education and Outreach
+
+Date|Position|Affiliation
+ --|--|--
+2017-18 | **Professional Assistant** | Suffolk County Community College, Selden, NY
+|  _about_  |  •	Marine Biology (MAR 111) and Oceanography (MAR 105)
+2015-17 | **Research Mentor** | Stony Brook University
+| _about_   | •	Guide two honors research high-school students to test their hypothesis; advise experiments on the cardiac responses of Crepidula fornicata and Hemigrapsus sanguineus to salinity and temperature stress, respectively •	Students presented results at the 2017 Lighting Foundation Invitational Science Fair
+2011-2014 | **Marine Science Educator** | Schooner Inc. 60 South Water Street, New Haven, CT
+| _about_   |  •	Created a curriculum with classroom and field techniques to build awareness of marine conservation, pollution, and restoration of local goods and services •	Attended public outreach events and conventions to encourage STEM careers in youth
+2010-2012 | **Educator** | Connecticut Pre-Engineering Program, 115 Water Street, New Haven, CT
+| _about_   |  •	Breached the socio-economic divide of New Haven by assembling students from different districts together for team-based physics activities
+
+## Volunteer
+
+Date|Position|Affiliation
+ --|--|--
+2016-2017 | **Graduate Student Committee** | Stony Brook University, Stony Brook, NY
+23 April, 2017  | **Science Fair Judge**  | Lighting Foundation Invitational Science Fair, Manhassst, NY
+24 September 2016  | **Educator** |  NYC Submerge! Marine Science Festival, Pier 27, NY

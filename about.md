@@ -43,34 +43,34 @@ Current |	PhD in Evolution and Marine Biology | University of Rhode Island, King
 Date|Position| Affiliation
 --|--|--
 2017-current | **Marine Science Consultant** | The Living (Autodesk), 25 Broadway, NY
- |  _about_  |  •	Provide scientific interpretation and expertise in biological oceanography to prototype and test experiments, improve proposals, write progress reports, and organize construction plans on a sustainable architecture project in the Hudson River of Lower Manhattan  •	Attend interdisciplinary discussions with teams of engineers, architects, and educators
+  |  _about_  |  •	Provide scientific interpretation and expertise in biological oceanography to prototype and test experiments, improve proposals, write progress reports, and organize construction plans on a sustainable architecture project in the Hudson River of Lower Manhattan  •	Attend interdisciplinary discussions with teams of engineers, architects, and educators
 2017 | **Bio-sensor Research Intern**  | The Living (Autodesk), - Autodesk, 25 Broadway, NY
- | _about_  |  Project: Bio-sensing as a method for evaluating water quality
+  | _about_  |  Project: Bio-sensing as a method for evaluating water quality
 
 
 #### Research Experience/Employment
 Date|Position| Affiliation
 --|--|--
 2015-2017	|  **Research Assistant** (Master’s Thesis) | Stony Brook University, Stony Brook, NY
- |   _about_  | Thesis: “Effects of diel-cycling hypoxia to cardiac activity and growth of   _Argopecten irradians_ ” Advisors: Drs. Nils Volkenborn, Chris Gobler, and Robert Cerrato
+  |   _about_  | Thesis: “Effects of diel-cycling hypoxia to cardiac activity and growth of   _Argopecten irradians_ ” Advisors: Drs. Nils Volkenborn, Chris Gobler, and Robert Cerrato
   |   |  •	Construct sensors and underwater equipment to measure high-resolution cardiac responses of shellfish exposed to ¬in-situ diel-cycling hypoxia and lab challenges •	Create a conceptual model on in-situ cardiac activity to better understand respiratory and anaerobic inferences under exposure to dynamic environmental stressors
 2016	|  **Long Island Water Quality Monitoring**  | Stony Brook University, Stony Brook, NY
   |    _about_  |  •	Sampled coastal sites weekly for chlorophyll, salinity, temperature, dissolved oxygen, fecal coliform bacteria, turbidity, and harmful algae for the Long Island Water Quality Index program – Gobler Lab, funded by News 12. (PI: Christopher Gobler)
 2015	|  **New York Sea Grant (NYSG) Scholar**  | Stony Brook University
-|  _about_ | Grant title:Cardiac Responses of Benthic Invertebrates to Hypoxic Stress
+  |  _about_ | Grant title:Cardiac Responses of Benthic Invertebrates to Hypoxic Stress
    |   |  •	Complete a novel ecophysiological study on the heartbeat rate of threatened shellfish and lead outreach events to share findings with broad audiences. (PI: Nils Volkenborn)
 2013  | **Research Fellow**  | University of New Haven, West Haven, CT
- |   _about_  | Project: Assessment of high marsh occupation by populations of the fiddler crab _Uca pugnax_ across salt marsh systems on the CT shore.
+  |   _about_  | Project: Assessment of high marsh occupation by populations of the fiddler crab _Uca pugnax_ across salt marsh systems on the CT shore.
   |  _links_ |   [Paper](https://www.newhaven.edu/_resources/documents/academics/surf/past-projects/2013/sam-gurr-paper.pdf)
 2012 | **Research Intern**  | NOAA Northeast Fisheries Science Center, Milford, CT
    | _about_ | Project: The effects of ocean acidification and dissolved nitrogen sources on the growth and elemental stoichiometry of the marine diatoms _Thalassiosira pseudonana_ and _Thalassiosira weissflogii_
-  |  _links_ |   [Paper](https://www.newhaven.edu/_resources/documents/academics/surf/past-projects/2012/sam-gurr-paper.pdf)
+    |  _links_ |   [Paper](https://www.newhaven.edu/_resources/documents/academics/surf/past-projects/2012/sam-gurr-paper.pdf)
 
 #### Education and Outreach
 Date|Position| Affiliation
 --|--|--
 2017-18 | **Professional Assistant** | Suffolk County Community College, Selden, NY
- |  _about_  |  •	Marine Biology (MAR 111) and Oceanography (MAR 105)
+  |  _about_  |  •	Marine Biology (MAR 111) and Oceanography (MAR 105)
 2015-17 | **Research Mentor** | Stony Brook University
   | _about_   | •	Guide two honors research high-school students to test their hypothesis; advise experiments on the cardiac responses of Crepidula fornicata and Hemigrapsus sanguineus to salinity and temperature stress, respectively •	Students presented results at the 2017 Lighting Foundation Invitational Science Fair
 2011-2014 | **Marine Science Educator** | Schooner Inc. 60 South Water Street, New Haven, CT

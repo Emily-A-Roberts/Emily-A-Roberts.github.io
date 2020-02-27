@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AOX Identification, blast, Muscle (via Jalview), Pfam, Augustus, Uniprot"
+title: "AOX Pgenerosa identification"
 ---
 # OBJECTIVE
 NOTE: the following protocol was completed with the geoduck genome in preparation for primer design and qPCR of a target protein Alternative oxidase

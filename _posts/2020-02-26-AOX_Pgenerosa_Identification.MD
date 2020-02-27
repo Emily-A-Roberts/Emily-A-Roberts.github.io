@@ -36,17 +36,17 @@ NOTE: add *-outfmt* 6 == qsequid	ssequid	pident	length	mismatch	gapopen	qstart	q
 *-num_descriptions* 5 == the five seqeunces with the highest bitscore
 
 ## **3.) View output and determine the gene(s) representative of the query/protein target (i.e. *AOX_seq.fasta*)**
-![PGEN_.00g108770 is the best hit!](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/AOX_blastn_outfmt6.jpg "blastn outformat 6")
+![PGEN_.00g108770 is the best hit!](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/AOX_blastn_outfmt6.JPG "blastn outformat 6")
 
 ## **4.) Use Muscle in Jalview**
 # Objective:
 view the regions of overlap between the PGEN_.00g108770 gene and the AOX_seq fasta
 
-![Putative exon regions!](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Muscle_Jalview_AOX.jpg "Muscle screenshot")
+![Putative exon regions!](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Muscle_Jalview_AOX.JPG "Muscle screenshot")
 
 * many regions without no overlap -- likley untraslated regions (UTRs)
 
-![UTRs](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Muscle_Jalview_AOX_introns.jpg "Muscle screenshot 2")
+![UTRs](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Muscle_Jalview_AOX_introns.JPG "Muscle screenshot 2")
 
 ## **4.) Augustus**
 # Objective:
@@ -57,7 +57,7 @@ run sequence against a similar or related reference -- the reference applies a c
 * apply Pisaster as the reference (sea star)
 
 NOTE: the output from Augustus give you your full coding sequence (nucleotides) and amino acid seq data for the putative full exon region (i.e. Pisaster as ref criteria)
-![Augustus gff output](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Augustus_Pgen_Pisaster.jpg "Augustus output")
+![Augustus gff output](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Augustus_Pgen_Pisaster.JPG "Augustus output")
 
 ## **4.) Pfam (Augustus follow-up)**
 # Objective:
@@ -67,7 +67,7 @@ determine the protein family of the protein sequence output from Augustus.
 
 * high evidence that PGEN_.00g108770 is AOX! Focus on cover via "to and "end" of the Hidden-Markov-Model in relation to the HMM "length"
 
-![Pfam result](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Pfam_augustus_followup.jpg "AOX family")
+![Pfam result](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Pfam_augustus_followup.JPG "AOX family")
 
 ## **4.) NCBI blastp (Augustus follow-up)**
 # Objective:
@@ -78,4 +78,4 @@ NOTE: remember we used Pisaster as a reference criteria in Augustus to map UTRs 
 
 * high evidence that PGEN_.00g108770 is AOX and related to the bivalve taxa!!!
 
-![NCBI blastp result](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/NCBI_blastp_Augustus_followup.jpg "blastp NCBI")
+![NCBI blastp result](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/NCBI_blastp_Augustus_followup.JPG "blastp NCBI")

@@ -62,6 +62,7 @@ All trays will be rinsed during this trip. Sixty animals will be allocated in 3 
 |  Treament 8  |  severe _Ω_ = 0.1|  moderate _Ω_ = 0.4|
 |  Treament 9  |  severe _Ω_ = 0.1|  severe _Ω_ = 0.1|
 
+
 | Tanks total | Small tanks tray<sup>-1</sup> | Large tank tray<sup>-1</sup> |
 |----|-----|-----|
 |  36 | 3 | 1 |

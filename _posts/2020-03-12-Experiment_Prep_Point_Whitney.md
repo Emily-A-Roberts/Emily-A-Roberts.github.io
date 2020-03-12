@@ -26,9 +26,9 @@ Prepare heathstack for 8-month rearing trial starting from 30-day-old pedivelige
 
 - nine trays total each fed by a conical sump for three total _p_CO<sub>2</sub> treatments
 -
-![heathstack](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020_heathstack.JPG "heathstack")
+![heathstack](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020_heathstack.jpg "heathstack")
 
-![heathtray](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020_setter_heath_tray.JPG "heathtray")
+![heathtray](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020_setter_heath_tray.jpg "heathtray")
 
 ## Algae plan
 
@@ -36,9 +36,9 @@ Prepare heathstack for 8-month rearing trial starting from 30-day-old pedivelige
 - a flow switch in the feed conical prevents pumps from burning
 - *our plan* discussed with Mat that 400 - 600 L will be possible per day to add to this conical. This equates a rate of 1/2 GPH for each heathtray
 
-![Algae Tank](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020_algae_tank.JPG "algae_tank")
+![Algae Tank](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020_algae_tank.jpg "algae_tank")
 
-![Algae Line](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020_algae_line.JPG "algae_line")
+![Algae Line](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020_algae_line.jpg "algae_line")
 
 ## Reciprocal treatment transition
 
@@ -46,7 +46,7 @@ Prepare heathstack for 8-month rearing trial starting from 30-day-old pedivelige
 - review "2020-03-12_8_month_OA_Experiment_Plan" for further details
 - replication will require custom tanks with trays acting as a water. It is critical that seawater is not exchanged between tanks
 
-![Experiment tanks](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020_tanks.JPG "tanks")
+![Experiment tanks](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020_tanks.jpg "tanks")
 
 ## Scope for Growth build
 - **P** = [***C*** - (***R*** + ***U***)]
@@ -55,4 +55,4 @@ Prepare heathstack for 8-month rearing trial starting from 30-day-old pedivelige
     - ***C*** ingestion rate and absportion efficiency:
 
 - For ingestion rate & absortion efficency, it is critical that sw+seston is homogenous for Nexcelom Cellometer readings pre and post incubation. The animal(s) will also need to be suspended on a platform to avoid disturbance from the magnetic stir bar below.
-![Ingestion rate chamber](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020_ingestion_rate_container.JPG "Ingestion rate chamber")
+![Ingestion rate chamber](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020_ingestion_rate_container.jpg "Ingestion rate chamber")

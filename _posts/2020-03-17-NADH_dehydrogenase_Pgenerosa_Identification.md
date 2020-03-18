@@ -69,9 +69,9 @@ determine the protein family of the protein sequence output from Augustus.
 
 * copy the protein sequence (nucleotide will give the same result) and paste into Pfam "Sequence Search" - press Go
 
-* high evidence that PGEN_.00g299160 is AOX! Focus on cover via "to and "end" of the Hidden-Markov-Model in relation to the HMM "length"
+* high evidence that PGEN_.00g299160 is NADH dehydrogenase! Focus on cover via "to and "end" of the Hidden-Markov-Model in relation to the HMM "length"
 
-![Pfam result](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/NADH_Pgen_Pfam.JPG "AOX family")
+![Pfam result](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/NADH_Pgen_Pfam.JPG "NADH_dehydrogenase family")
 
 # **5.) NCBI blastp (Augustus follow-up)**
 ### Objective:

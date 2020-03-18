@@ -23,7 +23,7 @@ NOTE: txt format can be converted into fasta by opening the file in sublime, not
 #### SYNTAX in terminal  *blastn (nucelotide) AOX_seq.fasta to the whole annotated database*
 * **blastn**
 * **-db** ~/Documents/genomes/Pgenerosa_database/Pgenerosa.GENES
-* **-query** ~/Documents/blastdb/AOX_seq.fasta
+* **-query**
 * **-out** ~/Documents/blastdb/AOX_blastn_GENES.txt
 * **-evalue** 0.001
 * **-word_size** 11

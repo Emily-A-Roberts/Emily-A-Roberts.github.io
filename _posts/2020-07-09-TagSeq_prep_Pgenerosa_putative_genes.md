@@ -130,7 +130,7 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
 
 #### 1. ADP/ATP
 
-    - Expected ATP: **AOX pathway  ** RET/dysfunction pathway
+  - Expected ATP: **AOX pathway  ** RET/dysfunction pathway
 
 #### 2. NAD+:NADH
 

@@ -32,9 +32,9 @@ tags: geoduck, histology
 
 #### View histology slide photo  (Example here: ID #041)
 
-![Sample 041](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/gonad_sample041.JPG "gonad sample")
+![gonad_sample041](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/gonad_sample041.JPG "gonad_sample041")
 
-1) Open the jpeg in ImageJ and set the scalpe
+1) Open the jpeg in ImageJ and set the scale
   - zoom in to see the scale bar (i.e. 100um in this photo)
   - left click the line tool and trace this scale bar
   - go to... Analyze -> Set Scale
@@ -109,4 +109,4 @@ Spermatozoa + Spermatocytes = **D**
 
 #### ..now for corrections
 
-**divide** targets (lumen, total acini area, spermatozoa, spermatocytes, vesticular connective tissue) **by Total image area** to compare the reproductive status between individuals and correct for the oval area selected. 
+**divide** targets (lumen, total acini area, spermatozoa, spermatocytes, vesticular connective tissue) **by Total image area** to compare the reproductive status between individuals and correct for the oval area selected.

@@ -13,7 +13,7 @@ tags: geoduck, proteins, tagseq, blast
 ##### stress acclimation improves performance and oxidative Status under subsequent stress encounter(s)
 
  life stage  | age  | Stress acclimation (Y/N) | intensity (uatm)  | Repeat exposure (Y/N) | intensity (uatm) | Respiration rate | Shell growth | Tissue growth (AFDW) |Antioxidant capacity |
- -----| ----  | --- | --   | --- | --   | --   | --    | --    | --    |
+ --------: | --------: | --------: | --------: | --------: | --------:| --------: | --------: |  --------: | --------: |
 postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilization  | N  | 900 µatm (ambient) |  N | 900 µatm (ambient)  | - | - | ↓''   | ↑''
 |   | N  | 900 µatm (ambient) | Y  | 3000 and 4900 µatm (moderate & severe)  | ↓' |  ↓'' |  ↓'' | ↑''
   |   |  Y | 3000 µatm (moderate)| N  | 900 µatm (ambient)  | ↓'' | -  | ↑'' | ↓''
@@ -49,15 +49,19 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
 
 ##### 1. AOX
 
+*putative P. generosa seqID:* **PGEN_.00g108770**
+
 Why alternate oxidase (AOX)?
 
-*putative P. generosa seqID:* **PGEN_.00g108770**
+
   - Function: catalyzes the oxidation of ubiquinol and reduction of oxygen to water. Protons taken from uqiquinolnot the mitchondrial matrix (unlike the cytochrome c oxidase reaction; complex IV).
   - Not inhibited by cyanide (unlike complex IV) - allows cyanide-resistance OXPHOS
   - Altogether, allows ATP production and reduces ROS under envrionmental disturbances.
 
   -  AOX is previously thought to be limited to plants, fungi and protists but has    recently expanded to a variety of animalia taxa
+
   - AOX is theorized to be prevalent in animals that have frequent transitions from hypoxia to reoxygenation during thier life history. AOX s likley help these taxa survive transitions from anaerobic conditions without substantial damage cause to membrrane lipids and proteins by ROS (McDonald and Gospodaryov 2019).
+
   - In Eastern oyster, Crassostrea virginica, there are two splice forms of AOX mRNA which are expressed in a number of tissues (Liu and Guo, 2017) and assist resitance to hypoxia-reoxygenation
 
 What is mitchondrial dysfunction?

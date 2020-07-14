@@ -67,9 +67,9 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
 
 ### 1. AOX
 
-*putative P. generosa seqID:* **PGEN_.00g108770**
+- *putative P. generosa seqID:* **PGEN_.00g108770**
 
-##### Why alternate oxidase (AOX)?
+##### Why alternative oxidase (AOX)?
   - Function:
     - catalyzes the oxidation of ubiquinol and reduction of oxygen to water. Protons taken from uqiquinolnot the mitchondrial matrix (unlike the cytochrome c oxidase reaction; complex IV).
     - allows ATP production and reduces ROS under envrionmental disturbances.
@@ -84,17 +84,29 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
 ##### In summary...
   - AOX is an alterantive mitchondrial pathway known as an adaptive response in bivalve taxa under envrionmnental stress. Thus, the lower antioxidant response and greater performance of the stress-accliamted phenotype in 2019 (table above) eludes to higher ATP and lower ROS -- this may be driven by enhanced mitchondrial flexibility (i.e. via AOX) due to prior stress priming!
 
-### 2. SIR2
+### 2. Sirtuins (SIR1, SIR2, SIR3, SIR5)
 
-*putative P. generosa seqID:* **PGEN_.00g048200**
+- *putative P. generosa seqID:* **PGEN_.00g048200** (SRT1)
+
+- *putative P. generosa seqID:* **PGEN_.00g012340** & **PGEN_.00g012350** (SRT2)
+
+- *putative P. generosa seqID:* **PGEN_.00g153700** (SRT5)
+
+- *putative P. generosa seqID:* **PGEN_.00g033970** (SRT7)
 
 ##### About:
-  - sirtuins are NAD+ dehydrogenases
-  - deacetylation of proteins can increase proteostasis and alleviate dysfunction - i.e. sirtuins can increase the antioxidant response
+  - sirtuins are NAD+ dehydrogenases involved in post-traslational modification of histones and proteins in the cytosol (Figure below)
+  - Several sirtuins:
+    - Mitochondria: SRTs 3, 4, and 5
+    - Cytsol: SRT2
+    - Nucleus: SRTs 1, 6,7
+  - deacetylation of proteins can increase proteostasis and alleviate dysfunction - i.e. sirtuins can increase the antioxidant response (SRT 3 and 5) and promote forward electron transport/beta oxidation in the mitchondria (SRT 1); both suggest a sirtuin-mediated cellular response under mitchondrial dysfunction (Figure below)
+
+![sirtuin_mitonuclear](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/sirtuin_mitonuclear.JPG "sirtuin_mitonuclear")
 
 ### 3. Mitchondrial carrier protein
 
-*putative P. generosa seqID:* **PGEN_.00g063670**
+- *putative P. generosa seqID:* **PGEN_.00g063670**
 
 ##### About:
   - uncoupling proteins are activated by lipid peroxidation - thus they are a response of oxidative stress and are increased during dysfunction
@@ -102,29 +114,55 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
 
 ### 4. NADH dehydrogenase
 
-*putative P. generosa seqID:* **PGEN_.00g299160**
+- *putative P. generosa seqID:* **PGEN_.00g299160**
+
+- PGEN_.00g128010
+
+PGEN_.00g133830
+
+PGEN_.00g166160
+
+PGEN_.00g175650
+
+PGEN_.00g187890
+
+PGEN_.00g189740
+
+PGEN_.00g201180
+
+PGEN_.00g205440
 
 ##### About:
   - complex 1 of mitochondrial electron transport chain.
-  - major source of mithcondrial ROS production and increases activity under dysfunction
+  - major source of mithcondrial ROS production and increases activity under dysfunction - particularly knwon to increase activity under reverse electron transport under increase proton and pH gradient of the inner mitochondrial membrance
+
+  > Note: This suggests mitchondrial dysfunction under intracellular acidosis and hypercapnia!
 
 ### 5. Cytochrome c reductase
 
-*putative P. generosa seqID:* **PGEN_00g275780**
+- *putative P. generosa seqID:* **PGEN_00g275780** (Pfam: Ubiquinol-cytochrome C reductase complex 14kD subunit)
 
 ##### About:
   - complex III of mitochonrial electron transport chain
   - major source of mithcondrial ROS production; may reduce abundance/activity under mitchondrial dysfunction - Example: high ratio complexI:complexIII is an indicator of reverese electron transport
 
-### 6. Jumonji C and Ten-eleven translocation
+### 6 & 7. Jumonji C and Ten-eleven translocation (TET)
 
-*putative P. generosa seqID:* **PGEN_.00g257110** (Jumonji-C)
+- *putative P. generosa seqID:* **PGEN_.00g257110** (Jumonji-C)
+
+- *putative P. generosa seqID:* **?** (TET)
 
 ##### About:
   - Jumonji-C and TET function in the demethylation of histones and DNA, respectively - a post-translational (histones) and DNA modification that effects transcriptional regulation
   - Why is this interesting in response to OA stress?
     - Jumonji-C and TET activity is dependent on Fe2+. Chelated Fe2+ is released during intracellular acidosis - further Fe2+ is reduced to Fe3+ from the Fenton reaction also catalyzed by acidosis.
   - Altogether, an iron-acidosis interaction may have downstream effects on non-genetic transcriptional regulation - this is an interesting direction to investigate the role of epigentics in mitonucluear crosstalk and hormetic conditioning under OA conditions!
+
+### 8. DNMT 3a & DNMT 3b
+
+- *putative P. generosa seqID:* **PGEN_.00g029420** (DNMT 3a; Sam White's Pgenerosa annotation)
+
+- *putative P. generosa seqID:* **PGEN_.00g067800** (Pfam: C-5 cytosine-specific DNA methylase; Cysteine rich ADD domain in DNMT3)
 
 ### II) Metabolomics
 

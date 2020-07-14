@@ -18,9 +18,9 @@ tags: geoduck, proteins, tagseq, blast
  --------: | --------: | --------: | --------: | --------: | --------:| --------: | --------: |  --------: | --------: |
 postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilization  | N  | 900 µatm (ambient) |  N | 900 µatm (ambient)  | - | - | ↓''   | ↑''|
 |   | N  | 900 µatm (ambient) | Y  | 3000 and 4900 µatm (moderate & severe)  | ↓' |  ↓'' |  ↓'' | ↑''  |
-  |   |  Y | 3000 µatm (moderate)| N  | 900 µatm (ambient)  | ↓'' | -  | ↑'' | ↓''  |
-  |   |  Y | 3000 µatm (moderate)| Y  |3000 µatm (moderate) | ↑' | ↓'' | ↑'' | ↓''  |
-  |   |  Y | 3000 µatm (moderate)| Y  | 3000 and 4900 µatm (moderate and severe) | ↑'' |  ↑'' | ↑'' | ↓''  |
+|   |  Y | 3000 µatm (moderate)| N  | 900 µatm (ambient)  | ↓'' | -  | ↑'' | ↓''  |
+|   |  Y | 3000 µatm (moderate)| Y  |3000 µatm (moderate) | ↑' | ↓'' | ↑'' | ↓''  |
+|   |  Y | 3000 µatm (moderate)| Y  | 3000 and 4900 µatm (moderate and severe) | ↑'' |  ↑'' | ↑'' | ↓''  |
 
   *↑ ↓ relative rates/analysis between treatments after a single repeat exposure (') and multiple exposures ('')*
 

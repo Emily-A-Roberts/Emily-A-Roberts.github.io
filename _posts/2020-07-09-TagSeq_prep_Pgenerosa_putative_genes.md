@@ -7,18 +7,20 @@ tags: geoduck, proteins, tagseq, blast
 ---
 
 
-## Summary
+## Summary of Experiment in 2019
 
-### Table: Results of the repeat pCO2 stress exposure experiment in 2019
-##### stress acclimation improves performance and oxidative status under subsequent stress encounter(s)
+
+
+### Table: Results of the repeat pCO2 stress exposure
+##### Stress acclimation improves performance and oxidative status under subsequent stress encounter(s)
 
  life stage  | age  | Stress acclimation (Y/N) | intensity (uatm)  | Repeat exposure (Y/N) | intensity (uatm) | Respiration rate | Shell growth | Tissue growth (AFDW) |Antioxidant capacity |
  --------: | --------: | --------: | --------: | --------: | --------:| --------: | --------: |  --------: | --------: |
 postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilization  | N  | 900 µatm (ambient) |  N | 900 µatm (ambient)  | - | - | ↓''   | ↑''
-|   | N  | 900 µatm (ambient) | Y  | 3000 and 4900 µatm (moderate & severe)  | ↓' |  ↓'' |  ↓'' | ↑''
-  |   |  Y | 3000 µatm (moderate)| N  | 900 µatm (ambient)  | ↓'' | -  | ↑'' | ↓''
-  |   |  Y | 3000 µatm (moderate)| Y  |3000 µatm (moderate) | ↑' | ↓'' | ↑'' | ↓''
-  |   |  Y | 3000 µatm (moderate)| Y  | 3000 and 4900 µatm (moderate and severe) | ↑'' |  ↑'' | ↑'' | ↓''
+|   | N  | 900 µatm (ambient) | Y  | 3000 and 4900 µatm (moderate & severe)  | ↓' |  ↓'' |  ↓'' | ↑''  |
+  |   |  Y | 3000 µatm (moderate)| N  | 900 µatm (ambient)  | ↓'' | -  | ↑'' | ↓''  |
+  |   |  Y | 3000 µatm (moderate)| Y  |3000 µatm (moderate) | ↑' | ↓'' | ↑'' | ↓''  |
+  |   |  Y | 3000 µatm (moderate)| Y  | 3000 and 4900 µatm (moderate and severe) | ↑'' |  ↑'' | ↑'' | ↓''  |
 
   *↑ ↓ relative rates/analysis between treatments after a single repeat exposure (') and multiple exposures ('')*
 
@@ -30,19 +32,30 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
   *Note: the acclimated phenotype was had both greater shell size/tissue biomass/respiration rate and reduced antioxidant protein activity*
 
   - Can moderate oxidative stres or mitchondrial dysfunction improve performance?
-  - Is there an alternative mitchondrial pathway in acclimatized phenotype to permit peroformance  and decrease ROS?
-  -  Does the paternal envrionment increase mitchodrial flexibility in progeny under equal or greater stress intensity?
-    - driven by non-genetic inheritance?
-
+  - Is there an alternative mitchondrial pathway in acclimatized phenotype to permit enahnced performance (ATP) and decrease mtROS/mitchondrial dysfunction under acidification?
+  -  Does the early-life and/or paternal envrionment increase mitchodrial flexibility in  under equal or greater stress intensity?
+    - driven by non-genetic acclimation /inheritance?
 
 ----------------------------------------
 ## Objective:
 
-  - investigate mitchondrial mechanism(s) driving the differential phenotype
-  - ~4 samples from two treatments in the experiment above
+  - investigate mitchondrial mechanism(s) driving the phenotypic variation (table above)
+    - TagSeq  = characterize the expression of target GOIs
+    - Metabolomics = analyze the relative importance of reduced cofactors (NAD+ and CoQH) and ATP between treatments
+    - DNA sequencing methylation (downstream from prior measurements..) = are there patterns of differential methylation alongside treatments with greater phenotype variation (table above) and differential expressions? Can reveal a stress intensity dependent effect (timing, magnitude, frequency) to elicit epigenotypes on a intragenerational hormetic framework under hatchery timeline
+
+  - Extract RNA/DNA from ~3 samples in ALL treatments at T0, Day 7, Day 14, and Day 21
+
+
+### Figure and Table: Experiment from 2019 and sampling plan
+
+![Repeat_exposure_TagSeq](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Repeat_exposure_TagSeq.JPG "Repeat_exposure_TagSeq")
+
+> **Magenta** circles highlight the **target samples for extractions and sequencing**
+
+![DNARNA_extraction_table](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/DNARNA_extraction_table.JPG "DNARNA_extraction_table")
 
 ### Mechanism Figure:
-
 
 ![Mechanism](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020_AOX_RET_Crosstalk.JPG "Mechanism")
 

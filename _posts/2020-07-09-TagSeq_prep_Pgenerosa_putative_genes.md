@@ -76,13 +76,22 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
   - AOX is theorized to be prevalent in animals that have frequent transitions from hypoxia to reoxygenation during thier life history - helps taxa survive transitions from anaerobic conditions without substantial damage  to membrrane lipids and proteins by ROS (McDonald and Gospodaryov 2019).
     - Example: In Eastern oyster, Crassostrea virginica, there are two splice forms of AOX mRNA which are expressed in a number of tissues (Liu and Guo, 2017) and assist resitance to hypoxia-reoxygenation
 
+> Table below from: McDonald et al. 2009, Alternative oxidase in animals : unique characteristics and taxonomic distribution
+
+![AOX_McDonald_2009](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/AOX_McDonald_2009.JPG "AOX_McDonald_2009")
+
+
 ##### What is mitchondrial dysfunction?
   - Mitochondrial dysfunction is defined as electron leak or increase of ROS production due to an alteration of normal electron transport.
   - Causes:
     - Reverese electron transport (RET): can occur under (i) high pools of reduced metabolites NADH:NAD+ and CoQH:CoQ; well-chracterized under dietary restriction (ii)  pH gradient ([H+]) and/or protonmotive force of the inner mitchondrial membrane
 
 ##### In summary...
-  - AOX is an alterantive mitchondrial pathway known as an adaptive response in bivalve taxa under envrionmnental stress. Thus, the lower antioxidant response and greater performance of the stress-accliamted phenotype in 2019 (table above) eludes to higher ATP and lower ROS -- this may be driven by enhanced mitchondrial flexibility (i.e. via AOX) due to prior stress priming!
+  - AOX is an alterantive mitchondrial pathway known as an adaptive response in bivalve taxa under envrionmnental stress. Thus, the lower antioxidant response and greater performance of the stress-acclimated phenotype in 2019 (table above) suggests higher ATP and lower ROS -- this may be driven by enhanced mitchondrial flexibility (i.e. via AOX) due to prior stress priming!
+
+> Fig. below from: Saha et al. 2016, Alternative oxidase and plant stress tolerance
+
+![AOX_Saha2016](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/AOX_Saha2016.JPG "AOX_Saha2016")
 
 ### 2. Sirtuins (SIR1, SIR2, SIR3, SIR5)
 
@@ -112,25 +121,12 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
   - uncoupling proteins are activated by lipid peroxidation - thus they are a response of oxidative stress and are increased during dysfunction
   - uncoupling proteins reduce the protonmotive force (and pH gradient) of the inner mitchondrial membrane reducing ROS production from mitchondrial dysfunction at the expense of reduced potential for ATP
 
+![UCP_cartoon](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/UCP_cartoon.JPG "UCP_cartoon")
+
+
 ### 4. NADH dehydrogenase
 
 - *putative P. generosa seqID:* **PGEN_.00g299160**
-
-- PGEN_.00g128010
-
-PGEN_.00g133830
-
-PGEN_.00g166160
-
-PGEN_.00g175650
-
-PGEN_.00g187890
-
-PGEN_.00g189740
-
-PGEN_.00g201180
-
-PGEN_.00g205440
 
 ##### About:
   - complex 1 of mitochondrial electron transport chain.
@@ -152,17 +148,20 @@ PGEN_.00g205440
 
 - *putative P. generosa seqID:* **?** (TET)
 
+### 8. DNMT 3a & DNMT 3b
+
+- *putative P. generosa seqID:* **PGEN_.00g029420** (DNMT 3a; Sam White's Pgenerosa annotation)
+
+- *putative P. generosa seqID:* **PGEN_.00g067800** (Pfam: C-5 cytosine-specific DNA methylase; Cysteine rich ADD domain in DNMT3)
+
 ##### About:
   - Jumonji-C and TET function in the demethylation of histones and DNA, respectively - a post-translational (histones) and DNA modification that effects transcriptional regulation
   - Why is this interesting in response to OA stress?
     - Jumonji-C and TET activity is dependent on Fe2+. Chelated Fe2+ is released during intracellular acidosis - further Fe2+ is reduced to Fe3+ from the Fenton reaction also catalyzed by acidosis.
   - Altogether, an iron-acidosis interaction may have downstream effects on non-genetic transcriptional regulation - this is an interesting direction to investigate the role of epigentics in mitonucluear crosstalk and hormetic conditioning under OA conditions!
 
-### 8. DNMT 3a & DNMT 3b
+![FE2_OA_methyl](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/FE2_OA_methyl.JPG "FE2_OA_methyl")
 
-- *putative P. generosa seqID:* **PGEN_.00g029420** (DNMT 3a; Sam White's Pgenerosa annotation)
-
-- *putative P. generosa seqID:* **PGEN_.00g067800** (Pfam: C-5 cytosine-specific DNA methylase; Cysteine rich ADD domain in DNMT3)
 
 ### II) Metabolomics
 

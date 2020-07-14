@@ -29,11 +29,11 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
 ## Moving forward...
 #### Questions:
 
-  *Note: the acclimated phenotype was had both greater shell size/tissue biomass/respiration rate and reduced antioxidant protein activity*
+  *Note: the acclimated phenotype had greater shell size/tissue biomass/respiration rate and reduced antioxidant protein activity*
 
   - Can moderate oxidative stres or mitchondrial dysfunction improve performance?
   - Is there an alternative mitchondrial pathway in acclimatized phenotype to permit enahnced performance (ATP) and decrease mtROS/mitchondrial dysfunction under acidification?
-  -  Does the early-life and/or paternal envrionment increase mitchodrial flexibility in  under equal or greater stress intensity?
+  -  Does the early-life and/or paternal envrionment increase mitchondrial flexibility in  under equal or greater stress intensity?
     - driven by non-genetic acclimation /inheritance?
 
 ----------------------------------------

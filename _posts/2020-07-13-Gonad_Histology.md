@@ -115,12 +115,20 @@ Target Characteristic | Hue | Saturation | Brightness | Note
 - **Use the AREA output by ImageJ measurements for the following...**
 - Note: the *letters* used here refer to the the table (above)
 
-### Simple option...
+### (A) Simple option...
 ##### ..*in light of inconsistencies between samples!*
 
  Spermatocytes+Spermatozoa / Total area == main metric between samples
 
-### Most comprehensive option...
+#### RESULTS
+- GITHUB REPO: https://github.com/SamGurr/Pgenerosa_histology
+- not significant : T-test; t = 0.47357, df = 6.4737, p-value = 0.6514
+
+![male_gonad_hist](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/male_gonad_hist.JPG "male_gonad_hist")
+
+
+
+### (B) Most comprehensive option...
 
 Total image area = **A**
 

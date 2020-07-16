@@ -61,7 +61,7 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
 
 ![DNARNA_extraction_table](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/DNARNA_extraction_table.JPG "DNARNA_extraction_table")
 
-### Mechanism Figure
+### Mechanism Figures
 #### Connections between the phenotype and proposed pathway(s) for further investigation
 
 - References in figure...
@@ -69,6 +69,11 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
    - metabolomics targets as *M*
 
 ![Mechanism](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020_AOX_RET_Crosstalk.JPG "Mechanism")
+
+#### How hypercapnia and acidosis influences Fe-dependent activity (TET Jmj-c), retrograde-ROS signaling, and sirtuin-mediated response
+
+![FE2_OA_methyl](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/FE2_OA_methyl.JPG "FE2_OA_methyl")
+
 
 #### Current findings
   - *Acclimated phenotype* : = ↑ growth, ↑ metabolic rate, ↓ CSR
@@ -184,9 +189,6 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
   - Why is this interesting in response to OA stress?
     - Jumonji-C and TET activity is dependent on Fe2+. Chelated Fe2+ is released during intracellular acidosis - further Fe2+ is reduced to Fe3+ from the Fenton reaction also catalyzed by acidosis.
   - Altogether, an iron-acidosis interaction may have downstream effects on non-genetic transcriptional regulation - this is an interesting direction to investigate the role of epigentics in mitonucluear crosstalk and hormetic conditioning under OA conditions!
-
-![FE2_OA_methyl](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/FE2_OA_methyl.JPG "FE2_OA_methyl")
-
 
 ### II) Metabolomics
 

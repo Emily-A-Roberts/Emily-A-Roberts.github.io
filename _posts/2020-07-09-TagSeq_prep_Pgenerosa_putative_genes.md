@@ -66,7 +66,7 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
 
 - References in figure...
    - a few GOIs as *numbers*
-   - metabolimics targers as *M*
+   - metabolomics targets as *M*
 
 ![Mechanism](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020_AOX_RET_Crosstalk.JPG "Mechanism")
 

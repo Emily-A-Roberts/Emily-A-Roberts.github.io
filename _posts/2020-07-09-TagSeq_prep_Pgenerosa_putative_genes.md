@@ -35,7 +35,7 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
 
 - **What is frontloading?**
 
-  ![Barshis_etal2012](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Barshis_etal2012.JPG "Barshis_etal2012")
+  ![Barshis_etal2012](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Barshis_etal2012.jpg "Barshis_etal2012")
 
   - Is the alternative oxidase (AOX) mitchondrial pathway expressed by acclimatized phenotype to permit enhanced performance (continue ATP production) and decrease mtROS/mitchondrial dysfunction under acidification?
   -  Does the early-life and/or paternal envrionment increase mitchondrial flexibility in  under equal or greater stress intensity?

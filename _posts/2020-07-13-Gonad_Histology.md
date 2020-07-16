@@ -93,13 +93,13 @@ Target Characteristic | Hue | Saturation | Brightness | Note
 
 #### (1) Lumen + connective tissue and lipid cells overlap in hue/saturation
 
-  - Histology samples of lower reproductive status (relative to #041 above) have a higher percent cover of pink conncetive tissue with lipid cells. Unfortunately, the hue/saturation of the lipid cells overlap with the lumen.
+  - Histology samples showcasing low reproductive status (relative to #041 above) have a higher percent cover of conncetive tissue with lipid cells. Unfortunately, the hue/saturation of the lipid cells overlaps with the lumen.
 
 ![gonad_lumen_ERROR](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/gonad_lumen_ERROR.JPG "gonad_lumen_ERROR")
 
 ![lipid_cells_connective_tissue](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/lipid_cells_connective_tissue.JPG "lipid_cells_connective_tissue")
 
-#### (2) Spermatocyes + spermatozoa overlap in hue/saturation
+#### (2) Spermatocytes + spermatozoa overlap in hue/saturation
 
   - Spermatozoa and spermatocytes can not be determined - solely the total acini space (minus lumen) is possible in these samples (example below)
 
@@ -111,13 +111,16 @@ Target Characteristic | Hue | Saturation | Brightness | Note
   - **Spermatocytes+spermatozoa / Total area == main metric between samples**
 
 ----------------------------------------
-
 ## Calculations
-
-#### How to assess reproductive status between samples/individuals?
-**Use the AREA output by ImageJ measurements for the following...**
-
+- **Use the AREA output by ImageJ measurements for the following...**
 - Note: the *letters* used here refer to the the table (above)
+
+### Simple option...
+##### ..*in light of inconsistencies between samples!*
+
+ Spermatocytes+Spermatozoa / Total area == main metric between samples
+
+### Most comprehensive option...
 
 Total image area = **A**
 
@@ -133,6 +136,6 @@ Spermatozoa + Spermatocytes = **D**
 
 **G**; Vesticular connective tissue = A - F
 
-#### ..now for corrections
+### correct for total area
 
 **divide** targets (lumen, total acini area, spermatozoa, spermatocytes, vesticular connective tissue) **by Total image area** to compare the reproductive status between individuals and correct for the oval area selected.

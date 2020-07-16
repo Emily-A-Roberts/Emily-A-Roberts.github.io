@@ -45,7 +45,7 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
 ----------------------------------------
 ## Objective:
 
-  - investigate mitchondrial mechanism(s) driving the phenotypic variation (table above)
+  - investigate mitchondrial mechanism(s) and differnetial expression patterns driving stress-intensity-dependent phenotypic variation (table above)
     - TagSeq  = characterize the expression of target GOIs
     - Metabolomics = analyze the relative importance of reduced cofactors (NAD+ and CoQH) and ATP between treatments
     - DNA sequencing methylation (downstream from prior measurements..) = are there patterns of differential methylation alongside treatments with greater phenotype variation (table above) and differential expressions? Can reveal a stress intensity dependent effect (timing, magnitude, frequency) to elicit epigenotypes on a intragenerational hormetic framework under hatchery timeline

@@ -161,7 +161,7 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
   - complex III of mitochonrial electron transport chain
   - major source of mithcondrial ROS production; may reduce abundance/activity under mitchondrial dysfunction - Example: high ratio complexI:complexIII is an indicator of reverese electron transport
 
-## DNA and hiatone Methylation
+## DNA and histone Methylation
 ### 6 & 7. Jumonji C and Ten-eleven translocation (TET)
 
 - *putative P. generosa seqID:* **PGEN_.00g257110** (Jumonji-C)

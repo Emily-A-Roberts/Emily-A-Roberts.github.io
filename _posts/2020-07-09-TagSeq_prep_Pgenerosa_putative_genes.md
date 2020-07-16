@@ -70,7 +70,7 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
 
 ![Mechanism](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020_AOX_RET_Crosstalk.JPG "Mechanism")
 
-### How hypercapnia and acidosis influences Fe-dependent activity (TET Jmj-c), retrograde-ROS signaling, and sirtuin-mediated response
+### How hypercapnia and acidosis may influence Fe-dependent activity (TET Jmj-c), retrograde-ROS signaling, and sirtuin-mediated response
 
 ![FE2_OA_methyl](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/FE2_OA_methyl.JPG "FE2_OA_methyl")
 

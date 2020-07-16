@@ -22,19 +22,23 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
 -|  -|  Y | 3000 µatm (moderate)| Y  |3000 µatm (moderate) | ↑' | ↓'' | ↑'' | ↓''  |
 -|  -|  Y | 3000 µatm (moderate)| Y  | 3000 and 4900 µatm (moderate and severe) | ↑'' |  ↑'' | ↑'' | ↓''  |
 
-  *↑ ↓ relative rates/analysis between treatments after a single repeat exposure (') and multiple exposures ('')*
-
+-  *↑ ↓ relative rates/analysis between treatments after a single repeat exposure (') and multiple exposures ('')*
+-  **Table summary**: acclimated phenotype had greater shell size/tissue biomass/respiration rate and reduced antioxidant protein activity*
 ----------------------------------------
 
 ## Moving forward...
 #### Questions:
 
-  *Note: the acclimated phenotype had greater shell size/tissue biomass/respiration rate and reduced antioxidant protein activity*
+  - Can moderate oxidative stres or mitchondrial dysfunction improve cellular stress response (anticipatory frontloadeing) and physiological performance?
 
-  - Can moderate oxidative stres or mitchondrial dysfunction improve performance?
-  - Is there an alternative mitchondrial pathway in acclimatized phenotype to permit enahnced performance (ATP) and decrease mtROS/mitchondrial dysfunction under acidification?
+> Figure from Barshis et al. 2012: Genomic basis for coral resilience to climate change
+ - **What is frontloading?**
+  ![Barshis_etal2012](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Barshis_etal2012.JPG "Barshis_etal2012")
+
+  - Is the alternative oxidase (AOX) mitchondrial pathway expressed by acclimatized phenotype to permit enhanced performance (continue ATP production) and decrease mtROS/mitchondrial dysfunction under acidification?
   -  Does the early-life and/or paternal envrionment increase mitchondrial flexibility in  under equal or greater stress intensity?
     - driven by non-genetic acclimation /inheritance?
+
 
 ----------------------------------------
 ## Objective:
@@ -51,7 +55,7 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
 
 ![Repeat_exposure_TagSeq](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Repeat_exposure_TagSeq.JPG "Repeat_exposure_TagSeq")
 
-> **Magenta** circles highlight the **target samples for extractions and sequencing**
+ - **Magenta** circles highlight the **target samples for extractions and sequencing**
 
 ![DNARNA_extraction_table](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/DNARNA_extraction_table.JPG "DNARNA_extraction_table")
 
@@ -145,7 +149,7 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
   - complex 1 of mitochondrial electron transport chain.
   - major source of mithcondrial ROS production and increases activity under dysfunction - particularly knwon to increase activity under reverse electron transport under increase proton and pH gradient of the inner mitochondrial membrance
 
-  > Note: This suggests mitchondrial dysfunction under intracellular acidosis and hypercapnia!
+   - *Note: This suggests mitchondrial dysfunction under intracellular acidosis and hypercapnia!*
 
 ### 5. Cytochrome c reductase
 
@@ -155,6 +159,7 @@ postlarval 'settlement'; pediveliger to juvenile | 30 d to 5 mo post-fertilizati
   - complex III of mitochonrial electron transport chain
   - major source of mithcondrial ROS production; may reduce abundance/activity under mitchondrial dysfunction - Example: high ratio complexI:complexIII is an indicator of reverese electron transport
 
+## DNA and hiatone Methylation
 ### 6 & 7. Jumonji C and Ten-eleven translocation (TET)
 
 - *putative P. generosa seqID:* **PGEN_.00g257110** (Jumonji-C)

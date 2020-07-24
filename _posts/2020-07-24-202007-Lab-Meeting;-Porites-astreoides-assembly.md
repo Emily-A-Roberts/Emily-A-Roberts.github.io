@@ -90,9 +90,9 @@ Citation:
 
 # 3. Assembly completeness
 
-##### Why integrate assembly 'completeness' in your workflow?
+##### Why assess assembly 'completeness' in your workflow?
 
-- assess the quality of the assembly (i.e. gaps, inconsistancies in contig connection and direction) using ortholog markers
+- important to verify the quality of the assembly (i.e. gaps, inconsistancies in contig connection and direction) using ortholog markers before moving forward in downstream annotation and analysis
 
 ### 3.1 Methods and tools to test
 

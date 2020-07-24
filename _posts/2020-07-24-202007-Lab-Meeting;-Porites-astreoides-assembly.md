@@ -21,7 +21,7 @@ tags: overview, coral, porites, lab meeting, trininty, trinotate, busco
 
 -------
 
-# Example pipelines for RNAseq and se dove assembly
+# Example pipelines for RNAseq and *de novo* transcriptome assembly
 
 * et al. ####* <URL here>
 

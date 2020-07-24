@@ -21,6 +21,22 @@ tags: overview, coral, porites, lab meeting, trininty, trinotate, busco
 
 -------
 
+# Example pipelines for RNAseq and se dove assembly
+
+* et al. ####* <URL here>
+
+Citation:
+
+![assembly_pipeline_example](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/assembly_pipeline_example.JPG "assembly_pipeline_example")
+
+* et al. ####* <URL here>
+
+Citation:
+
+![assembly_pipeline_example_2](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/assembly_pipeline_example_2.JPG "assembly_pipeline_example_2")
+
+-------
+
 # 1. Assess quality of reads using FastQC and trim using fastq
 
 -------
@@ -28,12 +44,12 @@ tags: overview, coral, porites, lab meeting, trininty, trinotate, busco
 # 2. De novo transcriptome assembly with Trinity
 
 ##  2.1 What is Trinity?
+
 *Trinity wiki page here* https://github.com/trinityrnaseq/trinityrnaseq/wiki
 
 *Trinity publication* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3571712/
 
 *Trinity downstream analysis publication* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3875132/
-
 
 - Trinity is used fro de novo assembly of RNA-seq data from the illumina platform
 - *de novo* in bioinformatics referes to genome assembly based on read data **without** use of a reference
@@ -50,7 +66,6 @@ tags: overview, coral, porites, lab meeting, trininty, trinotate, busco
   - this simplified example shows a contructed sequence by splitting into k-mers (k=7 or 7-mers) that connect to form the putative sequence assembly with an overlap of 6 nt or k-1
 
 ![debruijn_graph](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/debruijn_graph.JPG "debruijn_graph")
-
 
 #### Trinity shell script  *(not tested!)*:
 
@@ -73,7 +88,6 @@ tags: overview, coral, porites, lab meeting, trininty, trinotate, busco
       # run trinity, stop before phase 2
       srun Trinity --seqType <insert file type; i.e. fq> --left <path to forward.fq> --right <reverse.fq> --CPU 6 --max_memory 220G
 
-
 # 3. Assembly completeness
 
 ##### Why integrate assembly 'completeness' in your workflow?
@@ -86,7 +100,7 @@ tags: overview, coral, porites, lab meeting, trininty, trinotate, busco
 - uses highly conserved single-copy orthologs
 
 ##### Orthofinder
-- completes an all-v-all BLAST to assess completeness of your assembly
+- uses all-v-all BLAST to assess completeness of your assembly
 
 ##### Alignment to related species transcriptome(s)
  - Publicly available transcriptomes available on NCBI:
@@ -94,6 +108,12 @@ tags: overview, coral, porites, lab meeting, trininty, trinotate, busco
       -  Related taxa
 
 *Paper comparing BUSCO and orthofinder* https://genome.cshlp.org/content/early/2019/06/21/gr.243212.118.full.pdf
+
+Altenhoff, A. M., Levy, J., Zarowiecki, M., Tomiczek, B., Vesztrocy, A. W., Dalquen, D. A., ... & Dessimoz, C. (2019). OMA standalone: orthology inference among public and custom genomes and transcriptomes. Genome research, 29(7), 1152-1163.
+
+- authors found Orthofinder detected more othologous groups than other methods...
+
+![assembly_completeness_fig](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/assembly_completeness_fig.JPG "assembly_completeness_fig")
 
 -------
 

@@ -96,16 +96,21 @@ Citation:
 
 ### 3.1 Methods and tools to test
 
-##### BUSCO
-- uses highly conserved single-copy orthologs
+##### BUSCO ( Benchmarking Universal Single-Copy Orthologs)
+- uses highly conserved single-copy orthologs; evolutionary informed expectations of gene content.
+- appears that youu can focus a BUSCO analysis to orthologs related to your target taxa.
+
+- image below shows a BUSCO analysis comparing the crayfish targetted for tde novo transcriptome assembly to 44 other arthropod species assemblies and a single vertebrate assembly:
+
+*Theissinger et al. 2016* https://www.sciencedirect.com/science/article/abs/pii/S1874778716300137
+
+Citation: Theissinger, K., Falckenhayn, C., Blande, D., Toljamo, A., Gutekunst, J., Makkonen, J., ... & Kokko, H. (2016). De Novo assembly and annotation of the freshwater crayfish Astacus astacus transcriptome. Marine Genomics, 28, 7-10.
+
+![busco_analysis](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/busco_analysis.JPG "busco_analysis")
+
 
 ##### Orthofinder
 - uses all-v-all BLAST to assess completeness of your assembly
-
-##### Alignment to related species transcriptome(s)
- - Publicly available transcriptomes available on NCBI:
-      - *Porites astreoides*
-      -  Related taxa
 
 *Paper comparing BUSCO and orthofinder* https://genome.cshlp.org/content/early/2019/06/21/gr.243212.118.full.pdf
 
@@ -114,6 +119,13 @@ Altenhoff, A. M., Levy, J., Zarowiecki, M., Tomiczek, B., Vesztrocy, A. W., Dalq
 - authors found Orthofinder detected more othologous groups than other methods...
 
 ![assembly_completeness_fig](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/assembly_completeness_fig.JPG "assembly_completeness_fig")
+
+##### Alignment to related species transcriptome(s)
+ - Publicly available transcriptomes available on NCBI:
+      - *Porites astreoides*
+      -  Related taxa
+
+
 
 -------
 

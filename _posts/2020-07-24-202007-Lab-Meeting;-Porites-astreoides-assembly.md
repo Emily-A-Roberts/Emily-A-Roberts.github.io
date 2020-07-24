@@ -12,7 +12,7 @@ tags: overview, coral, porites, lab meeting, trininty, trinotate, busco
   - [1. Quality & Trim](#1-Assess-quality-of-reads-using-FastQC-and-trim-using-fastq)
   - [2. *De novo* Transcriptome Assembly](#2-De-novo-transcriptome-assembly-with-Trinity)
     - [2.1 What is Trinity?](#21-What-is-Trinity)
-  - [3. Assembly completeness](#1-Assess-quality-of-reads-using-FastQC-and-trim-using-fastq)
+  - [3. Assembly completeness](#3-Assembly-completeness)
     - [3.1 Methods and tools to test](#31-Methods-and-tools-to-test)
       - [BUSCO](#BUSCO)
       - [Orthofinder](#Orthofinder)

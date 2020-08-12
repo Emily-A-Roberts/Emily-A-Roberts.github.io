@@ -29,7 +29,7 @@ MSDS links of harmful chemicals
 - Even a subtle wet glove from the extraction buffer can lead to a burning skin iritation - below is a photo of my skin burn 24 hrs afterward.
 - Read through MSDS and take proper precaution
 
-![Extraction buffer chem burn](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/ACN_chem_burn_20200811.JPG  "ACN_chem_burn_20200811.JPG")
+![Extraction buffer chem burn](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/ACN_chem_burn_20200811.jpg  "ACN_chem_burn_20200811.JPG")
 
 ## Equipment needed:
 
@@ -120,10 +120,10 @@ To streamline your work it is ideal to set your fume hood and workspace with the
 * **Carefully** transfer sample to the dounce
   - Note: the dounce fits in a standard 1/5 ml tube rack. This can be used to free a hand and minimiize contact with the extraction buffer during transfer
 * Homogenize the sample until the supernatant is visibly pigmented.
-* Add an additional 500uL of **cold** extraction buffer to rinse the pestle.
+* Add an additional 500uL of **cold** extraction buffer to rinse the pestle. Plaste the pestle in the detergent basin
   - Note: the beaker of extraction buffer can be placed intermittantly on the dry ice to cool, it does become frozen so be aware of how long your beaker has been on ice
-* Strain the extract through a 100um cell strainer into a 50mL receptacle.
-* Transfer extract to a new labeled 1.5 mL tube.
+* Strain the extract (total volume in dounce) through a 100um cell strainer into a 50mL receptacle (i.e. Falcon tube or glass beaker). Place the dounce into the detergent basin
+* Transfer extract to a new labeled 1.5 mL tube. Dispose of or put aside 50 ml receptable (Falcon tube into waste bag; glass beaker into detergent basin)
 * Vortex and centrifuge for 10 minutes at 15000g at 4&deg;C.
 * Remove 500uL of the supernatant to a new labeled 1.5mL tube.
 * Add 44uL of 15% ammonium bicarbonate.
@@ -142,4 +142,4 @@ To streamline your work it is ideal to set your fume hood and workspace with the
 | 5   | 612,632  | 4 |  1.03 | 1.89  | 2.38  | 5, 5-A, 5-B |
 | 6   | 659,666  | 4 |  1.02 | 2.02  | 2.46  | 6, 6-A, 6-B |
 
-> NOTE: under 'Vial labels' the #-A #-B are autosampler vials (each with 100 ul) and the # is a 1.5 ml tube with the remaing sample
+> NOTE: under 'Vial labels' the #-A #-B are autosampler vials (each with 100 ul) and the # is a 1.5 ml tube with the remaining sample

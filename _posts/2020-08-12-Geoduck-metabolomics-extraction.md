@@ -29,7 +29,7 @@ MSDS links of harmful chemicals
 - Even a subtle wet glove from the extraction buffer can lead to a burning skin iritation - below is a photo of my skin burn 24 hrs afterward.
 - Read through MSDS and take proper precaution
 
-![Extraction buffer chem burn](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/ACN_chem_burn_20200811.jpg  "ACN_chem_burn_20200811.JPG")
+<img src="https://samgurr.github.io/SamJGurr_Lab_Notebook/images/ACN_chem_burn_20200811.jpg" width="300">
 
 ## Equipment needed:
 

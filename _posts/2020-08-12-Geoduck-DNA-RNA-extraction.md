@@ -6,7 +6,7 @@ categories: processing
 tags: geoduck, DNA, RNA, zymo, extraction
 ---
 
-## Geoduck extractions
+## Geoduck DNA/RNA extractions
 
 #### **Objective(s):**
 

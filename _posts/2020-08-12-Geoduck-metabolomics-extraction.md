@@ -26,7 +26,7 @@ MSDS links of harmful chemicals
 
 ##### READ HERE!
 - It is critical to take extreme caution with this protocol. **Acetonitrile (or methyl cyanide) is very toxic** causing harm due to skin/eye contact, inhalation, and ingestion. **change gloves often if you notice any substance on them**
-- Even a subtle wet glove from the extraction buffer can lead to a burning skin iritation - below is a photo of my skin burn 24 hrs afterward.
+- Even a subtle wet glove from the extraction buffer can lead to a burning skin iritation
 - Read through MSDS and take proper precaution
 
 <img src="https://samgurr.github.io/SamJGurr_Lab_Notebook/images/ACN_chem_burn_20200811.jpg" width="300">

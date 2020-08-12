@@ -25,7 +25,7 @@ MSDS links of harmful chemicals
   - 15% Ammonium Bicarbonate - [fishersci MSDS link](https://fscimage.fishersci.com/msds/01100.htm)
 
 ##### READ HERE!
-- It is critical to take extreme caution with this protocol. **Acetonitrile (or methyl cyanide) is very toxic** causing harm due to skin/eye contact, inhalation, and ingestion.
+- It is critical to take extreme caution with this protocol. **Acetonitrile (or methyl cyanide) is very toxic** causing harm due to skin/eye contact, inhalation, and ingestion. **change gloves often if you notice any substance on them**
 - Even a subtle wet glove from the extraction buffer can lead to a burning skin iritation - below is a photo of my skin burn 24 hrs afterward.
 - Read through MSDS and take proper precaution
 

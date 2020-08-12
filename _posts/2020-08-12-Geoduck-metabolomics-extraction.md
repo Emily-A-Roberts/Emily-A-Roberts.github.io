@@ -10,7 +10,7 @@ tags: geoduck, metabolomics, Rutgers, extraction
 
 ## **Objective(s):**
 
-- Prepare geoduck metabolimic samples for analysis following K Wong's test with larvae and adult coral samples [link here](https://kevinhwong1.github.io/KevinHWong_Notebook/Metabolomics-P-astreoides-sample-prep/).
+- Prepare geoduck metabolomic samples for analysis following K Wong's test with larvae and adult coral samples [link here](https://kevinhwong1.github.io/KevinHWong_Notebook/Metabolomics-P-astreoides-sample-prep/).
 - **About our samples**: Geoduck samples are whole individuals ~5-6 months in age snap frozen in LN2 and stored at -80C for ~1 year. Sizes vary ~5-8 mm shell length.
 
 ## **Important links/comments:**

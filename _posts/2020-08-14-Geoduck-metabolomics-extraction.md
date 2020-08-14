@@ -8,11 +8,11 @@ tags: geoduck, metabolomics
 
 # **Objective(s):**
 - Prepare geoduck metabolomic samples for analysis following the follwoing links:
-  - [K.Wong's prep for coral](https://kevinhwong1.github.io/KevinHWong_Notebook/Metabolomics-P-astreoides-sample-prep/) + [Modified for geoduck](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2020-08-12-Geoduck-meta//bolomics-extraction.md)
-- Six samples were prepped on 8/11/20 for 1 animal and 4 animals in triplicate [view table here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2020-08-12-Geoduck-meta//bolomics-extraction.md) - today I will prep three additional samples with 7 animals each **final table at the end of this post**
+  - [K.Wong's prep for coral](https://kevinhwong1.github.io/KevinHWong_Notebook/Metabolomics-P-astreoides-sample-prep/) + [Modified for geoduck](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2020-08-12-Geoduck-metabolomics-extraction.md)
+- Six samples were prepped on 8/11/20 for 1 animal and 4 animals in triplicate [view table here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2020-08-12-Geoduck-metabolomics-extraction.md) - today I will prep three additional samples with 7 animals each **final table at the end of this post**
 
 
-## Extraction Protocol, important links (MSDS info), etc. [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2020-08-12-Geoduck-meta//bolomics-extraction.md)
+## Extraction Protocol, important links (MSDS info), etc. [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2020-08-12-Geoduck-metabolomics-extraction.md)
 
 ## Notes during today's extraction
 

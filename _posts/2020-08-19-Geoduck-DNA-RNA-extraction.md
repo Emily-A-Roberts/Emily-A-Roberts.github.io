@@ -6,7 +6,7 @@ categories: processing
 tags: geoduck, zymo, dna, rna
 ---
 
-## 20200817 & 20200818 Geoduck DNA/RNA extractions
+## 20200817 & 20200818 Juvenile *Panopea generosa* DNA/RNA extractions
 ----------
 
 #### **Objective and summary:**
@@ -78,5 +78,8 @@ tags: geoduck, zymo, dna, rna
 
 ![RUN1](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020-08-18_18.09.17.pdf "2020-08-18_18.09.17.pdf")
 
+<image src="https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020-08-18_18.09.17.pdf" />
 
 ![RUN2](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020-08-18_18.24.04.pdf "2020-08-18_18.24.04.pdf")
+
+<image src="https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020-08-18_18.24.04.pdf" />

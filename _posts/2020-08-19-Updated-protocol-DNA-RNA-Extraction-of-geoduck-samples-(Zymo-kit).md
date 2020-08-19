@@ -10,7 +10,7 @@ tags: geoduck, extraction, protocol
 
  **READ.me**
 
-This protocol was recently revised for testing geoduck samples ([link 1](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2020-08-12-Geoduck-DNA-RNA-extraction.md) and [link 2](https://github.com/kevinhwong1/KevinHWong_Notebook/blob/master/_posts/2020-07-30-DNA-RNA-Extractions-Thermal-Transplant-Porites-and-Geoduck.md)) modified from successful extractions of coral tissue [link here](https://kevinhwong1.github.io/KevinHWong_Notebook/DNA-RNA-Extractions-Thermal-Transplant-Porites-Trial-1/). 
+This protocol was recently revised for testing geoduck samples ([link 1](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2020-08-12-Geoduck-DNA-RNA-extraction.md) and [link 2](https://github.com/kevinhwong1/KevinHWong_Notebook/blob/master/_posts/2020-07-30-DNA-RNA-Extractions-Thermal-Transplant-Porites-and-Geoduck.md)) modified from successful extractions of coral tissue [link here](https://kevinhwong1.github.io/KevinHWong_Notebook/DNA-RNA-Extractions-Thermal-Transplant-Porites-Trial-1/).
 
 Zymo Research Quick-DNA/RNA MiniPrep Plus Kit - link to this kit [here](https://www.zymoresearch.com/collections/quick-dna-rna-kits)
 
@@ -68,10 +68,10 @@ Zymo Research Quick-DNA/RNA MiniPrep Plus Kit - link to this kit [here](https://
     - i.e. add 70 ul Proteinase K digestion buffer if you previously added 700 ul of supernatant
   - **Proteinase K**: add 1:2 of Proteinase K : Proteinase K digestion buffer
       - i.e. add 35 ul Proteinase K if you previously added 70 ul Proteinase K digestion buffer
-7. Vortex and spin down all tubes.
-8. Transfer supernatant to a new 5 mL tube.
-  - **Important**: '*### μl supernatant*' depends on the volume taken in step #8
-    - i.e. if you added 700 ul of supernatant (along with proteinase reagents), you will be able to transfer 800 ul in step 8.
+9. Vortex and spin down all tubes.
+10. Transfer supernatant to a new 5 mL tube.
+  - **Important**: this volume depends on the volume taken in step #8
+    - i.e. if you added 700 ul of supernatant in step 8 (along with proteinase reagents), you will be able to transfer 800 ul here in step 10.
 
 ## Extraction: Zymo Research Quick-DNA/RNA MiniPrep Plus Kit
 

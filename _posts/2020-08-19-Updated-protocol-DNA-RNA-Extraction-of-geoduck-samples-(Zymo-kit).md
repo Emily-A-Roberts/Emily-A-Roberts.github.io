@@ -149,13 +149,13 @@ NOTE:  Repeat steps 5-7 until all volume is gone. (i.e. x 2)
 4. Repeat step 3 until all volume is gone (i.e. x 4)
     - Note: get the DNase I from the -20&deg;C
 
-9. **Add 400 µl DNA/RNA Wash Buffer** gently to each green RNA column
+5. **Add 400 µl DNA/RNA Wash Buffer** gently to each green RNA column
 
-  9a. Centrifuge at 16,000 rcf (g) for 30 seconds
+  5a. Centrifuge at 16,000 rcf (g) for 30 seconds
 
-  9b. **Discard** flow through (Zymo kit waste)
+  5b. **Discard** flow through (Zymo kit waste)
 
-12. **Make DNase I treatment master mix**:
+6. **Make DNase I treatment master mix**:
     - *N* × 75µl DNA Digestion buffer
     - *N* × 5µl DNase I
 
@@ -166,42 +166,42 @@ NOTE:  Repeat steps 5-7 until all volume is gone. (i.e. x 2)
 5  |  375 |  25
 10  | 750  |  50
 
-13. **Add 80 µl DNase I treatment master mix** directly to the filter of the green RNA columns
+7. **Add 80 µl DNase I treatment master mix** directly to the filter of the green RNA columns
 
-  13a. Incubate at room temp for **15 minutes**
+  7a. Incubate at room temp for **15 minutes**
 
-14. **Add 400 µl DNA/RNA Prep Buffer** gently to each column
+8. **Add 400 µl DNA/RNA Prep Buffer** gently to each column
 
-  14a. Centrifuge at 16,000 rcf (g) for 30 seconds
+  8a. Centrifuge at 16,000 rcf (g) for 30 seconds
 
-  14b. **Discard** flow through (Zymo kit waste)
+  8b. **Discard** flow through (Zymo kit waste)
 
-15. **Add 700 µl DNA/RNA Wash Buffer** gently to the green RNA spin columns
+9. **Add 700 µl DNA/RNA Wash Buffer** gently to the green RNA spin columns
 
-  15a Centrifuge at 16,000 rcf (g) for 30 seconds
+  9a Centrifuge at 16,000 rcf (g) for 30 seconds
 
-  15b. **Discard** flow through (Zymo kit waste)
+  9b. **Discard** flow through (Zymo kit waste)
 
-16. **Add 400 µl DNA/RNA Wash Buffer** genetly to the green RNA spin columns
+10. **Add 400 µl DNA/RNA Wash Buffer** genetly to the green RNA spin columns
 
-  16a. Centrifuge at 16,000 rcf (g) for **2 minutes**
+  10a. Centrifuge at 16,000 rcf (g) for **2 minutes**
 
-  16b. **Discard** flow through (Zymo kit waste)
+  10b. **Discard** flow through (Zymo kit waste)
 
-17. **Transfer** green columns to new 1.5 mL microcentrifuge tubes
+11. **Transfer** green columns to new 1.5 mL microcentrifuge tubes
 
-18. **Add 50 µl warmed DNase/RNase free water** to each green RNA column by dripping slowly directly on the filter
+12. **Add 50 µl warmed DNase/RNase free water** to each green RNA column by dripping slowly directly on the filter
 
-  18a. Incubate at room temp for **5 minutes**
+  13a. Incubate at room temp for **5 minutes**
 
-  18b. Centrifuge at 16,000 rcf (g) for 30 seconds
+  13b. Centrifuge at 16,000 rcf (g) for 30 seconds
 
-28. Repeat step 18 for a final elution volume of 100 µl
+14. Repeat step 18 for a final elution volume of 100 µl
 
-29. For QC... **Aliquot 5 µl of the final elution to 0.5 mL PCR tubes** for Qubit and TapeStation analysis.
+15. For QC... **Aliquot 5 µl of the final elution to 0.5 mL PCR tubes** for Qubit and TapeStation analysis.
    - *N* = 1 tube per sample
 
-15. Storage:
+16. Storage:
   - QC aliquots: store on a bead bucket if measuring same day
   - Whole extractions and QC aliquots: store at -80 &deg;C
 

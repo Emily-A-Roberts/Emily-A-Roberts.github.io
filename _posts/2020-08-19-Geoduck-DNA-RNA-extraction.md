@@ -76,9 +76,16 @@ tags: geoduck, zymo, dna, rna
 ### TapeStation Results
 ----------
 
+Run 1 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-08-18_18.09.17.pdf)
+
 ![RUN1](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020-08-18_18.09.17.pdf "2020-08-18_18.09.17.pdf")
 
+
 <image src="https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020-08-18_18.09.17.pdf" />
+
+
+Run 2 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-08-18_18.24.04.pdf)
+
 
 ![RUN2](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/2020-08-18_18.24.04.pdf "2020-08-18_18.24.04.pdf")
 

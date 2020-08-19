@@ -6,7 +6,7 @@ categories: Protocols
 tags: geoduck, extraction, protocol
 ---
 
-## PROTOCOL: DNA/RNA Extractions of Geoduck samples
+## PROTOCOL: DNA/RNA Extractions of *P. generosa* samples
 
  **READ.me**
 

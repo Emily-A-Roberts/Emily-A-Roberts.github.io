@@ -12,7 +12,7 @@ tags: ANOVA, geoduck, OA, histology, gonad, gametogenesis
 Summarize the results of the ImageJ analysis of male geoduck - adults were exposued to ambient v. low pH conditions over gametogenesis. To assess reprodutive development, we measured the volume of the total acini, lumen, spermatozoa, and spermatocytes of 4-5 acini per individual.
 
 
-## How to measure acini-specific chacteristics? 
+## How to measure acini-specific chacteristics?
 ---------
 Follow the steps below:
 
@@ -54,7 +54,7 @@ Follow the steps below:
 
 > table displays the mean area (µm^3) of (i) total acini (ii) lumen (iii) spermatozoa (iv) spermatocytes
 
-![Table](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Pgen_histology_ANOVA_table.JPG "Pgen_histology_ANOVA_table")
+![Table](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Pgen_histology_ANOVA_table.jpg "Pgen_histology_ANOVA_table")
 
 
 #### Figures

@@ -15,7 +15,7 @@ tags: geoduck, zymo, extrations, DNA, RNA
 
 #### Summary:
   - **Extractions**:
-    - 10 samples on 20200826
+    - 10 samples on 20200827
 
   - **QC checklist**:
     - 20 total samples

@@ -71,6 +71,6 @@ tags: geoduck, zymo, extractions, DNA, RNA
 ### TapeStation Results
 ----------
 
-Run 1 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-08-25-16.41.23.pdf)
+Run 1 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-08-25%20-%2016.41.23.pdf)
 
-Run 2 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-08-25-16.59.50.pdf)
+Run 2 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-08-25%20-%2016.59.50.pdf)

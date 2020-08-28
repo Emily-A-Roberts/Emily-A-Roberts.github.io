@@ -62,7 +62,7 @@ tags: geoduck, zymo, extractions
 ### Gel Electrophoresis
 ----------
 
-![gel+_20200824](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/20200824_Gel20200824_Gel.pdf")
+![gel+_20200824](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/20200824_Gel20200824_Gel.jpg")
 
 
 ### TapeStation Results

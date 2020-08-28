@@ -19,7 +19,8 @@ tags: geoduck, zymo, extractions
 
   - **QC checklist**:
       - Qubit == all 10 samples
-      - Gel electrophoresis == all 10 samples
+      - Gel electrophoresis == all 10 samples and 9/10 samples from 20200818
+          - samples from 20200818 == 849,859,737,735,797,777,825,829,717
       - Tape Station == NA, stored at -20C for the next day
 
 

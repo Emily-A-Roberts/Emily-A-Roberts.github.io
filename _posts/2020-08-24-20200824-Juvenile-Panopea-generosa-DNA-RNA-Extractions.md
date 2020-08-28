@@ -63,6 +63,9 @@ tags: geoduck, zymo, extractions
 ### Gel Electrophoresis
 ----------
 
+**NOTES** 735, 797, 777, and 825 were loaded to the wells badly - likely because of low weight from poor mixing with the loading dye
+
+
 ![20200824_Gel](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/20200824_Gel.jpg "gel_20200824")
 
 

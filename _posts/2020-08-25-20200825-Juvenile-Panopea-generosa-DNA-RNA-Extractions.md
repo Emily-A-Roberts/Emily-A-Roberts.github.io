@@ -5,7 +5,7 @@ date: '2020-08-25'
 categories: Processing
 tags: geoduck, zymo, extractions, DNA, RNA
 ---
-## 20200824 Juvenile *Panopea generosa* DNA/RNA extractions
+## 20200825 Juvenile *Panopea generosa* DNA/RNA extractions
 ----------
 
 #### **Objective and summary:**

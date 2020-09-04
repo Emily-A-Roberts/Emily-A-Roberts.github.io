@@ -17,8 +17,9 @@ tags: geoduck, zymo, dna, rna
   - **Extractions**
   - 6 samples on 20200817
     - all stored for QC on 20200818
-  - 10 samples on 20200818
-    - QC checklist:
+    - 10 samples on 20200818
+
+  - **QC checklist**:
       - Qubit == all 16 samples (from 0818 and 0817)
       - Gel electrophoresis == NA, gel did not take due to an error. Need to complete this for all 16 later
       - Tape Station == completed for 12 samples. Four samples saved for a later date

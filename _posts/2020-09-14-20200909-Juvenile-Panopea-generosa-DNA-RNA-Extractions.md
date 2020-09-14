@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 20200910 Juvenile Panopea generosa DNA RNA Extractions
+title: 20200909 Juvenile Panopea generosa DNA RNA Extractions
 date: '2020-09-14'
 categories: Processing
 tags: geoduck, zymo, extractions, dna, rna

@@ -88,6 +88,6 @@ tags: geoduck, extractions, zymop, dna, rna, tagseq
 ### TapeStation Results
 ----------
 
-Run 1 [link here]()
+Run 1 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-09-17%20-%2016.44.13.pdf)
 
-Run 2 [link here]()
+Run 2 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-09-17%20-%2017.02.45.pdf)

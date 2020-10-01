@@ -30,4 +30,4 @@ Complete TapeStation for **samples 1632 and 1576**
 ### TapeStation Results (samples 1632 and 1576)
 ----------
 
-Run 1 [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-09-23%20-%2015.03.25.pdf)
+Run [link here](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-10-01%20-%2011.21.05.pdf)

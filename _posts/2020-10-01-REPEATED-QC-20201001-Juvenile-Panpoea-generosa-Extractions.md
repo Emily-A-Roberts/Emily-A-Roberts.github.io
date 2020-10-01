@@ -9,11 +9,11 @@ tags: geoduck, qc, dyna, rna, extractions, repeated
 #### **Objective:**
 
 Repeat Qubit for **sample 350**
-- originally extracted on ![20200826](https://samgurr.github.io/SamJGurr_Lab_Notebook/20200826-Juvenile-Panopea-generosa-DNA-RNA-Extractions/) and QC was completed on ![20200827](https://samgurr.github.io/SamJGurr_Lab_Notebook/20200827-Juvenile-Panopea-generosa-DNA-RNA-Extractions/) showing no DNA or RNA
+- originally extracted on [20200826](https://samgurr.github.io/SamJGurr_Lab_Notebook/20200826-Juvenile-Panopea-generosa-DNA-RNA-Extractions/) and QC was completed on [20200827](https://samgurr.github.io/SamJGurr_Lab_Notebook/20200827-Juvenile-Panopea-generosa-DNA-RNA-Extractions/) showing no DNA or RNA
 
 Complete TapeStation for **samples 1632 and 1576**
-- sample 1576 was originally extracted and QC on ![20200827](https://samgurr.github.io/SamJGurr_Lab_Notebook/20200827-Juvenile-Panopea-generosa-DNA-RNA-Extractions/) was a low  ![Tapestation signal ](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-08-27%20-%2016.55.16.pdf)
-- sample 1632 was originally completed on ![20200923](https://samgurr.github.io/SamJGurr_Lab_Notebook/20200923-Juvenile-Panopea-generosa-DNA-RNA-Extractions/) and the Tapestation was not completed due to a poor Qubit signal.
+- sample 1576 was originally extracted and QC on [20200827](https://samgurr.github.io/SamJGurr_Lab_Notebook/20200827-Juvenile-Panopea-generosa-DNA-RNA-Extractions/) was a low  [Tapestation signal ](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/images/2020-08-27%20-%2016.55.16.pdf)
+- sample 1632 was originally completed on [20200923](https://samgurr.github.io/SamJGurr_Lab_Notebook/20200923-Juvenile-Panopea-generosa-DNA-RNA-Extractions/) and the Tapestation was not completed due to a poor Qubit signal.
 
 ### Qubit Results (sample 350)
 ----------

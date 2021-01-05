@@ -27,7 +27,7 @@ About: This post is adapted from an [Point Whitney OA chemistry protocol](https:
 		- Make a chemistry plan
 
 - [**Tasks**](#Daily-Tasks)
-	- [**I. Check conditions**](#Daily-Tasks)
+	- [**I. Check conditions**](#I-Upon-arrival-to-your-experiment)
 		- CO2 tanks and APEX mobile app
 	- [**II. Tris Calibration**](#II-Tris-Calibration)
 	- [**III. Discrete measurements**](#III-Discrete-tank-measurements)
@@ -96,7 +96,7 @@ Each aspect can alter the frequency to record full carbonate chemistry suitable 
 
 # <a name="Daily_Tasks"></a> **Daily Tasks**:
 
-### I. Upon arrival to your experiment...
+### I. Upon arrival to your experiment
 1. **Check the CO<sub>2</sub> tank** to make sure the black tick mark is just below 1000 PSI. The farthest scale to the left (directly horizontal) is reading the levels of the CO<sub>2</sub> tank. The scales above each CO<sub>2</sub> line reads level of CO<sub>2</sub> in each line directly below it.
 
 	- If the CO<sub>2</sub> tank is low, contact Hollie hputnam@uri.edu asap so more can be ordered. It can take up to 1 week to arrive.

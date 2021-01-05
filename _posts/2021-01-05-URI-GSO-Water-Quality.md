@@ -11,7 +11,7 @@ tags: OA experiment, TA, pH, APEX, temperature, sal, experiment, research, proto
 
 # URI GSO Daily Wet Lab Protocol (OA experiments)
 
-About: This post is adapted from an [Point Whitney OA chemistry protocol]((https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2018-08-10-Daily-Wet-Lab-OA-at-Point-Whitney.md) written by SJG and [CBLS aquarium Room chemistry](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resourses/CBLS_Wetlab_Protocols/20201110_CBLS_WaterQuality_Checklist.Md) written by HG.
+About: This post is adapted from an [Point Whitney OA chemistry protocol](https://github.com/SamGurr/SamJGurr_Lab_Notebook/blob/master/_posts/2018-08-10-Daily-Wet-Lab-OA-at-Point-Whitney.md) written by SJG and [CBLS aquarium Room chemistry](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resourses/CBLS_Wetlab_Protocols/20201110_CBLS_WaterQuality_Checklist.Md) written by HG.
 
 **Important:** tasks outlined here are catered for a pH + TA approach to calculate full carbonate chemistry.
 

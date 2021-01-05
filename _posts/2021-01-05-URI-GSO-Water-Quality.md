@@ -19,29 +19,29 @@ About: This post is adapted from an [Point Whitney OA chemistry protocol](https:
 
 ## Table of contents
 
-- [**Before getting started...**](#Some_materials_to_review)
-	- [**Materials to read**](#Some_materials_to_review)
+- [**Before getting started...**](#Some-materials-to-review)
+	- [**Materials to read**](#Some-materials-to-review)
 	- [**Our equipment**](#Equipment)
 		- Product name, location, abd *set-up/ calibration info here*
-	- [**Think about your experiment**](#Before_getting_started)
+	- [**Think about your experiment**](#Before-getting-started)
 		- Make a chemistry plan
 
-- [**Tasks**](#Daily_Tasks)
-	- [**I. Check conditions**](#Upon_arrival_to_your_experiment...)
+- [**Tasks**](#Daily-Tasks)
+	- [**I. Check conditions**](#Daily-Tasks)
 		- CO2 tanks and APEX mobile app
-	- [**II. Tris Calibration**](#II_Tris_Calibration)
-	- [**III. Discrete measurements**](#III_Discrete_tank_measurements)
-		- [**Data record**](#Data_record)
-		- [**pH**](#pH_measurements)
-		- [**Conductivity (salinity)**](#Conductivity_measurements_salinity)
-		- [**Temperature**](#Temperature_measurements)
-		- [**Other notes**](#Other_notes)
+	- [**II. Tris Calibration**](#II-Tris-Calibration)
+	- [**III. Discrete measurements**](#III-Discrete-tank-measurements)
+		- [**Data record**](#Data-record)
+		- [**pH**](#pH-measurements)
+		- [**Conductivity (salinity)**](#Conductivity-measurements-salinity)
+		- [**Temperature**](#Temperature-measurements)
+		- [**Other notes**](#Other-notes)
 			- when to replace calibration solutions, sampling larval tanks, other measurements, etc.
-		- [**Probe care**](#Probe_care)
-		- [**Probe calibration**](#Probe_calibration)
-	- [**IV. Sample for Total Alkalinity**](#IV_Collecting_Water_Samples_for_Total_Alkalinity)
+		- [**Probe care**](#Probe-care)
+		- [**Probe calibration**](#Probe-calibration)
+	- [**IV. Sample for Total Alkalinity**](#IV-Collecting-Water-Samples-for-Total-Alkalinity)
 
-- [**Daily Data Logging and Backup**](#Daily_Data_Logging_and_Backup)
+- [**Daily Data Logging and Backup**](#Daily-Data-Logging-and-Backup)
 ---------
 
 ### Some materials to review...

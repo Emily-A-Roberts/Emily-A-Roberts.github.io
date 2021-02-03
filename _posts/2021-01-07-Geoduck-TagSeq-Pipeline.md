@@ -6,34 +6,45 @@ categories: Analysis
 tags: tagseq, geoduck, RNA, HISAT2, samtools, StringTie, fastqc, multiqc, fastp
 ---
 
-
-# Geoduck TagSeq Pipeline
+# Geoduck TagSeq Bioinformatics
 
 ## <span style="color:blue">**Table of Contents**</span>
   - [Upon upload to HPC...](#Initial-diagnostics-upon-sequence-upload-to-HPC)
+	  - [Upon upload to HPC...](#Initial-diagnostics-upon-sequence-upload-to-HPC)
       - [Count raw reads](#Count-the-number-of-read-files)
-      - [Digital fingerprint md5sums](#run-checksum) (HPC script)
-  - [Initial quality check](#Quality-check-of-raw-reads) (HPC script)
-  - [Trim and post-trim quality check](#Trimming-and-post-trim-quality-check-of-'clean'-reads) (HPC script)
-  - [HISAT2: Alignment of cleaned reads to reference](#Alignment-of-cleaned-reads-to-reference)
+      - [Digital fingerprint md5sums](#run-checksum) (HPC script; <span style="color:green">**md5_checksum.sh**<span>)
+  - [1. MultiQC: Initial QC](#Quality-check-of-raw-reads) (HPC script; <span style="color:green">**mutliqc.sh**<span>)
+  - [2. Trimming and QC of 'clean' reads](#Trimming-and-post-trim-quality-check-of-'clean'-reads)
+  	- [Remember! polyA tail in TagSeq](#Trimming-polyA-tail)
+	- [fastp - about/commands](#What-this-script-will-do...)
+	- [fastp and MulitiQC: Trim and QC](#shell-script-fastp_multiqc.sh) (HPC script; <span style="color:green">**fastp_mutliqc.sh**<span>)
+  - [3. Alignment of cleaned reads to reference](#HISAT2-Alignment-of-cleaned-reads-to-reference)
 	- [Upload reference genome](#Reference-genome-upload-to-HPC)
-	- [About HISAT2](#HISAT2-alignment)
-	- [About samtools](#samtools)
-	- [Run index and alignment](#HPC-Job-HISAT2-Index-Reference-and-Alignment) (HPC script)
-  - [StringTie: Assembly](#Assembly-and-quantification)
-	- [About StringTie](#StringTie)
+	- [HISAT2 - about/commands](#HISAT2-alignment)
+	- [samtools - about/commands](#samtools)
+	- [HISAT2: Index reference and alignment](#HPC-Job-HISAT2-Index-Reference-and-Alignment) (HPC script; <span style="color:green">**HISAT2.sh**<span>)
+  - [4. Assembly and quantification](#Assembly-and-quantification)
+  	- [Upload annotation reference for assembly](#Upload-annotation-reference-gff-or-gff3-to-HPC)
+	- [StringTie2 - about/commands](#StringTie)
+	- [gffcomapare - about/commands](#gffcompare)
+	- [prepDE.py - about/commands](#Python-step-prepDE.py) (essential prep, load open-source python script for count matrix)
+		- [List HISAT2 output files (for --merge in Stringtie2)](#gtf_list.txt-run) (essential Stringtie2 ```--merge``` prep; **gtf_list.txt** file!)
+		- [List HISAT2 output files (for prepDE.py)](#listGTF.txt-run) (essential prepDE.py prep; **listGTF.txt** file!)
+	- [Stringtie2: Assembly step](#HPC-job-Assembly) (HPC script; <span style="color:green">**Stringtie2.sh**<span>)
+	- [Stringtie2, gffcomapre, prepDE.py: Merge and build read count matrix for DEG analysis](#HPC-job-Merge-and-Build-Read-Count-Matrix-for-DEG-analysis) (HPC script; <span style="color:green">**Stringtie2_merge_prepDEpy.sh**<span>)
 
 
-
-
-## Initial diagnostics upon sequence upload to HPC
+# Initial diagnostics upon sequence upload to HPC
 --------------------------------------------
-#### Count the number of read files
+### Count the number of read files
 ls -1 | wc -l
 
 should equal 141 seq samples *2lanes per sample + 1 md5 = 283
 
-#### run checksum
+**NOTE:** H.Putnam ran transfer_checks.sh and output into the 20201217_Geoduck_TagSeq/ folder
+
+
+# run checksum
 
 ```
 nano transfer_checks.sh
@@ -67,12 +78,13 @@ sbatch transfer_checks.sh
 - compare md5sum of our output URI.md5 file to the UT Library Information pdf; okay the upload - move forward
 
 
-## Quality check of raw reads
+# Quality check of raw reads
 -------------------------------------------
-#### RUN FASTQC and MUTLIQC
+
+**NOTE:** H.Putnam ran fastqc_raw.sh and output into the 20201217_Geoduck_TagSeq/ folder
 
 
-#### shell script: <span style="color:green">**fastqc_raw.sh**<span>
+# shell script: <span style="color:green">**fastqc_raw.sh**<span>
 ```
 #!/bin/bash
 #SBATCH -t 120:00:00
@@ -97,26 +109,57 @@ multiqc /data/putnamlab/KITT/hputnam/20201217_Geoduck_TagSeq/
 
 ```
 
+**Run the sbatch**
+
 ```
 sbatch fastqc_raw.sh
 ```
-- view the multiqc.html report
 
-## Trimming and post-trim quality check of 'clean' reads
+**Export multiqc report**
+
+*exit bluewaves and run from terminal*
+- save to gitrepo as multiqc_clean.html
+```
+scp samuel_gurr@bluewaves.uri.edu:/data/putnamlab/sgurr/Geoduck_TagSeq/output/fastp_mutliQC/multiqc_report.html  C:/Users/samjg/Documents/My_Projects/Pgenerosa_TagSeq_Metabolomics
+```
+
+### IMPORTANT! Quality check multiqc.html before you proceed!
+
+- view the multiqc.html report and note observations to guide trimming!
+  - **Per Sequence GC Content**: double peak of ~0-10% GC and 30-40% GC
+**To do:** *initial peak due to polyA tail?*
+
+  - **Mean Quality Scores*&: >22-2; **To do:** *trim base calls < 30*
+
+  - **Per Base Sequence Content**: 15-25% C and G, 25-28% T, 35-40+% A
+
+  - **Adapter Content**: high adapters present, 1-6% of sequences; **To do:** *trim adapter sequence*
+
+
+# Trimming and post-trim quality check of 'clean' reads
 -------------------------------------------
-- notes from the previous raw data multiqc.html report:
-	- *Per Sequence GC Content*: double peak of ~10% GC and 30-40% GC
-	- *Mean Quality Scores*: > 30
-	- *Per Base Sequence Content*: 15-25% C and G, 25-28% T, 35-40+% A
-	- *Adapter Content*: high adapters present, 1-6% of sequences
-- trim adapter sequence
-- output mutliqc report of the 'clean' reads
-#### shell script: <span style="color:green">**fastp.sh**<span>
 
+### Trimming-polyA-tail
+- Remember that TagSeq involves priming from the polyA tail of mRNA sequences! Thus, we will need to
+trim mononnucleotide sequence of As using fastp (in addition to threshold quality score and adapter(s)!)
+
+
+### What this script will do...
+- ``` --adapter_sequence ``` =
+	- trim adapter sequence ```AGATCGGAAGAGCACACGTCTGAACTCCAGTCA```
+	- common single-end adapter in Illumina. You can run a test on a fastq.gz to count
+- ``` --adapter_fasta``` = polyA_tail.fasta
+	- **create 'polyA_tail.fasta' to call here**
+	- important! ``` --adapter_sequence ``` is called by fastp before ``` --adapter_fasta``` and will call each adapter in the .fasta one-by-one
+	- the sequence distribution of trimmed adapters can be found in the HTML/JSON report
+- ```multiqc ./``` = outputs mutliqc report of the 'clean' reads in the current directory
+
+
+# shell script: <span style="color:green">**fastp_mutliqc.sh**<span>
 ```
 #!/bin/bash
 #SBATCH -t 120:00:00
-#SBATCH --nodes=1 --ntasks-per-node=10
+#SBATCH --nodes=1 --ntasks-per-node=20
 #SBATCH --mem=500GB
 #SBATCH --account=putnamlab
 #SBATCH --export=NONE
@@ -125,8 +168,6 @@ sbatch fastqc_raw.sh
 #SBATCH --output=../../../sgurr/Geoduck_TagSeq/output/clean/"%x_out.%j"
 #SBATCH --error=../../../sgurr/Geoduck_TagSeq/output/clean/"%x_err.%j"
 #SBATCH -D /data/putnamlab/KITT/hputnam/20201217_Geoduck_TagSeq/
-#SBATCH -p putnamlab
-#SBATCH --cpus-per-task=3
 
 # load modules needed
 module load fastp/0.19.7-foss-2018b
@@ -139,7 +180,7 @@ array1=($(ls *.fastq.gz))
 # fastp loop; trim the Read 1 TruSeq adapter sequence
 for i in ${array1[@]}; do
 	fastp --in1 ${i} --out1 ../../../sgurr/Geoduck_TagSeq/output/clean/clean.${i} --adapter_sequence=AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
-    fastqc ../../../sgurr/Geoduck_TagSeq/output/clean/clean.${i}
+        fastqc ../../../sgurr/Geoduck_TagSeq/output/clean/clean.${i}
 done
 
 echo "Read trimming of adapters complete." $(date)
@@ -153,17 +194,17 @@ multiqc ./ #Compile MultiQC report from FastQC files
 echo "Cleaned MultiQC report generated." $(date)
 ```
 
-#### EXPORT MUTLIQC REPORT
+### EXPORT MUTLIQC REPORT
 *exit bluewaves and run from terminal*
 - save to gitrepo as multiqc_clean.html
 ```
 scp samuel_gurr@bluewaves.uri.edu:/data/putnamlab/sgurr/Geoduck_TagSeq/output/clean/multiqc_report.html  C:/Users/samjg/Documents/My_Projects/Geoduck_TagSeq
 ```
 
-## Alignment of cleaned reads to reference
+# Alignment of cleaned reads to reference
 -------------------------------------------
 
-#### Reference genome upload to HPC
+## Reference genome upload to HPC
 
 *exit bluewaves and run from terminal*
 
@@ -177,7 +218,7 @@ scp C:/Users/samjg/Documents/Bioinformatics/genomes/Panopea-generosa-v1.0.fa sam
 -  reference genome file size: 368MB
 -  uploaded to sgurr/refs/
 
-#### HISAT2 alignment
+## HISAT2 alignment
 
 **About:** HISAT2 is a sensitive alignment program for mapping sequencing reads.
 In our case here, we will use HISAT2 to **(1)** index our *P. generosa* reference genome **(2)** align our clean TagSeq reads to the indexed reference genome.
@@ -233,7 +274,7 @@ file to write SAM alignments to. By default, alignments are written to the “st
 Since we already assessed quality and trimmed, we will not use these commands
 
 
-#### samtools
+## samtools
 **About:** used to manipuate alignments to a binary BAM format - files contain the spliced reads alignemnts sorted by the reference position
 with a tag to indicate the genomic strand that produced the RNA from which the read was sequenced.
 samtools quickly extracts alignments overlapping particular genomic regions - outputs allow viewers to quickly display alignments in each genomic region
@@ -250,11 +291,12 @@ Set number of sorting and compression threads. By default, operation is single-t
 
 more information on samtools commands [here](http://www.htslib.org/doc/1.1/samtools.html)
 
-#### HPC Job: HISAT2 Index Reference and Alignment
+## HPC Job: HISAT2 Index Reference and Alignment
+-----------------------------------------------------------------
 
 - create directory output\hisat2
 
-``` mkdir hisat2 ```
+``` mkdir HISAT2 ```
 
 - index reference and alignment
 
@@ -267,7 +309,7 @@ more information on samtools commands [here](http://www.htslib.org/doc/1.1/samto
 - <clean.fasta>.sam *=hisat2 output, readable text file; removed at the end of the script*
 - <clean.fasta>.bam *=converted binary file complementary to the hisat sam files*
 
-#### shell script: <span style="color:green">**hisat2.sh**<span>
+# shell script: <span style="color:green">**HISAT2.sh**<span>
 
 ```
 #!/bin/bash
@@ -328,7 +370,6 @@ ls *R1_001.bam | awk -F '[_]' '{print $1"_"$2}' | sort | uniq > ID
 - for loop using ```samtools``` to merge bam files together by sample ID ('ID' created above)
 - example of files to merge: SG98_S144_L001_R1_001.bam and SG98_S144_L002_R1_001.bam - where 'L001' and 'L002' are the lanes
 and the ID called SG9_S108 as $i below... (note: all .gz file names end with '001.fasta.gz' no matter the lane)
-
 ```
 for i in `cat ./ID`;
 	do samtools merge $i\.bam $i\_L001_R1_001.bam $i\_L002_R1_001.bam;
@@ -337,7 +378,8 @@ for i in `cat ./ID`;
 
 - when run in ```interactive``` mode, this loop takes up to ~1-2 hours
 
-## Assembly and quantification'
+# Assembly and quantification
+-----------------------------------------------------------------
 
 ### Upload annotation reference .gff or .gff3 to HPC
 
@@ -361,7 +403,8 @@ scp C:/Users/samjg/Documents/Bioinformatics/genomes/Pgenerosa_annotations/Panope
 scp C:/Users/samjg/Documents/Bioinformatics/genomes/Pgenerosa_annotations/Panopea-generosa-v1.0.a4.mRNA_SJG.gff3 samuel_gurr@bluewaves.uri.edu:/data/putnamlab/sgurr/refs/
 ```
 
-### StringTie
+## StringTie
+-----------------------------------------
 
 **About:** StringTie is a fast and efficient assembler of RNA-Seq alignments to assemble and quantitate full-length transcripts.  putative transcripts.
 For our use, we will input short mapped reads from HISAT2. StringTie's ouput can be used to identify DEGs in programs such as DESeq2 and edgeR
@@ -402,13 +445,8 @@ If the -G option (reference annotation) is provided, StringTie will assemble the
 
  ```-o <out_gtf>```	output file name for the merged transcripts GTF (default: stdout)
 
-**gtf_list.txt** run...
-
-- ``` ls .gtf > gtf_list.txt```
-- ```--merge``` requires a list file to call each of the gtf files
-
-
-#### gffcompare
+## gffcompare
+-----------------------------
 
 **About:** gffcompare is used to estimate the accuracy of one or more GFF query files compared to a reference annotation
 
@@ -422,7 +460,9 @@ outputs .refmap and .tmap files
 
 ``` -o <outprefix>``` = give a prefix for output files created by gffcompare (i.e. merged)
 
-#### Python step prepDE.py
+
+## Python step prepDE.py
+-----------------------------
 
 **About:** in preparation for differential expression analysis using Bioconductor packages in R (i.e. DESeq2, edgeR, WGCNA),
 we will need to first aquire a matrix of read counts to particular genomic features (i.e. genes). prepDE.py is a Python call to extract
@@ -440,14 +480,23 @@ GTF file on each line (default '.' meaning the working directory is the subdirec
 Alternatively call a **listGTF.txt** file... this file has two columns with the sample ID and the <Path to sample> for the .gtf files
 run the following:
 
+-----------------------------
+
+**gtf_list.txt** run...
+
+- ``` ls .gtf > gtf_list.txt```
+- ```--merge``` requires a list file to call each of the gtf files
+
 **listGTF.txt** run...
 
 - ```for filename in *.gtf; do echo $filename $PWD/$filename; done > listGTF.txt```
 - call this text file ``` -i ``` in  python prepDE.py in the job merge_prepDEpy.sh
 
-## HPC job: Assembly
 
-#### shell script: <span style="color:green">**stringtie.sh**<span>
+# HPC job: Assembly
+-----------------------------------------------------------------
+
+# shell script: <span style="color:green">**stringtie2.sh**<span>
 ```
 #!/bin/bash
 #SBATCH -t 120:00:00
@@ -474,11 +523,12 @@ done
 echo "StringTie assembly COMPLETE, starting assembly analysis" $(date)
 ```
 
-## HPC job: Merge and Build Read Count Matrix for DEG analysis
+# HPC job: Merge and Build Read Count Matrix for DEG analysis
+-----------------------------------------------------------------
 
 - NOTE: you will need the files **gtf_list.txt** and **listGTF.txt** to in your -D working directory (i.e. output/stringtie) to run this job (described above)
 
-### shell script: <span style="color:green">**merge_prepDEpy.sh**<span>
+# shell script: <span style="color:green">**stringtie2_merge_prepDEpy.sh**<span>
 ```
 #!/bin/bash
 #SBATCH -t 120:00:00
@@ -510,5 +560,5 @@ echo "Gene count matrix compiled." $(date)
 
 - save the read count matrix to local pc
 ```
-scp  samuel_gurr@bluewaves.uri.edu:/data/putnamlab/sgurr/Geoduck_TagSeq/output/stringtie/lanes_merged/transcript_count_matrix.csv C:/Users/samjg/Documents/My_Projects/Geoduck_TagSeq/Geoduck_TagSeq
+scp  samuel_gurr@bluewaves.uri.edu:/data/putnamlab/sgurr/Geoduck_TagSeq/output/stringtie/lanes_merged/transcript_count_matrix.csv C:/Users/samjg/Documents/My_Projects/Pgenerosa_TagSeq_Metabolomics/TagSeq/HPC_Bioinf
 ```

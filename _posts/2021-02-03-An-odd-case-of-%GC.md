@@ -1,0 +1,79 @@
+---
+layout: post
+title: An odd case of %GC
+date: '2021-02-03'
+categories: Processing
+tags: Tagseq, fastp, mutliqc, trimming, polyA tail, low complexity filtering
+---
+
+# TagSeq QC: a remedy for low %GC
+
+--------------------------------------------
+### The problem...
+
+'clean' TagSeq reads (trimmed of adpters) fail 'Percent GC Content' in the multi QC report (image below)
+
+![GC multiqc report](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/20210203_lowGC_files.JPG "failed report")
+
+### Filtering attempts...
+
+I used the following **fastp** calls to remove the low GC reads
+- ``` --trim_poly_x ``` = enable polyX trimming in 3' ends
+
+This was my initial gut reaction given that TagSeq targets mRNA polyA tails for short reads. All attempts with this call (i.e. called both 6 and 10 bps) were unsuccessfull!
+
+- ``` --f, --trim_front1```
+
+This was also unsuccessful...
+
+--------------------------------
+### What to do next??
+
+Think about the GC plot attached above. This plots does not imply the position of the read, thus ```--f``` and ```--trim_poly_x``` can be irrelevant. A great next step is to (1) identify clean.gz files that did not pass (2) view the sequences using ```zcat```(3) modify fastp accordingly and rerun, check the same clean.gz file for the outcome of this adjustment
+
+##### (1) identify a clean.gz name that did not pass
+
+Screenshot from the multiqc report,
+I chose to follow the file 'clean.SG103_S164_L002_R1_001.JPG'
+
+![GC multiqc report](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/20210203_lowGC_files.JPG "failed report")
+
+ ##### (2) Run zcat
+
+```
+zcat clean.SG103_S164_L002_R1_001.JPG | head -200
+```
+
+Here is the output in nano.
+Underlined **in yellow** are instances of polyA within the sequence! Note just localized at the 3' end! Circled **in blue and green** are sequences before and after these off reads.
+
+![GC multiqc report](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Inked20210203_zcat_clean.SG103_S164_L002_R1_001.JPG "failed report")
+
+Ideas: This may be the result of sequencing error. Also note that the quality scores are mostly 'F' - I included a phred score filter, but this still seems odd
+
+How to ommit these sequences??
+
+It appears that the affected sequences suffer from low complexity. ```fastp``` defaults a complexity of 20% defined as the percentage of base calls that are different from the next base. I think an increase in this threshold should clear our low GC dilemma!
+
+#### (3) Adjust fastp call with ```--low_complexity_filter``` and ```--complexity_threshold``` and rerun
+
+- ``` --y, --low_complexity_filter``` = run to ajdust the complexity filter (default as 20)
+
+- ``` --Y, --complexity_threshold``` call the threshold for the complexity filtering
+
+the new fastp (with adapter trim and phred score trim) included ``` --y --Y 50```
+for a threshold of complexity of 50%
+
+Run ```zcat`` of the output 'clean.SG103_S164_L002_R1_001' files
+
+```
+zcat clean.SG103_S164_L002_R1_001.JPG | head -200
+```
+
+
+![GC multiqc report](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/20210203_BEFORE.LowComplexTrim.JPG "failed report")
+
+We see here that the two sequences previous in yellow (above) are gone!!! Woop! Now take a break from the screen and wait for them multiQC.html report!
+
+--------------------------------
+### New multiqc.html report

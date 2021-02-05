@@ -6,7 +6,7 @@ categories: Processing
 tags: Tagseq, fastp, mutliqc, trimming, polyA tail, low complexity filtering
 ---
 
-# TagSeq QC: a remedy for low %GC
+# TagSeq QC troubleshooting
 
 --------------------------------------------
 ### The problem...

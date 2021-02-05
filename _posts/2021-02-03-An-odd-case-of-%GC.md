@@ -77,3 +77,9 @@ We see here that the two sequences previous in yellow (above) are gone!!! Woop! 
 
 --------------------------------
 ### New multiqc.html report
+
+#### Did not change??
+
+- need to explore further....
+
+![multiQC](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/20210203_AFTER_lowcomplextrim.JPG "screenshot2")

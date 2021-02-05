@@ -47,7 +47,7 @@ zcat clean.SG103_S164_L002_R1_001.JPG | head -200
 Here is the output in nano.
 Underlined **in yellow** are instances of polyA within the sequence! Note just localized at the 3' end! Circled **in blue and green** are sequences before and after these off reads.
 
-![screenshot](Inked20210203_zcat_clean.SG103_S164_L002_R1_001.jpg "screenshot")
+![screenshot](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Inked20210203_zcat_clean.SG103_S164_L002_R1_001.jpg "screenshot")
 
 Ideas: This may be the result of sequencing error. Also note that the quality scores are mostly 'F' - I included a phred score filter, but this still seems odd
 

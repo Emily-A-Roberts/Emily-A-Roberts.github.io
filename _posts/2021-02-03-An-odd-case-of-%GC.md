@@ -76,10 +76,59 @@ zcat clean.SG103_S164_L002_R1_001.JPG | head -200
 We see here that the two sequences previous in yellow (above) are gone!!! Woop! Now take a break from the screen and wait for them multiQC.html report!
 
 --------------------------------
-### New multiqc.html report
+### New multiqc.html report(s)
 
 #### Did not change??
 
 - need to explore further....
 
 ![multiQC](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/20210203_AFTER_lowcomplextrim.JPG "screenshot2")
+
+This time I used **the following..**
+- ``` --trim_poly_x ``` ==  6
+- - ``` --y, --low_complexity_filter```
+- - ``` --Y, --complexity_threshold```  == 50
+
+```
+#!/bin/bash
+#SBATCH -t 120:00:00
+#SBATCH --nodes=1 --ntasks-per-node=20
+#SBATCH --mem=100GB
+#SBATCH --account=putnamlab
+#SBATCH --export=NONE
+#SBATCH --mail-type=BEGIN,END,FAIL
+#SBATCH --mail-user=samuel_gurr@uri.edu
+#SBATCH --output="%x_out.%j"
+#SBATCH --error="%x_err.%j"
+#SBATCH -D /data/putnamlab/sgurr/Geoduck_TagSeq/output/fastp_multiQC
+
+# load modules needed
+module load fastp/0.19.7-foss-2018b
+module load FastQC/0.11.8-Java-1.8
+module load MultiQC/1.7-foss-2018b-Python-2.7.15
+
+# symbolically link 'clean' reads to hisat2 dir
+ln -s ../../../../KITT/hputnam/20201217_Geoduck_TagSeq/*.fastq.gz ./
+
+# Make an array of sequences to trim
+array1=($(ls *.fastq.gz))
+
+# fastp loop; trim the Read 1 TruSeq adapter sequence; trim poly x default 10 (to trim polyA)
+for i in ${array1[@]}; do
+	fastp --in1 ${i} --out1 clean.${i} --adapter_sequence=AGATCGGAAGAGCACACGTCTGAACTCCAGTCA --trim_poly_x 6 -q 30 -y -Y 50
+        fastqc clean.${i}
+done
+
+echo "Read trimming of adapters complete." $(date)
+
+# Quality Assessment of Trimmed Reads
+
+multiqc ./ #Compile MultiQC report from FastQC files
+
+echo "Cleaned MultiQC report generated." $(date)
+```
+#### Now lets see the multiQC report...
+
+- looks much better!
+
+![GC looks good](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/20210207_AFTER_polyx_and_lowcomplex.JPG "GC looks good")

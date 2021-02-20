@@ -120,5 +120,3 @@ Below I create Venn diagrams to display the overlapping DEG calls between the fu
 
 **What do we see?**
 The full model only calls DEGs under the reference level of the subseqent treatment. The main effect and greoup model call the same DEGs but the main effect models have lower LFC values. Note: these Venn diagrams display DEGs with a cut-off of 1 LFC and 0.05 p adjusted value.
-
-![Venn diagram 2](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Venn_Day14_TagSeq.JPG "Venn diagram 2")

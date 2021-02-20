@@ -61,7 +61,7 @@ tags: DESeq2, TagSeq, mRNA, differential expression, stats, model design, multiv
 
 Consider the following result names output by these models...
 
-#### Results of DESeq2 models
+### Results of DESeq2 models
 
 Remember the *levels* of primary treatment and second treatment from the figure above...
 
@@ -77,7 +77,7 @@ Remember the *levels* of primary treatment and second treatment from the figure 
 
 ```> resultsNames(dds.group) "All_TreatmentAA" "All_TreatmentAM" "All_TreatmentAS" "All_TreatmentMA" "All_TreatmentMM" "All_TreatmentMS"```
 
-**now lets explore the results of the PRIMARY treatment effect ONLY...**
+### **now lets explore the results of the PRIMARY treatment effect ONLY...**
 
 * **Full model** ==
 

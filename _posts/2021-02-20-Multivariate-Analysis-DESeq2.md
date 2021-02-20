@@ -67,19 +67,15 @@ Remember the *levels* of primary treatment and second treatment from the figure 
 
 * **Full** model (with interaction term) ==
 
-```> resultsNames(dds.full)
-"Intercept"                           "Second_Treament_M_vs_A"              "Second_Treament_S_vs_A"              "Primary_Treatment_M_vs_A"
-"Second_TreamentM.Primary_TreatmentM" "Second_TreamentS.Primary_TreatmentM"```
+```> resultsNames(dds.full) "Intercept"  "Second_Treament_M_vs_A"     "Second_Treament_S_vs_A"    "Primary_Treatment_M_vs_A" "Second_TreamentM.Primary_TreatmentM" "Second_TreamentS.Primary_TreatmentM" ```
 
 * **Additive/Main Effects** model (w/o interaction term) ==
 
-```> resultsNames(dds.main)
-"Intercept"                "Second_Treament_M_vs_A"   "Second_Treament_S_vs_A"   "Primary_Treatment_M_vs_A"```
+```> resultsNames(dds.main) "Intercept"                "Second_Treament_M_vs_A"   "Second_Treament_S_vs_A"  "Primary_Treatment_M_vs_A"```
 
 * **Group** model (all contrasts of treatment groups)==
 
-```> resultsNames(dds.group)
-"All_TreatmentAA" "All_TreatmentAM" "All_TreatmentAS" "All_TreatmentMA" "All_TreatmentMM" "All_TreatmentMS"```
+```> resultsNames(dds.group) "All_TreatmentAA" "All_TreatmentAM" "All_TreatmentAS" "All_TreatmentMA" "All_TreatmentMM" "All_TreatmentMS"```
 
 **now lets explore the results of the PRIMARY treatment effect ONLY...**
 
@@ -106,7 +102,7 @@ Remember the *levels* of primary treatment and second treatment from the figure 
 **to test this - run the group calling AA vs MA below...""
 * **Group contrast** - this tests the full model effect above ==
 
-```results(dds.group, contrast = list(("All_TreatmentAA"),("All_TreatmentMA")),  alpha= 0.05)``` 
+```results(dds.group, contrast = list(("All_TreatmentAA"),("All_TreatmentMA")),  alpha= 0.05)```
 
 *result - 10 DEGs* **same as full  model above!!**
 

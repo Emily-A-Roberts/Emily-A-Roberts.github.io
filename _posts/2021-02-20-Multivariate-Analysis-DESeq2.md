@@ -99,7 +99,8 @@ Remember the *levels* of primary treatment and second treatment from the figure 
 
 **IMPORTANT** Why is there this drastic difference in the full model? The reason here is becasue although we are calling the primary treatment ans the effect betwee Ambient and Moderate treatment as our target constrasts, the *interaction in the design* ONLY referes this effect in light of the *reference level of the 'Second_Treatment'!*. Thus the DEGs in the full model results written above are actually A**A** versus M**A** with the second **A** as the reference level (alphabetical unless called otherwise) in the second treatment interaction
 
-**to test this - run the group calling AA vs MA below...""
+**to test this - run the group calling AA vs MA below...**
+
 * **Group contrast** - this tests the full model effect above ==
 
 ```results(dds.group, contrast = list(("All_TreatmentAA"),("All_TreatmentMA")),  alpha= 0.05)```

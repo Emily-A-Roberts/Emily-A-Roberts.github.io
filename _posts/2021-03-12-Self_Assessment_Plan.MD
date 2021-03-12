@@ -49,7 +49,7 @@ tags: Self, Goals
 
 DAY 7 WGCNA - module brown highlights primary treatment effect ambient > moderate (vst transformed expression) 
 
-![Day7_WGCNA](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Day7_WGCNA.JPG "Day7_WGCNA")
+![Day7_WGCNA](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Day7_WGCNA.jpg "Day7_WGCNA")
 
 DAY 7 goseq followup on brown module -  evidence of oxidative stress  + methanionine cycle + ferrous/feric iron pathways
   
@@ -59,7 +59,7 @@ DAY 7 goseq followup on brown module -  evidence of oxidative stress  + methanio
 
 DAY 14 WGCNA - module brown highlights primary treatment effect ambient > moderate (vst transformed expression) 
 
-![Day14_WGCNA](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Day14_WGCNA.JPG "Day14_WGCNA")
+![Day14_WGCNA](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Day14_WGCNA.jpg "Day14_WGCNA")
 
 DAY 14 goseq followup on brown module -  evidence of oxidative stress  + methanionine cycle + ferrous/feric iron pathways
   

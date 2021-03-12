@@ -41,7 +41,7 @@ tags: Self, Goals
 	
 **Rational / Hypothesis for expansion:** 
 	
-	  a. Rationale: From TagSeq data we see the weight of expression trajectory favors higher transcription in the 'ambient' control animals.
+a. Rationale: From TagSeq data we see the weight of expression trajectory favors higher transcription in the 'ambient' control animals.
 	  We also see subsequent encounters elicit complex patterns of expression dependent on stress intensity and conditioning. 
 	  In particular, GO analysis following WGCNA show evidence that transcription post-secondary treatment ( Days 7 and 14 )
 	  upregulated genes asspcaoited with oxidative stess, methanionine cycle (transport of SAM), and ferrix iron transport.

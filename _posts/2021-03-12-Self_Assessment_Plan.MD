@@ -59,7 +59,7 @@ tags: Self, Goals
       Perhaps the 'ambient' phenotype is pushing for transcriptional control via methylation?   
 	  
 	  b. Hypothesis: 
-		- Early stress acclimation increases the NAD pool enahncing sirtuin-medaited deacetylation of histones to spurious transciption under subseqent stress encounters. 
+		- Early stress acclimation increases the NAD pool enhancing sirtuin-medaited deacetylation of histones reducing spurious transciption under subseqent stress encounters (we found downregulated geneExp in moderate conditioned animals). 
 	    - Animals without prior conditioning have open chromatin regions and depend on methyl-transport to regulate transcription during stress encounters. 
 
 ![OA_mechanism_flowchart](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/OA_mechanism_flowchart.JPG "OA_mechanism_flowchart")

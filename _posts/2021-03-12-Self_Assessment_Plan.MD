@@ -45,7 +45,28 @@ tags: Self, Goals
 	  We also see subsequent encounters elicit complex patterns of expression dependent on stress intensity and conditioning. 
 	  In particular, GO analysis following WGCNA show evidence that transcription post-secondary treatment ( Days 7 and 14 )
 	  upregulated genes asspcaoited with oxidative stess, methanionine cycle (transport of SAM), and ferrix iron transport.
-	  
+	  Day14_WGCNA
+
+DAY 7 WGCNA - module brown highlights primary treatment effect ambient > moderate (vst transformed expression) 
+
+![Day7_WGCNA](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Day7_WGCNA.JPG "Day7_WGCNA")
+
+DAY 7 goseq followup on brown module -  evidence of oxidative stress  + methanionine cycle + ferrous/feric iron pathways
+  
+![WGCNA_Day7_moduleBrown_goseq](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/WGCNA_Day7_moduleBrown_goseq.JPG "WGCNA_Day7_moduleBrown_goseq")
+
+
+
+DAY 14 WGCNA - module brown highlights primary treatment effect ambient > moderate (vst transformed expression) 
+
+![Day14_WGCNA](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Day14_WGCNA.JPG "Day14_WGCNA")
+
+DAY 14 goseq followup on brown module -  evidence of oxidative stress  + methanionine cycle + ferrous/feric iron pathways
+  
+![WGCNA_Day14_moduleBrown_goseq](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/WGCNA_Day14_moduleBrown_goseq.JPG "WGCNA_Day14_moduleBrown_goseq")
+
+
+
 	  - **Stress conditioning** (OA induced ROS and/or caloric restriction) --> 
 	  low glycolysis --> 
 	  dependence on OXPHOS + ROS-induced reverse electron transport (RET) --> 

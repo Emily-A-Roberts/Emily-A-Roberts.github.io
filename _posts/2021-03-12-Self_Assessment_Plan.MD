@@ -39,7 +39,7 @@ tags: Self, Goals
 	-	Sequence DNA to compliment TagSeq data - Integrate a multifaceted molecular approach – strengthen findings from mRNA results with non-genetic insight on transcriptional regulation (i.e. methylation, chromatin accessibility - may not be feasible in dissertation timeline). 
 	-	Note: Free RRBS kit from Zymo still available in lab. 
 	
-	**Rational / Hypothesis for expansion:** 
+**Rational / Hypothesis for expansion:** 
 	
 	  a. Rationale: From TagSeq data we see the weight of expression trajectory favors higher transcription in the 'ambient' control animals.
 	  We also see subsequent encounters elicit complex patterns of expression dependent on stress intensity and conditioning. 
@@ -67,7 +67,8 @@ DAY 14 goseq followup on brown module -  evidence of oxidative stress  + methani
 
 
 
-	  - **Stress conditioning** (OA induced ROS and/or caloric restriction) --> 
+
+ - **Stress conditioning** (OA induced ROS and/or caloric restriction) --> 
 	  low glycolysis --> 
 	  dependence on OXPHOS + ROS-induced reverse electron transport (RET) --> 
 	  high NAD --> 

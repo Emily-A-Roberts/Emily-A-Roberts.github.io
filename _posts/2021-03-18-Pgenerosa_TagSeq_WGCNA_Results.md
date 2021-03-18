@@ -64,7 +64,7 @@ There are **three** modules showing significant treatment effects:
 ## DAY 14 
 **What do we see?** 
 
-There are **four** showing significant treatment effects:
+There are **four** modules showing significant treatment effects:
 
 - **brown**:
 	- *WGCNA* = sig positive correlation with ambient (control - no priming) relative to primed animals - as groups we see a effect involving the AM treatment
@@ -94,7 +94,19 @@ There are **four** showing significant treatment effects:
 ## DAY 21 
 **What do we see?** 
 
-There are **four** showing significant treatment effects:
+There are **six** modules showing significant treatment effects:
+We will focus on **three of the six that show primar treatment effects**
+- **magenta + blue (clustered)**:
+	- *WGCNA* = Both have a significant effect of the primary treatment with higher expression in the ambient (control) history relative to the primed animals; when grouped, we see the main differences are in the treatment grops of ASM and ASA 
+	- *vst expression* = genes in both modules hwo higher expression in the ASM group and blue includes also the ASA group 
+	- *goseq* =
+		a. housekeeping, regulation of cell growth and differentiation - GTPase, DNA binding,RNA polymerase, spermadine synthase 
+		a. iron activity - ferric iron binding - carrier proteins invovled in metabolism and immune response; also possible are *ferric iron dependent demethylases such as TET and Jmj-C*
+- **yellow**:
+	- *WGCNA* = Both have a significant effect of the primary treatment with higher expression in  primed history relative to the control; the weight of this difference does not show a specific treatment group at Day 21 (solely main primary effect) 
+	- *vst expression* = genes in this module have higher expression in the mdoerate 'primed' history than the control
+	- *goseq* =
+		a. housekeeping - regulatory proteins ubiquitin, DNA binding, phospholipid binding, GTPase etc. 
 
 
 ![Day21_WGCNA](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Day21_WGCNA.jpg "Day21_WGCNA")

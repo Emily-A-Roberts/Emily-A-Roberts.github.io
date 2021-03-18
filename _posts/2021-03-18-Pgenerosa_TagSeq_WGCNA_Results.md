@@ -16,14 +16,14 @@ tags: pgenerosa, tagseq, WGCNA, RNAseq, gene expression, oxidative stress, horme
 	- Day 14 == after the ambient recovery period (7 days) 
 	- Day 21 == after the third expoosure (7 days) and the end of the experiment 
 
-![Repeat_exposure_TagSeq](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Repeat_exposure_TagSeq.jpg "Repeat_exposure_TagSeq")
+![Repeat_exposure_TagSeq](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Repeat_exposure_TagSeq.JPG "Repeat_exposure_TagSeq")
 
 - **Phenotype review**
 	- 'Primed' phenotype at the end of the experiment (day 21; cumulatively as day 131) had 
 	larger shell size, respiration rate, and tissue biomass. Further, the primed phenotype 
 	had lower total antioxidant capacity relative the the controls (not primed to early-life stress) **depicted below**
 
-![Pgen_phenotype](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Pgen_phenotype.jpg "Pgen_phenotype")
+![Pgen_phenotype](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Pgen_phenotype.JPG "Pgen_phenotype")
 
 ## Why explore gene expression networks?
 To investigate patterns of expression attributed with this phenotype and gain insight on molecular 
@@ -202,7 +202,7 @@ This is possibly the result of...
 	
 - How? Early life stress may increase the NAD pool enhancing sirtuin-medaited deacetylation of histones and condencing transcriptionally active sites
 
-![TagSeq_expand_option1](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/TagSeq_expand_option1.jpg "TagSeq_expand_option1")
+![TagSeq_expand_option1](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/TagSeq_expand_option1.JPG "TagSeq_expand_option1")
 
 
 #### (2) Animals without prior conditioning have open chromatin regions (Hypothesis 1) and may depend on methyl-transport to regulate transcription during stress encounters
@@ -210,7 +210,7 @@ This is possibly the result of...
 *Rationale = Greater oxidative stress, ferric iron activity and  methanionine cycle and SAM-dependent activity in ambient history* 
 
 
-![TagSeq_expand_option2](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/TagSeq_expand_option2.jpg "TagSeq_expand_option2")
+![TagSeq_expand_option2](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/TagSeq_expand_option2.JPG "TagSeq_expand_option2")
 
 
 ## Next steps.... WGBS/methyl-ATACseq and or Metabolimics

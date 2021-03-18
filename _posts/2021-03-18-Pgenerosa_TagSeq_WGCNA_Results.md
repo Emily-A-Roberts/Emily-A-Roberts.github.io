@@ -41,22 +41,38 @@ in our experimental to view pattern in response to the repeated and cumulative s
 There are **three** modules showing significant treatment effects:
 
 - **brown**:
+	
 	- *WGCNA* = sig positive correlation with ambient (control - no priming) relative to primed animals - as groups with second treatment we see AM > MS and AM > MA
+	
 	- *vst expression* = the weight of this primary effect is due to the *lower vst expression in MA and MS treatments*
+	
 	- *goseq* = 
-		a. oxidative stress (glutathione peroxidase)
-		a. methanionine cycle activity and methyl group transfer (methanionine adenosyltransferase activity, SAM-dependent activity)
-		a. fatty acid metabolism (acetyl CoA oxidase activity, lipid binding, lipid transporter activity) 
+		
+		- oxidative stress (glutathione peroxidase)
+		
+		- methanionine cycle activity and methyl group transfer (methanionine adenosyltransferase activity, SAM-dependent activity)
+		
+		- fatty acid metabolism (acetyl CoA oxidase activity, lipid binding, lipid transporter activity) 
+
 - **green**:
+	
 	- *WGCNA* = no sig effect of the primary treatment - as groups with secondary, we see AS > MM
+	
 	- *vst expression* = genes in this module show highest expression in the AS treatment - those not primed and initially exposed to acute *severe treatment (7 days)* 
+	
 	- *goseq* =
-		a. ferric iron binding - (FeII activity)
+		
+		- ferric iron binding - (FeII activity)
+
 - **yellow**
+	
 	- *WGCNA* = sig positive correlation with the primed animals relative control - as groups with second treatment we see a treament effect of the AS treatment
+	
 	- *vst expression* = genes in this modeule show lowers expression in the AS treament - however the main treatment effect is also evident with primed > control
+	
 	- *goseq* =
-		a. housekeeping activity (ion exchange, DNA binding, transcription factor activity, signaling such as MAPK and phosphotyrosine residue binding)
+	
+		- housekeeping activity (ion exchange, DNA binding, transcription factor activity, signaling such as MAPK and phosphotyrosine residue binding)
 
 ![Day7_WGCNA](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Day7_WGCNA.jpg "Day7_WGCNA")
 
@@ -156,23 +172,23 @@ We will focus on **three of the six that show primar treatment effects**
 
 - Why is the **primed** phenotype attributed with **lower expression** of...
 
-		- methanione cycle
-		
-		- oxidative stress response
-		
-		- fatty acid metabolism 
-			
-		- ferric iron transport? 
+	- methanione cycle
+	
+	- oxidative stress response
+
+	- fatty acid metabolism 
+	
+	- ferric iron transport? 
 
 ## A few ideas...
 
-	  This is possibly the result of...
+This is possibly the result of...
 	  
-	  (1) non-genetic transcriptional control aquired over the priming period 
+(1) non-genetic transcriptional control aquired over the priming period 
 	  
-	  (2) post-tranlastional regulation of transcription in the primed phenotype: higher NAD pool during the priming period - active sirtuins - "focused" transcriptional regulation (histones condenced) 
+(2) post-tranlastional regulation of transcription in the primed phenotype: higher NAD pool during the priming period - active sirtuins - "focused" transcriptional regulation (histones condenced) 
      
-	 - We see an upregualtion of methanionine and SAM-dependent activity in the *ambient pheotype without priming!*  does this possibly indicate the ambient phenotype hit with stress is pushing for transcriptional control via methylation?   
+- We see an upregualtion of methanionine and SAM-dependent activity in the *ambient pheotype without priming!*  does this possibly indicate the ambient phenotype hit with stress is pushing for transcriptional control via methylation?   
 
 
 ![OA_mechanism_flowchart](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/OA_mechanism_flowchart.JPG "OA_mechanism_flowchart")
@@ -184,7 +200,7 @@ We will focus on **three of the six that show primar treatment effects**
 
 *Rationale = downregulation of geneExp in moderate conditionined animals* 
 	
-	- How? Early life stress may increase the NAD pool enhancing sirtuin-medaited deacetylation of histones and condencing transcriptionally active sites
+- How? Early life stress may increase the NAD pool enhancing sirtuin-medaited deacetylation of histones and condencing transcriptionally active sites
 
 ![TagSeq_expand_option1](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/TagSeq_expand_option1.jpg "TagSeq_expand_option1")
 

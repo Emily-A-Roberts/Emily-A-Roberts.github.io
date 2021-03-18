@@ -67,26 +67,46 @@ There are **three** modules showing significant treatment effects:
 There are **four** modules showing significant treatment effects:
 
 - **brown**:
+
 	- *WGCNA* = sig positive correlation with ambient (control - no priming) relative to primed animals - as groups we see a effect involving the AM treatment
+
 	- *vst expression* = the weight of this primary effect is due to the *higher vst expression AM treatment*
+
 	- *goseq* = 
-		a. oxidative stress (glutathione peroxidase, glutathione transferase activity)
-		a. methanionine cycle activity and methyl group transfer (methanionine adenosyltransferase activity, )
-		a. fatty acid metabolism (acetyl CoA oxidase activity, lipid binding, lipid transporter activity) 
-		a. proton gradient control (possibly due to hypercapnia?) - proton transmembrane transporter activity
-		a. others to look into are... endopeptidase activity, and carbonyl reductase and dehydrogenase activity
+
+		- oxidative stress (glutathione peroxidase, glutathione transferase activity)
+
+		- methanionine cycle activity and methyl group transfer (methanionine adenosyltransferase activity, )
+
+		- fatty acid metabolism (acetyl CoA oxidase activity, lipid binding, lipid transporter activity) 
+
+		- proton gradient control (possibly due to hypercapnia?) - proton transmembrane transporter activity
+
+		- others to look into are... endopeptidase activity, and carbonyl reductase and dehydrogenase activity
+
 - **black + pink (clustered)**:
+
 	- *WGCNA* = black has a significant primary treatment effect with higher expression in the moderate history - as groups we see both black and pink modules have an effect in the MS treatment
+
 	- *vst expression* = genes in this module show highest expression in the MS treatment - those  primed and secondarily exposed to acute *moderate treatment (7 days)* - furtehr the weight of the primary treatment effect in the black module seems driven by this upregulation trend in the MS treatment
+
 	- *goseq* =
-		a. oxidative stress - superoxide dismutase activity 
-		a. ion exchange / binding
-		a. complex I activity - NADH dehydrogenase 
+
+		- oxidative stress - superoxide dismutase activity 
+
+		- ion exchange / binding
+
+		- complex I activity - NADH dehydrogenase 
+
 - **magenta**
+	
 	- *WGCNA* = opposing effect of the black and pink module - 
+	
 	- *vst expression* = genes in this modeule show lowers expression in the MS treament 
+	
 	- *goseq* =
-		a. housekeeping activity (DNA binding, transcription factor activity, translation, etc.)
+		
+		- housekeeping activity (DNA binding, transcription factor activity, translation, etc.)
 
 
 ![Day14_WGCNA](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Day14_WGCNA.jpg "Day14_WGCNA")
@@ -96,17 +116,28 @@ There are **four** modules showing significant treatment effects:
 
 There are **six** modules showing significant treatment effects:
 We will focus on **three of the six that show primar treatment effects**
+
 - **magenta + blue (clustered)**:
+
 	- *WGCNA* = Both have a significant effect of the primary treatment with higher expression in the ambient (control) history relative to the primed animals; when grouped, we see the main differences are in the treatment grops of ASM and ASA 
+
 	- *vst expression* = genes in both modules hwo higher expression in the ASM group and blue includes also the ASA group 
+
 	- *goseq* =
-		a. housekeeping, regulation of cell growth and differentiation - GTPase, DNA binding,RNA polymerase, spermadine synthase 
-		a. iron activity - ferric iron binding - carrier proteins invovled in metabolism and immune response; also possible are *ferric iron dependent demethylases such as TET and Jmj-C*
+	
+		- housekeeping, regulation of cell growth and differentiation - GTPase, DNA binding,RNA polymerase, spermadine synthase 
+
+		- iron activity - ferric iron binding - carrier proteins invovled in metabolism and immune response; also possible are *ferric iron dependent demethylases such as TET and Jmj-C*
+
 - **yellow**:
+
 	- *WGCNA* = Both have a significant effect of the primary treatment with higher expression in  primed history relative to the control; the weight of this difference does not show a specific treatment group at Day 21 (solely main primary effect) 
+
 	- *vst expression* = genes in this module have higher expression in the mdoerate 'primed' history than the control
+
 	- *goseq* =
-		a. housekeeping - regulatory proteins ubiquitin, DNA binding, phospholipid binding, GTPase etc. 
+		
+		- housekeeping - regulatory proteins ubiquitin, DNA binding, phospholipid binding, GTPase etc. 
 
 
 ![Day21_WGCNA](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Day21_WGCNA.jpg "Day21_WGCNA")

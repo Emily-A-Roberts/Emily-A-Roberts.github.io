@@ -141,3 +141,72 @@ We will focus on **three of the six that show primar treatment effects**
 
 
 ![Day21_WGCNA](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Day21_WGCNA.jpg "Day21_WGCNA")
+
+
+
+# Rational / Hypothesis for expansion:
+
+ - **Stress conditioning** (OA induced ROS and/or caloric restriction) --> 
+	  low glycolysis --> 
+	  dependence on OXPHOS + ROS-induced reverse electron transport (RET) --> 
+	  high NAD --> 
+	  sirtuin activation --> 
+	  deacetylation of proteins in cytosol (activating them) + deaceylation of histones (**histone condensation**) -->
+      **regulated transcription and decrease in spurious transcription**  
+
+- Why is the **primed** phenotype attributed with **lower expression** of...
+
+		- methanione cycle
+		
+		- oxidative stress response
+		
+		- fatty acid metabolism 
+			
+		- ferric iron transport? 
+
+## A few ideas...
+
+	  This is possibly the result of...
+	  
+	  (1) non-genetic transcriptional control aquired over the priming period 
+	  
+	  (2) post-tranlastional regulation of transcription in the primed phenotype: higher NAD pool during the priming period - active sirtuins - "focused" transcriptional regulation (histones condenced) 
+     
+	 - We see an upregualtion of methanionine and SAM-dependent activity in the *ambient pheotype without priming!*  does this possibly indicate the ambient phenotype hit with stress is pushing for transcriptional control via methylation?   
+
+
+![OA_mechanism_flowchart](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/OA_mechanism_flowchart.JPG "OA_mechanism_flowchart")
+
+
+## Hypothesis
+
+#### (1) Early stress acclimation reduces spurious transciption under subseqent stress encounters
+
+*Rationale = downregulation of geneExp in moderate conditionined animals* 
+	
+	- How? Early life stress may increase the NAD pool enhancing sirtuin-medaited deacetylation of histones and condencing transcriptionally active sites
+
+![TagSeq_expand_option1](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/TagSeq_expand_option1.jpg "TagSeq_expand_option1")
+
+
+#### (2) Animals without prior conditioning have open chromatin regions (Hypothesis 1) and may depend on methyl-transport to regulate transcription during stress encounters
+
+*Rationale = Greater oxidative stress, ferric iron activity and  methanionine cycle and SAM-dependent activity in ambient history* 
+
+
+![TagSeq_expand_option2](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/TagSeq_expand_option2.jpg "TagSeq_expand_option2")
+
+
+## Next steps.... WGBS/methyl-ATACseq and or Metabolimics
+
+#### OPTION 1: Metabolomics only 
+
+- main metabolites of interest are NAD+ pool, ATP, SAM, acetylCoA
+
+#### OPTION 2: WGBS/methylATAC-seq only 
+
+- investigate non-genetic (and post translational) transcriptional regulation 
+	
+#### OPTION 3: Metabolomics & WGBS/methylATAC-seq 
+
+ - investigate both the metabolites and non-genetic (or post translational) transcriptional regulation

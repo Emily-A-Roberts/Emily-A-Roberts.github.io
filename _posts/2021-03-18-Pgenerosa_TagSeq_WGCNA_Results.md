@@ -169,7 +169,7 @@ We will focus on **three of the six that show primar treatment effects**
 
 # Rational / Hypothesis for expansion:
 
- - **Thoughts on early stress priming..** (OA induced ROS and/or caloric restriction) 
+### **Thoughts on early stress priming..** (OA induced ROS and/or caloric restriction) 
 	  
 	  - --> high NAD+ (result of OA induced stress and dependence on oxphos for atp prod)  
 	  
@@ -179,7 +179,7 @@ We will focus on **three of the six that show primar treatment effects**
 	  
 	  - ...upon subseqent stress encounters == **regulated signal transduction / transcription and decrease in spurious transcription**  
 
-- **Thoughts on response to stress WITHOUT priming...** 
+### **Thoughts on response to stress WITHOUT priming...** 
 	
 	- --> Hypercapnic conditions release chelated FeII increasing Fenton reaction 
 	
@@ -190,6 +190,7 @@ We will focus on **three of the six that show primar treatment effects**
 	- --> increase in methanionine cycle and SAM-dependent activity -- **dependence on methylation-induced transcriptional regulation?**
 	
 	- NOTE: FeII is needed by demethylases TET and Jmj-C; there can be some complexity here altering the methylome due to (1) evidence of increase in FeII (2) evidence of increase in methyl donor activity
+
 
 - Why is the **primed** phenotype attributed with **lower expression** of...
 

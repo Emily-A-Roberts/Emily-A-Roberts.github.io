@@ -53,6 +53,8 @@ There are **three** modules showing significant treatment effects:
 		- methanionine cycle activity and methyl group transfer (methanionine adenosyltransferase activity, SAM-dependent activity)
 		
 		- fatty acid metabolism (acetyl CoA oxidase activity, lipid binding, lipid transporter activity) 
+		
+		- attentuated fatty acid metabolism - carnitine O-acetyltranserase activity == may mean an accumulation of carnitine; has been shown in isolated mitchondria to remove activated short medium and long chain acyl groups *representative of a defect in mitchondrial fatty acid oxidation* identification of acycarnitines in blood has been used as a proxy for metabolic defect 
 
 - **green**:
 	
@@ -62,7 +64,9 @@ There are **three** modules showing significant treatment effects:
 	
 	- *goseq* =
 		
-		- ferric iron binding - (FeII activity)
+		- metal ion binding - ferric iron binding (FeII activity) and copper ion binding, both iron and copper transport are important to defence against oxidative stress. coppoer also important to iron metabolism. Interestingly, ferric iron is release under low pH intracellular conditions and drives Fenton reaction and is used by DNA demethylases as FeII form (TET and Jmj-C). Copper ions are *a catalyst of the Fenton reaction generating ROS and converting FeII to FeIII*
+		
+		- GTP activity - hydrolysis of GTP to GDP involved in cell growth, differntiation, and migration
 
 - **yellow**
 	
@@ -72,7 +76,10 @@ There are **three** modules showing significant treatment effects:
 	
 	- *goseq* =
 	
-		- housekeeping activity (ion exchange, DNA binding, transcription factor activity, signaling such as MAPK and phosphotyrosine residue binding)
+		- housekeeping activity (ion exchange, DNA binding, transcription factor activity, regualtion of muscle enrgy metabolism by AMP deaminase)
+		
+		- transduction of extracellular signals to cellular response / cell proliferation -  mitogen-activated protein kinase activity (MAPK)  and phosphotyrosine residue binding)
+
 
 ![Day7_WGCNA](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Day7_WGCNA.jpg "Day7_WGCNA")
 

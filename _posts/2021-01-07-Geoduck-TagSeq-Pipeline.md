@@ -160,34 +160,35 @@ trim mononnucleotide sequence of As using fastp (in addition to threshold qualit
 #!/bin/bash
 #SBATCH -t 120:00:00
 #SBATCH --nodes=1 --ntasks-per-node=20
-#SBATCH --mem=500GB
+#SBATCH --mem=100GB
 #SBATCH --account=putnamlab
 #SBATCH --export=NONE
 #SBATCH --mail-type=BEGIN,END,FAIL
 #SBATCH --mail-user=samuel_gurr@uri.edu
-#SBATCH --output=../../../sgurr/Geoduck_TagSeq/output/clean/"%x_out.%j"
-#SBATCH --error=../../../sgurr/Geoduck_TagSeq/output/clean/"%x_err.%j"
-#SBATCH -D /data/putnamlab/KITT/hputnam/20201217_Geoduck_TagSeq/
+#SBATCH --output="%x_out.%j"
+#SBATCH --error="%x_err.%j"
+#SBATCH -D /data/putnamlab/sgurr/Geoduck_TagSeq/output/fastp_multiQC
 
 # load modules needed
 module load fastp/0.19.7-foss-2018b
 module load FastQC/0.11.8-Java-1.8
 module load MultiQC/1.7-foss-2018b-Python-2.7.15
 
-# Make an array of sequences to trim
-array1=($(ls *.fastq.gz))
+# symbolically link 'clean' reads to hisat2 dir
+ln -s ../../../../KITT/hputnam/20201217_Geoduck_TagSeq/*.fastq.gz ./
 
-# fastp loop; trim the Read 1 TruSeq adapter sequence
+# Make an array of sequences to trim
+array1=($(ls *.fastq.gz)) 
+
+# fastp loop; trim the Read 1 TruSeq adapter sequence; trim poly x default 10 (to trim polyA) 
 for i in ${array1[@]}; do
-	fastp --in1 ${i} --out1 ../../../sgurr/Geoduck_TagSeq/output/clean/clean.${i} --adapter_sequence=AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
-        fastqc ../../../sgurr/Geoduck_TagSeq/output/clean/clean.${i}
-done
+	fastp --in1 ${i} --out1 clean.${i} --adapter_sequence=AGATCGGAAGAGCACACGTCTGAACTCCAGTCA --trim_poly_x 6 -q 30 -y -Y 50 
+        fastqc clean.${i}
+done 
 
 echo "Read trimming of adapters complete." $(date)
 
 # Quality Assessment of Trimmed Reads
-
-cd ../../../sgurr/Geoduck_TagSeq/output/clean #The following command will be run in the /clean directory
 
 multiqc ./ #Compile MultiQC report from FastQC files
 
@@ -315,24 +316,24 @@ more information on samtools commands [here](http://www.htslib.org/doc/1.1/samto
 #!/bin/bash
 #SBATCH -t 120:00:00
 #SBATCH --nodes=1 --ntasks-per-node=10
-#SBATCH --mem=500GB
+#SBATCH --mem=200GB
 #SBATCH --account=putnamlab
 #SBATCH --export=NONE
 #SBATCH --mail-type=BEGIN,END,FAIL
 #SBATCH --mail-user=samuel_gurr@uri.edu
 #SBATCH --output="%x_out.%j"
 #SBATCH --error="%x_err.%j"
-#SBATCH -D /data/putnamlab/sgurr/Geoduck_TagSeq/output/hisat2
+#SBATCH -D /data/putnamlab/sgurr/Geoduck_TagSeq/output/HISAT2
 
 #load packages
 module load HISAT2/2.1.0-foss-2018b #Alignment to reference genome: HISAT2
 module load SAMtools/1.9-foss-2018b #Preparation of alignment for assembly: SAMtools
 
 # symbolically link 'clean' reads to hisat2 dir
-ln -s ../clean/*.fastq.gz ./
+ln -s ../fastp_multiQC/clean*.fastq.gz ./ 
 
 # index the reference genome for Panopea generosa output index to working directory
-hisat2-build -f ../../../refs/Panopea-generosa-v1.0.fa ./Pgenerosa_ref
+hisat2-build -f ../../../refs/Panopea-generosa-v1.0.fa ./Pgenerosa_ref # called the reference genome (scaffolds)
 echo "Referece genome indexed. Starting alingment" $(date)
 
 # This script exports alignments as bam files
@@ -340,10 +341,11 @@ echo "Referece genome indexed. Starting alingment" $(date)
 # removes the sam file because it is no longer needed
 array=($(ls *.fastq.gz)) # call the symbolically linked sequences - make an array to align
 for i in ${array[@]}; do
-        hisat2 -p 8 --dta -x Pgenerosa_ref -U ${i} -S ${i}.sam
-        samtools sort -@ 8 -o ${i}.bam ${i}.sam
-                echo "${i} bam-ified!"
-        rm ${i}.sam
+        sample_name=`echo $i| awk -F [.] '{print $2}'`
+	hisat2 -p 8 --dta -x Pgenerosa_ref -U ${i} -S ${sample_name}.sam
+        samtools sort -@ 8 -o ${sample_name}.bam ${sample_name}.sam
+    		echo "${i} bam-ified!"
+        rm ${sample_name}.sam
 done
 ```
 - HISAT2 complete with format prepared for StringTie assembler!
@@ -496,7 +498,7 @@ run the following:
 # HPC job: Assembly
 -----------------------------------------------------------------
 
-# shell script: <span style="color:green">**stringtie2.sh**<span>
+# shell script: <span style="color:green">**Stringtie2.sh**<span>
 ```
 #!/bin/bash
 #SBATCH -t 120:00:00
@@ -508,16 +510,16 @@ run the following:
 #SBATCH --mail-user=samuel_gurr@uri.edu
 #SBATCH --output="%x_out.%j"
 #SBATCH --error="%x_err.%j"
-#SBATCH -D /data/putnamlab/sgurr/Geoduck_TagSeq/output/stringtie
+#SBATCH -D /data/putnamlab/sgurr/Geoduck_TagSeq/output/Stringtie2
 
 #load packages
 module load StringTie/2.1.1-GCCcore-7.3.0 #Transcript assembly: StringTie
 
-array=($(ls ../hisat2/*.bam)) #Make an array of sequences to assemble
-
+array=($(ls ../HISAT2/*.bam)) #Make an array of sequences to assemble
+ 
 for i in ${array[@]}; do #Running with the -e option to compare output to exclude novel genes. Also output a file with the gene abundances
         sample_name=`echo $i| awk -F [_] '{print $1"_"$2"_"$3}'`
-	stringtie -p 8 -e -B -G ../../../refs/Panopea-generosa-v1.0.a4.mRNA_SJG.gff3 -A ./${sample_name}.gene_abund.tab -o ./${sample_name}.gtf ${i}
+	stringtie -p 8 -e -B -G ../../../refs/Panopea-generosa-v1.0.a4.mRNA_SJG.gff3 -A ../Stringtie2/${sample_name}.gene_abund.tab -o ../Stringtie2/${sample_name}.gtf ${i}
         echo "StringTie assembly for seq file ${i}" $(date)
 done
 echo "StringTie assembly COMPLETE, starting assembly analysis" $(date)
@@ -528,7 +530,7 @@ echo "StringTie assembly COMPLETE, starting assembly analysis" $(date)
 
 - NOTE: you will need the files **gtf_list.txt** and **listGTF.txt** to in your -D working directory (i.e. output/stringtie) to run this job (described above)
 
-# shell script: <span style="color:green">**stringtie2_merge_prepDEpy.sh**<span>
+# shell script: <span style="color:green">**mergeStringtie2_gffcompare_prepDE**<span>
 ```
 #!/bin/bash
 #SBATCH -t 120:00:00
@@ -540,7 +542,7 @@ echo "StringTie assembly COMPLETE, starting assembly analysis" $(date)
 #SBATCH --mail-user=samuel_gurr@uri.edu
 #SBATCH --output="%x_out.%j"
 #SBATCH --error="%x_err.%j"
-#SBATCH -D /data/putnamlab/sgurr/Geoduck_TagSeq/output/stringtie
+#SBATCH -D /data/putnamlab/sgurr/Geoduck_TagSeq/output/Stringtie2
 
 #load packages
 module load Python/2.7.15-foss-2018b #Python

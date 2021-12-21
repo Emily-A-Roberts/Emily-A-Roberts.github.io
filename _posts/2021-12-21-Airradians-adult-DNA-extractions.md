@@ -6,11 +6,7 @@ categories: Protocols
 tags: scallops, NOAA, postdoc
 ---
 
-# DNA extractions of adult *Argopecten irradians*
-
 ...the following protocol is adapted from the OMEGA EZNA Tissiue kit [online here](https://www.omegabiotek.com/product/tissue-and-blood-kit-genomic-dna-isolation-mag-bind-hdq-96//?utm_source=google&utm_medium=ppc&utm_campaign=129226557820&utm_term=genomic%20dna%20kit&utm_content=b&gclid=Cj0KCQiAk4aOBhCTARIsAFWFP9Hk4nHWwBMEfQJn8dofM2zr4KgVOSZEOPRjmGg8QJln9ruYIzzn9aIaArqIEALw_wcB)
-
-**EZNA Tissue DNA kit extraction protocol**
 
 ## Before getting started!
 

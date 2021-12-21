@@ -76,7 +76,7 @@ If samples are frozen and require dissection, remove from the freezer and let si
 
 
 
-**2.** Add 200 µL of TL Buffer to each tube
+**2.** Add 200 µL of **TL Buffer** to each tube
 Note: if sample is 40-60 mg use 400 µL TL Buffer
 
 - Alternative: Add 200 µL TL Buffer to nuclease-free tube beforehand - add the dissected tissue sample straight to the TL buffer
@@ -86,46 +86,48 @@ Dissect 30 mg of tissue from thawed sample and add to the bead tube. Run on bead
 Pipette supernatant to a 1.5 mL microcentrifuge tube
 
 
-**3.** Add 25 μL Proteinase K Solution. Vortex to mix thoroughly
+**3.** Add 25 μL **Proteinase K Solution**. Vortex to mix thoroughly
 
-**4.** Incubate at 55°C in a shaking water bath. (incu-shaker)
+**4.** Incubate at **55°C** in a shaking water bath. (incushaker is available at the lab)
+
+- Note: If using the incushaker, set to 55C and 60 RPM overnight or for 3 hours before proceeding. Considering the time to dissect adult tissue it may be easiest to prep us to the Proteinase K step here and incubate overnight
 
 - Note: If a shaking water bath is not available, vortex the sample every 20-30 minutes. Lysis time depends on the amount and type of tissue used. The average time is usually less than 3 hours. Lysis can proceed overnight.
 
-- Note: once completed and samples are removed, heat instrument (shaking water bath or incubator) to 70°C to prepare for the next use later in procedure…
-Add [N samples * 100-200 µL Elution Buffer] to the incubator at 70°C
+- Note: once completed and samples are removed, heat instrument (shaking water bath or incubator) to **70°C to prepare for the next use** later in procedure…
+Add **[N samples * 100-200 µL Elution Buffer]** to the incubator at 70°C
 
 **5.** Centrifuge at maximum speed (≥10,000 x g) for 5 minutes.
 
 **6.** Transfer the supernatant to a sterile 1.5 mL microcentrifuge tube (nuclease free?) Do not disturb or transfer any of the insoluble pellet.
 
-**7.** Add 220 μL BL Buffer. Vortex to mix thoroughly. A wispy precipitate may form upon the addition of BL Buffer. This is does not interfere with DNA recovery
+**7.** Add 220 μL **BL Buffer**. Vortex to mix thoroughly. A wispy precipitate may form upon the addition of BL Buffer. This is does not interfere with DNA recovery
 
 - Note: Adjust the volume of BL Buffer based on the amount of starting material.
 
 - example: If you used 400 µL of TL Buffer then add 420 µL BL Buffer and 420 µL 100% ethanol.
 
-**8.** Incubate at 70°C for 10 minutes.
+**8.** Incubate at **70°C for 10 minutes**.
 
-**9.** Add 220 μL 100% ethanol. Adjust the volume of ethanol required based on the amount of starting material. Vortex to mix thoroughly.
+**9.** Add 220 μL **100% ethanol**. Adjust the volume of ethanol required based on the amount of starting material. Vortex to mix thoroughly.
 
-- if 40 mg tissue use 292 µL; 50 mg tissue use 370 µL; 60 mg tissue
+- Note: if 40 mg tissue use 292 µL; 50 mg tissue use 370 µL; 60 mg tissue
 
 **10.** Prep spin columns and collection tubes. Insert a HiBind® DNA Mini Column into a 2 mL Collection Tube.
 
-**11.** Transfer the entire sample from Step 9 to the HiBind® DNA Mini Column including any precipitates that may have formed.
+**11.** **Transfer the entire sample** from Step 9 to the HiBind® DNA Mini Column including any precipitates that may have formed.
 
-**12.** Centrifuge at maximum speed (≥10,000 x g) for 1 minute. Discard the filtrate and reuse the collection tube.
+**12.** Centrifuge at maximum speed (≥10,000 x g) for 1 minute. Discard the filtrate **and reuse** the collection tube.
 
-**13.** Add 500 μL HBC Buffer diluted with 100% isopropanol before use (check on lid if this was already done)
+**13.** Add 500 μL **HBC Buffer** diluted with 100% isopropanol before use (check on lid if this was already done)
 
-**14.** Centrifuge at maximum speed (≥10,000 x g) for 30 seconds. Discard the filtrate and collection tube.
+**14.** Centrifuge at maximum speed (≥10,000 x g) for 30 seconds. Discard the filtrate **and** collection tube.
 
-**15.** Insert the HiBind® DNA Mini Column into a new 2 mL Collection Tube.
+**15.** Insert the HiBind® DNA Mini Column into a **new** 2 mL Collection Tube.
 
-**16.** Add 700 μL DNA Wash Buffer diluted with 100% ethanol before use (check on lid if this was already done). Centrifuge at maximum speed (≥10,000 x g) for 30 seconds. Discard the filtrate and reuse the collection tube.
+**16.** Add 700 μL **DNA Wash Buffer** diluted with 100% ethanol before use (check on lid if this was already done). Centrifuge at maximum speed (≥10,000 x g) for 30 seconds. Discard the filtrate **and reuse** the collection tube.
 
-**17.** Repeat Step 16 for a second DNA Wash Buffer wash step.
+**17.** **Repeat** Step 16 for a second DNA Wash Buffer wash step.
 
 **18.** Centrifuge the empty HiBind® DNA Mini Column at maximum speed (≥10,000 x g) for 2 minutes to dry the column.
 
@@ -133,11 +135,11 @@ Add [N samples * 100-200 µL Elution Buffer] to the incubator at 70°C
 
 **19.** Transfer the HiBind® DNA Mini Column into a nuclease-free 1.5 mL microcentrifuge tube.
 
-**20.** Add 100-200 μL Elution Buffer heated to 70°C. Let sit at room temperature for 2 minutes. Centrifuge at maximum speed (≥10,000 x g) for 1 minute. DO NOT discard, this is your eluted DNA sample for quality check, library prep, and (fingers crossed) sequencing!
+**20.** Add 100-200 μL **Elution Buffer heated to 70°C**. Let sit at room temperature for 2 minutes. Centrifuge at maximum speed (≥10,000 x g) for 1 minute. DO NOT discard, this is your eluted DNA sample for quality check, library prep, and (fingers crossed) sequencing!
 
 - Note: Each 200 μL elution will typically yield of 60-70% of the DNA bound to the column. Thus two elutions will generally yield ~90%. However, increasing the elution volume will reduce the concentration of the final product. To obtain DNA at higher concentrations, elution can be carried out using 50-100 μL Elution Buffer (which slightly reduces overall DNA yield). Volumes lower than 50 μL greatly reduce yields. In some instances yields may be increased by incubating the column at 70°C (rather than at room temperature) upon the addition of Elution Buffer.
 
-**21.** Repeat Steps 20 for a second elution step.
+**21.** **Repeat** Steps 20 for a second elution step.
 
 **22.** This is your sample! Pipette mix and transfer 5 µL to labelled PCR tubes for gel electrophoresis
 

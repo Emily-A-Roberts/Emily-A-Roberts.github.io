@@ -58,21 +58,22 @@ If samples are frozen and require dissection, remove from the freezer and let si
   - wash beakers: dilution bleach, 70% Ethanol, & DI water
   - vessels: large (for adult scallop) and small (for dissected tissue sample) weigh boats work nicely. Especially considering that a ~30 mg tissue sample must be weighed before added to the TL buffer (step 2 in 'Procedure')
 
-- now with your space in order... **thaw adult scallops for ~10-15 minutes** and begin dissection
-
 ![Airradians_adult_dissected](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Airradians_adults_pre_dissection.jpg "Airradians_adult_dissected")
 
-- use clean shucking knife to carefully remove enough shell to expose the adductor muscle
+- now with your space in order... **thaw adult scallops for ~10-15 minutes** and begin dissection
+
 
 ![Airradians_adult_dissected](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Airradians_adult_dissected.jpg "Airradians_adult_dissected")
 
-- dissect desired samples
-  - below is a photo of a large cut of adductor muscle tissue likely ~100-150 mg.
-  - **Important** Samples like this were fixed in 95% ethanol and stored at -20C. These are critical incase the extraction and sanity checks along the way (quality and quantity via gels and Qubit) require re-extraction of this individual.
-
 ![Airradians_adult_dissected](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Airradians_adults_adductor_sample.jpg "Airradians_adult_dissected")
 
-  - the target sample was dissected and weighed targeting ~30 mg. Sample was minced with the same scalpel before proceeding with # 2 below
+- use clean shucking knife to carefully remove enough shell to expose the adductor muscle
+
+- dissect desired samples
+  - **above** are photos of a large cut of adductor muscle tissue likely ~100-150 mg.
+  - Important: Samples like this were fixed in 95% ethanol and stored at -20C. These are critical incase the extraction and sanity checks along the way (quality and quantity via gels and Qubit) require re-extraction of this individual.
+  
+  - Target samples (**smaller than shown above**) were dissected and weighed targeting ~30 mg, minced with the same scalpel before proceeding with # 2 below
 
 
 
@@ -82,8 +83,6 @@ Note: if sample is 40-60 mg use 400 µL TL Buffer
 - Alternative: Add 200 µL TL Buffer to nuclease-free tube beforehand - add the dissected tissue sample straight to the TL buffer
 
 - Note: if sample is 40-60 mg use 400 µL TL Buffer
-Dissect 30 mg of tissue from thawed sample and add to the bead tube. Run on bead beater for 1 minute
-Pipette supernatant to a 1.5 mL microcentrifuge tube
 
 
 **3.** Add 25 μL **Proteinase K Solution**. Vortex to mix thoroughly

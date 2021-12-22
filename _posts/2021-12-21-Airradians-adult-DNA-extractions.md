@@ -95,27 +95,35 @@ Pipette supernatant to a 1.5 mL microcentrifuge tube
 - Note: If a shaking water bath is not available, vortex the sample every 20-30 minutes. Lysis time depends on the amount and type of tissue used. The average time is usually less than 3 hours. Lysis can proceed overnight.
 
 - Note: once completed and samples are removed, heat instrument (shaking water bath or incubator) to **70°C to prepare for the next use** later in procedure…
-Add **[N samples * 100-200 µL Elution Buffer]** to the incubator at 70°C
+
+	- Add **[N samples * 200 µL Elution Buffer]** to the incubator at 70°C (100 ul x2 per sample) 
 
 **5.** Centrifuge at maximum speed (≥10,000 x g) for 5 minutes.
 
-**6.** Transfer the supernatant to a sterile 1.5 mL microcentrifuge tube (nuclease free?) Do not disturb or transfer any of the insoluble pellet.
+**6.** Transfer the supernatant to a sterile (nuclease free) 1.5 mL microcentrifuge tube. Do not disturb or transfer any of the insoluble pellet.
+
+- Note: expect the volume here to be ~200ul  
+
+- Extractions on 12/22/21 of F0 Adult scallop adductor tissue found the pellet was light and not compounded by centrifugation - presented difficulties taking *just* the supernatant. 
+This sample was lysed overnight (~18 hours) at 55°C and 60 RPM on the IncuShaker.  
 
 **7.** Add 220 μL **BL Buffer**. Vortex to mix thoroughly. A wispy precipitate may form upon the addition of BL Buffer. This is does not interfere with DNA recovery
 
-- Note: Adjust the volume of BL Buffer based on the amount of starting material.
+- Note: *Volume here depends on the starting minsced tissue sample!*. Adjust the volume of BL Buffer based on the amount of starting material.
 
-- example: If you used 400 µL of TL Buffer then add 420 µL BL Buffer and 420 µL 100% ethanol.
+- example: If you used 400 µL of TL Buffer (for 40-60 mg of minced tissue) then add 420 µL BL Buffer and 420 µL 100% ethanol.
 
 **8.** Incubate at **70°C for 10 minutes**.
 
 **9.** Add 220 μL **100% ethanol**. Adjust the volume of ethanol required based on the amount of starting material. Vortex to mix thoroughly.
 
-- Note: if 40 mg tissue use 292 µL; 50 mg tissue use 370 µL; 60 mg tissue
+- Note: *Volume here depends on the starting minsced tissue sample!*. If 40 mg tissue use 292 µL; 50 mg tissue use 370 µL; 60 mg tissue
 
 **10.** Prep spin columns and collection tubes. Insert a HiBind® DNA Mini Column into a 2 mL Collection Tube.
 
 **11.** **Transfer the entire sample** from Step 9 to the HiBind® DNA Mini Column including any precipitates that may have formed.
+
+- Note: If 30 mg minced tissue was used (*and the default proceeding volumes..) expect the total volume here to be ~640 ul  
 
 **12.** Centrifuge at maximum speed (≥10,000 x g) for 1 minute. Discard the filtrate **and reuse** the collection tube.
 
@@ -139,8 +147,10 @@ Add **[N samples * 100-200 µL Elution Buffer]** to the incubator at 70°C
 
 - Note: Each 200 μL elution will typically yield of 60-70% of the DNA bound to the column. Thus two elutions will generally yield ~90%. However, increasing the elution volume will reduce the concentration of the final product. To obtain DNA at higher concentrations, elution can be carried out using 50-100 μL Elution Buffer (which slightly reduces overall DNA yield). Volumes lower than 50 μL greatly reduce yields. In some instances yields may be increased by incubating the column at 70°C (rather than at room temperature) upon the addition of Elution Buffer.
 
+- Note: Following these recommendations, I used 100 ul per sample (x2)  
+
 **21.** **Repeat** Steps 20 for a second elution step.
 
-**22.** This is your sample! Pipette mix and transfer 5 µL to labelled PCR tubes for gel electrophoresis
+**22.** This is your sample! Pipette mix and transfer 10 µL to labelled PCR tubes for gel electrophoresis (used 5 ul DNA sample) and Qubit (uses 1 ul sample)
 
 **23.** Store eluted DNA at -20°C.

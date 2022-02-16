@@ -7,8 +7,54 @@ tags: gels, DNA, electrophoresis, lab, benchtop
 ---
 
 
-Gel electrophoresis (ethidium bromide)
-Note: if you are imaging a gel today, turn on the computer for the GenSys software (computer takes a while to boot up) 
+## Gel electrophoresis (ethidium bromide)
+
+Note: this protocol if you are imaging a gel today, turn on the computer for the GenSys software (computer takes a while to boot up) 
+
+Location: Room 18 at Milford lab Building 1
+
+### Materials (chemical): 
+
+- ethidium bromide (aq solultion) 
+
+- agarose I
+
+- 10x TBE
+
+- 1x TBE  
+
+- DI water
+
+- DNA ladder 
+
+- Gel dye 
+
+- Extracted DNA samples (at least 5 ul per sample)
+
+### Materials (non-chemical): 
+
+- 1 L and 250 ml erlenmeyer flask 
+
+- gel tray 
+
+- weighing paper
+
+- microwave 
+
+- clock/timer 
+
+- appropriate pipettes and tips
+
+- funnel for 1 L erlenmeyer
+
+- designated space for ethidium bromide (gels run here)
+
+- GeneSys transilluminator instrument and software
+
+- proper labelled waster containers for solid and liquid containing ethidium bromide 
+
+
+### Protocol: 
 
 1.	For single small box, make a 50mL gel mix
 
@@ -74,11 +120,13 @@ For a 2.5% gel:
 
 21.	Once done, take the tray out of the box and using a Kimwipe, slide the gel into a kimwipe. Bring over to the transilluminator for imaging
 
-22.	Place the gel in the SynGene Gel Box and star the GenSys software
+22.	Place the gel in the SynGene Gel Box and start the GenSys software
 
 23.	Wait to connect to the UV reader – click on gel – DNA agarose gel – ethidium bromide – ‘next’. Allow the picture to be capture and adjust for the best resolution. Save as .jpeg and change to 300 dpi. 
 
 24.	Remove the gel with gloves and kimwipe and dispose in the ethidium bromide waste (under the bench). Dispose the “used” 1x TBE in the gel plate into the same ethidium bromide waster container. 
+	
+	Tip: the "used" 1x TBE can be reused several times before compromising gels beofre disposed. If quality is fine, pour the 1x TBE in the gel *carefully* using a funnel into the 1x TBE earlenmeyer flask.
 
 25. Email your jpeg (or upload to desired google drive folder) and turn off the SynGene transilluminator software and computer.  
 

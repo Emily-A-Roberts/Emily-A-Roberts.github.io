@@ -15,27 +15,27 @@ Last Revised: 20220324 SJ Gurr
 (insert link to the google drive presentation)
 
 
-#### Goals:
+### Goals:
 
 
 
 
 
-#### About probes of interest:
+### About probes of interest:
 
 - add here...
 - add here...
 - add here...
 - add here...
 
-#### SOPs:  
+### SOPs:  
 
 (insert link(s) to our master google drive SOP(s))
 
 C6 Plus manual (BD Biosciences; link here <https://www.bdbiosciences.com/content/dam/bdb/marketing-documents/BD-Accuri-C6-Plus-Users-Guide.pdf>)
 
 
-#### Experimental design/timeline 
+### Experimental design/timeline 
 
 (insert photos of the trial) 
 

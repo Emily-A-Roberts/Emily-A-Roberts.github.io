@@ -15,24 +15,24 @@ Last Revised: 20220324 SJ Gurr
 (insert link to the google drive presentation)
 
 
-#### Goals
+#### Goals:
 
 
 
 
 
-#### probes of interest 
+#### About probes of interest:
 
-	- 
-	-
-	-
-	-
+- add here...
+- add here...
+- add here...
+- add here...
 
-#### SOP 
+#### SOPs:  
 
-(insert link to our master google drive SOP(s))
+(insert link(s) to our master google drive SOP(s))
 
-(insert link to C6 Plus pdf document- to learn more about the instrument..)
+C6 Plus manual (BD Biosciences; link here <https://www.bdbiosciences.com/content/dam/bdb/marketing-documents/BD-Accuri-C6-Plus-Users-Guide.pdf>)
 
 
 #### Experimental design/timeline 
@@ -43,10 +43,10 @@ Last Revised: 20220324 SJ Gurr
 
 - note: the mass flow controller for the 'high' treatment was bumped to 7.0, good to note for future efforts but is merely a snapshot due top the temperature, season, ambient conditions, etc. 
 
-| Carbonate chem  |              |             |               |             | 
+| Carbonate chem  |      pCO2 (uatm)      |       pH      |        add here...       |    add here...         | 
 | -----------     | -----------  | ----------- |  -----------  | ----------- |  
-| Low             |    RUN 1     |    RUN 2    |  RUN 1        |    RUN 2    |        
-| High            |    57.20     |    58.26    |    57.20      |    58.26    |         
+| Low             |    add here... |   add here...   | add here...     |   add here...    |        
+| High            |    add here...    |    add here... |    add here...   |    add here...   |         
   
 
 
@@ -55,22 +55,17 @@ Last Revised: 20220324 SJ Gurr
 |  Steps | Flow Cy Probes |
 |----|-----|
 |  I | SYBR Green + potassium iodide |
-|  II | Blast against genome |
-| III  | Verify putative gene function  |
-|   | - Muscle (with Jalview)  |
-|   |  -  Augustus |
-|   | - Pfam & NCBI blast  |
-| IV  | Design primers  |
-|   | - primer3  |
-|   | - EMBOSS  |
+|  II | add here... |
+| III  | add here... |
+| IV  | add here...  |
 
 
 
-**Figure of flourochromes** from the C6 Plus manual (BD Biosciences; link here <https://www.bdbiosciences.com/content/dam/bdb/marketing-documents/BD-Accuri-C6-Plus-Users-Guide.pdf>)
+**Figure of flourochromes** from the C6 Plus manual (BD Biosciences; like above in 'SOPs')
 
 ![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_BD_Manual_FL_wavelengths.PNG "Flow_cy_BD_Manual_FL_wavelengths")
 
-### I.) SYBR Green + potassium iodide 
+## I.) SYBR Green + potassium iodide 
 
 
 ### I.A.) Initial look with SSC vc FSC
@@ -106,41 +101,37 @@ Last Revised: 20220324 SJ Gurr
 
 *Figure below*: SSC vc FSC plot gated for the FL1 - four new gates created and color coded for cell types:
 
-	- <span style="color:pink">IG</span> = immanture granolocytes
+- <span style="color:pink">IG</span> = immanture granolocytes
 	
-	- <span style="color:purple">MG</span> = mature 
+- <span style="color:purple">MG</span> = mature 
 	
-	- <span style="color:orange">MA</span> = mature granulocytes
+- <span style="color:orange">MA</span> = mature granulocytes
 	
-	- <span style="color:yellowgreen">Degran</span> = degranulated cells
+- <span style="color:yellowgreen">Degran</span> = degranulated cells
 	
-	- <span style="color:red">All</span> = all hemocytes, gated around the entire area after the four cell types/regations were determines
+- <span style="color:red">All</span> = all hemocytes, gated around the entire area after the four cell types/regations were determines
 
 ![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_sscfsc_gated.PNG "Flow_cy_sscfsc_gated")
 
 
+### I.D.) Live vs. dead using FL3 
 
-* scan samples for clouds (write regardingnthe thresholds here 
-* parse out cell type tpe gates 
-* intersection of two different 
-* parse by cell type 
 * call the live and dead regions in FL3 - PerCP-H 
 
-
+## II.) DCFH-DA
 
 DCFH-DA
-* remove the gate for the FL1 that was made with the SYBR green
 
+some notes...
+* remove the gate for the FL1 that was made with the SYBR green
 * diffueses into cell - hydrolyzes trapped in cell -  then oxidizes to DCF by oxided to DCF by ROS and then flouresces 
 * geometric mean - calculated population flourescence? 
 * do we want to normalize by live cells within sample/cell type 
 * mean flourescence intensity - what does this mean? An arbitrary unit? flourecence intensity increases logarithmically - mean is skeweed accurate cannot be estimated due to log scale - geometric mean is teh fourescence intensity of the population 
-* estaimate, 
 
-* How to start gating raw data
 
-Flow_cy_BD_Manual_FL_wavelengths.PNG
 
+Figure dump... drag and drop to above where needed as you edit..
 
 ![Figure](https://samgurr.github.io/SamJGurr_Lab_Notebook/images/Flow_cy_Beads_mature_granulocytes_gates.PNG "Pgen_histology_figs")
 

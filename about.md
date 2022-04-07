@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a marine ecologist and quantitative modeler. 
 
-### More Information
+Check out my website at emilyroberts.blog
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Contact me:
 
-[email@domain.com](mailto:email@domain.com)
+https://www.linkedin.com/in/emily-molly-roberts-993086b/

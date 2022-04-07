@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am a marine invertebrate ecologist. 
-
 Check out my website at emilyroberts.blog
 
 

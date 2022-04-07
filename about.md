@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a marine ecologist and quantitative modeler. 
+I am a marine invertebrate ecologist. 
 
 Check out my website at emilyroberts.blog
 

@@ -65,20 +65,20 @@ Finalize manuscript in summer 2022.
 ## III.	Overall Goals This Year..
 
 (1)	Coding and energetics skills
-i. Develop a pipeline for energetics modeling code so it can be easily reused. Include reference to published code in manuscript.   
-i. Develop expertise in new statistical and ecological modeling methods. Include analyses using these methods in manuscript. 
-i. Reading: Atlantic surfclam population and growth models
+- Develop a pipeline for energetics modeling code so it can be easily reused. Include reference to published code in manuscript.   
+- Develop expertise in new statistical and ecological modeling methods. Include analyses using these methods in manuscript. 
+- Reading: Atlantic surfclam population and growth models
 NOTE: I recently attended a course of Bayesian statistical data analysis, in which I learned about using the BRMS package in R studio with a wide range of linear and nonlinear models. 
 
 (2)	Bioinformatics skills
-i. Collaborate with bioinformatics experts to gain experience using bioinformatic tools to investigate gene expression. 
-i. Iterpret TaqSeq data and write a manuscript of the findings using this new array of skills
-i. Reading: general transcriptomics / gene expression networks 
+- Collaborate with bioinformatics experts to gain experience using bioinformatic tools to investigate gene expression. 
+- Iterpret TaqSeq data and write a manuscript of the findings using this new array of skills
+- Reading: general transcriptomics / gene expression networks 
 NOTE: I recently finalized two post-doc applications proposing work with ddRADseq and methyl-ATAC-seq. I also have a free RRBS kit from Zymo in Putnam Lab that I could give a try funds and time permitting.
 
 (3)	Apply to professorship / postdoc positions and grants
-a.	OAE-PRF NSF postdoc grant application
-b.  Seagrant / west coast postdoc grant applications
-c.	Search more possibilities and continue the conversation (PIs of interest, etc.)
+- 	OAE-PRF NSF postdoc grant application
+-   Seagrant / west coast postdoc grant applications
+- 	Search more possibilities and continue the conversation (PIs of interest, etc.)
 
 (4)	Manuscript publication (More detail above)

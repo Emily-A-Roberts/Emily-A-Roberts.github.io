@@ -1,8 +1,6 @@
-# Molly Roberts
-# 2022 Self-Assessment
-# Goals this year 2022
+# 2022 Self-Assessment - Goals this year 2022
 
-# Credit: Thank you Sam Gurr for the template for this self assessment! 
+## Credit: Thank you Sam Gurr for the template for this self assessment! 
 ---
 layout: post
 title: Self_Assessment_Plan

@@ -2,7 +2,6 @@
 layout: post
 title: Self-Assessment-Plan
 date: '2022-04-07'
-categories: process
 tags: Self, Goals
 ---
 

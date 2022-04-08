@@ -1,13 +1,14 @@
-# 2022 Self-Assessment - Goals this year 2022
+# Goals for 2022
 
 ## Credit: Thank you Sam Gurr for the template for this self assessment! 
 ---
 layout: post
-title: Self_Assessment_Plan
+title: Self-Assessment-Plan
 date: '2022-04-07'
 categories: process
 tags: Self, Goals
 ---
+
 
 ## (1)	RESEARCH AND WRITING GOALS
 

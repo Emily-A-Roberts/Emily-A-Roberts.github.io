@@ -6,9 +6,9 @@ categories: process
 tags: Self, Goals
 ---
 
-# Goals for 2022
+## Goals for 2022
 
-## Credit: Thank you Sam Gurr for the template for this self assessment! 
+### Credit: Thank you Sam Gurr for the template for this self assessment! 
 
 ## (1)	RESEARCH AND WRITING GOALS
 
@@ -80,6 +80,6 @@ NOTE: I recently finalized two post-doc applications proposing work with ddRADse
 (3)	Apply to professorship / postdoc positions and grants
 a.	OAE-PRF NSF postdoc grant application
 b.  Seagrant / west coast postdoc grant applications
-b.	Search more possibilities and continue the conversation (PIs of interest, etc.)
+c.	Search more possibilities and continue the conversation (PIs of interest, etc.)
 
 (4)	Manuscript publication (More detail above)

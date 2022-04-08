@@ -6,7 +6,7 @@ categories: process
 tags: Self, Goals
 ---
 
-## Goals for 2022
+# Goals for 2022
 
 ### Credit: Thank you Sam Gurr for the template for this self assessment! 
 

@@ -19,16 +19,15 @@ Credit: Thank you Sam Gurr for the template for this self assessment!
 
 
 ### i.	Lab mussel energetics project: 
- -	resubmit to MEPS by April 15
- -	edit and submit (fingers crossed)
+ -	resubmission (done Oct 2022)
  
 ### ii.	Field mussel energetics project:
- -	Finalize and submit by May 1
+ -	Finalize and submit
  
  ### iii.	Barnacle energetics project
- -	Finalize all tables and figures by May 15
- -	Draft manuscript by June 1st 2022
- -  Finalize and submit by June 15 2022
+ -	Finalize all tables and figures
+ -	Draft manuscript
+ -      Finalize and submit
 
 
 
@@ -37,7 +36,7 @@ Credit: Thank you Sam Gurr for the template for this self assessment!
 ---------------------------------- 
 
 ### i.	Atlantic surfclam sediment porewater and energetics modeling project: 
- -	Team: install enclosures and outplant surfclams at 4 sites
+ -  Team: install enclosures and outplant surfclams at 4 sites
  -  Shell hash experimental treatment comparison
       - Carbonate content of sediment with and without shell hash
       - Team: Carbonate chemistry of sediment porewater with and without shell hash
@@ -65,7 +64,7 @@ Finalize manuscript in summer 2022.
 		
 ## III.	Overall Goals This Year..
 
-(1)	Coding and energetics skills
+(1)	Coding and ecological modeling skills
 - Develop a pipeline for energetics modeling code so it can be easily reused. Include reference to published code in manuscript.   
 - Develop expertise in new statistical and ecological modeling methods. Include analyses using these methods in manuscript. 
 - Reading: Atlantic surfclam population and growth models
@@ -73,13 +72,12 @@ NOTE: I recently attended a course of Bayesian statistical data analysis, in whi
 
 (2)	Bioinformatics skills
 - Collaborate with bioinformatics experts to gain experience using bioinformatic tools to investigate gene expression. 
-- Iterpret TaqSeq data and write a manuscript of the findings using this new array of skills
+- Iterpret TaqSeq data
 - Reading: general transcriptomics / gene expression networks 
-NOTE: I recently finalized two post-doc applications proposing work with ddRADseq and methyl-ATAC-seq. I also have a free RRBS kit from Zymo in Putnam Lab that I could give a try funds and time permitting.
 
 (3)	Apply to professorship / postdoc positions and grants
 - 	OAE-PRF NSF postdoc grant application
--   Seagrant / west coast postdoc grant applications
+-       Seagrant / mathematical modeling postdoc grant applications
 - 	Search more possibilities and continue the conversation (PIs of interest, etc.)
 
 (4)	Manuscript publication (More detail above)

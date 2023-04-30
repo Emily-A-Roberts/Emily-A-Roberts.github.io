@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Self-Assessment-Plan 2022
+title: Self-Assessment-Plan-2022
 date: '2022-04-07'
 tags: Self, Goals
 ---

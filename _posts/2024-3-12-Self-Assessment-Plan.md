@@ -68,7 +68,7 @@ About: Temporal variability of carbonate chemistry vs. mean carbonate chemistry 
 
 (4)	Applications for permanent positions and grant proposals in quantitative ecology / theoretical biology / ecophysiology  
 -   Government agency openings integrating biological knowledge into management, climate research, and/or capacity building (NOAA, USAID)
--   OAE-PRF NSF postdoc grant application, Nov 10, 2023 (https://www.nsf.gov/pubs/2022/nsf22628/nsf22628.htm#awd_info)
+-   OAE-PRF NSF postdoc grant application, Nov, 2024 (https://www.nsf.gov/pubs/2022/nsf22628/nsf22628.htm#awd_info)
 -   Faculty applications (October - December 2024)
 
 

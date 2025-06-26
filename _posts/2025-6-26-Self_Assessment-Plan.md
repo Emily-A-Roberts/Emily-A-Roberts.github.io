@@ -3,7 +3,7 @@ layout: post
 title: Self-Assessment-Plan-2025
 date: '2025-06-26'
 tags: Self, Goals
-permalink: /self-assessment-plan-2024/
+permalink: /self-assessment-plan-2025/
 ---
 
 ## Goals for 2025

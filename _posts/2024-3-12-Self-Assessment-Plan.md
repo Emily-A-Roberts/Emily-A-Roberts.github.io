@@ -6,6 +6,7 @@ tags: Self, Goals
 permalink: /self-assessment-plan-2024/
 ---
 
+
 ## Goals for 2024
 
 ## (1)	RESEARCH AND WRITING GOALS
